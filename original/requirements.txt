@@ -1,0 +1,18 @@
+# local package
+-e .
+
+# external requirements
+click~=7.1.2
+Sphinx
+coverage
+awscli
+flake8
+scikit-learn
+python-dotenv>=0.5.1
+
+boto3~=1.16.39
+numpy~=1.19.2
+rasterio~=1.1.0
+matplotlib~=3.3.2
+tqdm~=4.54.1
+setuptools~=51.0.0

@@ -1,0 +1,34 @@
+name: omdena-GPSDD
+channels:
+  - pytorch
+  - anaconda
+  - conda-forge
+  - defaults
+dependencies:
+  - numpy
+  - matplotlib
+  - pandas
+  - python=3.7
+  - jupyterlab
+  - geopandas
+  - rasterio
+  - torchvision
+  - cudatoolkit=10.1
+  - torchaudio
+  - pytorch
+  - tensorflow-gpu=2.1
+  - tensorflow-estimator=2.1
+  - rasterstats
+  - osmnx
+  - httpx
+  - owslib
+  - earthengine-api
+  - jupyter_contrib_nbextensions
+  - yapf
+  - pandas-profiling
+  - opencv
+  - tensorflow-datasets
+  - boto3
+  - libarchive
+  - botocore==1.18.18
+  - awscli

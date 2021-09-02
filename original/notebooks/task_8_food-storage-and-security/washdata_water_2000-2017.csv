@@ -1,0 +1,990 @@
+,Country,Region,Service Type,Year,Coverage,Service level
+0,Senegal,Dakar,Drinking water,2017,99.5893,At least basic
+1,Senegal,Dakar,Sanitation,2017,70.6456,At least basic
+2,Senegal,Dakar,Hygiene,2017,63.34134,Basic service
+3,Senegal,Dakar,Drinking water,2017,0.0,Limited service
+4,Senegal,Dakar,Hygiene,2017,14.99058,Limited service
+5,Senegal,Dakar,Sanitation,2017,28.585790000000003,Limited service
+6,Senegal,Dakar,Hygiene,2017,21.66808,No handwashing facility
+7,Senegal,Dakar,Sanitation,2017,0.0,Open defecation
+8,Senegal,Dakar,Drinking water,2017,0.0,Surface water
+9,Senegal,Dakar,Drinking water,2017,0.4107,Unimproved
+10,Senegal,Dakar,Sanitation,2017,0.7686,Unimproved
+11,Senegal,Diourbel,Drinking water,2017,91.78532,At least basic
+12,Senegal,Diourbel,Sanitation,2017,71.65223,At least basic
+13,Senegal,Diourbel,Hygiene,2017,13.27736,Basic service
+14,Senegal,Diourbel,Drinking water,2017,3.22911,Limited service
+15,Senegal,Diourbel,Hygiene,2017,21.17353,Limited service
+16,Senegal,Diourbel,Sanitation,2017,5.71216,Limited service
+17,Senegal,Diourbel,Hygiene,2017,65.54911,No handwashing facility
+18,Senegal,Diourbel,Sanitation,2017,16.26942,Open defecation
+19,Senegal,Diourbel,Drinking water,2017,0.0,Surface water
+20,Senegal,Diourbel,Drinking water,2017,4.98557,Unimproved
+21,Senegal,Diourbel,Sanitation,2017,6.36618,Unimproved
+22,Senegal,Fatick,Drinking water,2017,64.47183000000001,At least basic
+23,Senegal,Fatick,Sanitation,2017,47.06006,At least basic
+24,Senegal,Fatick,Hygiene,2017,8.764289999999999,Basic service
+25,Senegal,Fatick,Drinking water,2017,1.04472,Limited service
+26,Senegal,Fatick,Hygiene,2017,34.46658,Limited service
+27,Senegal,Fatick,Sanitation,2017,13.47112,Limited service
+28,Senegal,Fatick,Hygiene,2017,56.769130000000004,No handwashing facility
+29,Senegal,Fatick,Sanitation,2017,26.391859999999998,Open defecation
+30,Senegal,Fatick,Drinking water,2017,0.5988600000000001,Surface water
+31,Senegal,Fatick,Drinking water,2017,33.88459,Unimproved
+32,Senegal,Fatick,Sanitation,2017,13.07696,Unimproved
+33,Senegal,Kaffrine,Drinking water,2017,87.3195,At least basic
+34,Senegal,Kaffrine,Sanitation,2017,22.00825,At least basic
+35,Senegal,Kaffrine,Hygiene,2017,8.12322,Basic service
+36,Senegal,Kaffrine,Drinking water,2017,7.16668,Limited service
+37,Senegal,Kaffrine,Hygiene,2017,24.10746,Limited service
+38,Senegal,Kaffrine,Sanitation,2017,6.141,Limited service
+39,Senegal,Kaffrine,Hygiene,2017,67.76933000000001,No handwashing facility
+40,Senegal,Kaffrine,Sanitation,2017,33.3974,Open defecation
+41,Senegal,Kaffrine,Drinking water,2017,0.0,Surface water
+42,Senegal,Kaffrine,Drinking water,2017,5.513809999999999,Unimproved
+43,Senegal,Kaffrine,Sanitation,2017,38.45335,Unimproved
+44,Senegal,Kaolack,Drinking water,2017,88.33498,At least basic
+45,Senegal,Kaolack,Sanitation,2017,48.0236,At least basic
+46,Senegal,Kaolack,Hygiene,2017,19.72235,Basic service
+47,Senegal,Kaolack,Drinking water,2017,0.65188,Limited service
+48,Senegal,Kaolack,Hygiene,2017,10.82358,Limited service
+49,Senegal,Kaolack,Sanitation,2017,18.62751,Limited service
+50,Senegal,Kaolack,Hygiene,2017,69.45407,No handwashing facility
+51,Senegal,Kaolack,Sanitation,2017,15.617560000000001,Open defecation
+52,Senegal,Kaolack,Drinking water,2017,0.12445,Surface water
+53,Senegal,Kaolack,Drinking water,2017,10.888689999999999,Unimproved
+54,Senegal,Kaolack,Sanitation,2017,17.73133,Unimproved
+55,Senegal,Kedougou,Drinking water,2017,77.02641,At least basic
+56,Senegal,Kedougou,Sanitation,2017,21.30996,At least basic
+57,Senegal,Kedougou,Hygiene,2017,2.4765900000000003,Basic service
+58,Senegal,Kedougou,Drinking water,2017,3.8917800000000002,Limited service
+59,Senegal,Kedougou,Hygiene,2017,1.6819099999999998,Limited service
+60,Senegal,Kedougou,Sanitation,2017,5.59313,Limited service
+61,Senegal,Kedougou,Hygiene,2017,95.84149000000001,No handwashing facility
+62,Senegal,Kedougou,Sanitation,2017,23.78285,Open defecation
+63,Senegal,Kedougou,Drinking water,2017,1.04158,Surface water
+64,Senegal,Kedougou,Drinking water,2017,18.040229999999998,Unimproved
+65,Senegal,Kedougou,Sanitation,2017,49.31406,Unimproved
+66,Senegal,Kolda,Drinking water,2017,22.216479999999997,At least basic
+67,Senegal,Kolda,Sanitation,2017,15.91651,At least basic
+68,Senegal,Kolda,Hygiene,2017,4.2785400000000005,Basic service
+69,Senegal,Kolda,Drinking water,2017,0.8511200000000001,Limited service
+70,Senegal,Kolda,Hygiene,2017,3.47735,Limited service
+71,Senegal,Kolda,Sanitation,2017,4.70034,Limited service
+72,Senegal,Kolda,Hygiene,2017,92.24412,No handwashing facility
+73,Senegal,Kolda,Sanitation,2017,17.250020000000003,Open defecation
+74,Senegal,Kolda,Drinking water,2017,0.0,Surface water
+75,Senegal,Kolda,Drinking water,2017,76.93239,Unimproved
+76,Senegal,Kolda,Sanitation,2017,62.13312,Unimproved
+77,Senegal,Louga,Drinking water,2017,88.40684,At least basic
+78,Senegal,Louga,Sanitation,2017,60.249230000000004,At least basic
+79,Senegal,Louga,Hygiene,2017,7.00035,Basic service
+80,Senegal,Louga,Drinking water,2017,10.5406,Limited service
+81,Senegal,Louga,Hygiene,2017,20.09119,Limited service
+82,Senegal,Louga,Sanitation,2017,9.964089999999999,Limited service
+83,Senegal,Louga,Hygiene,2017,72.90845,No handwashing facility
+84,Senegal,Louga,Sanitation,2017,20.17844,Open defecation
+85,Senegal,Louga,Drinking water,2017,0.13322,Surface water
+86,Senegal,Louga,Drinking water,2017,0.91935,Unimproved
+87,Senegal,Louga,Sanitation,2017,9.608239999999999,Unimproved
+88,Senegal,Matam,Drinking water,2017,82.58789,At least basic
+89,Senegal,Matam,Sanitation,2017,33.1228,At least basic
+90,Senegal,Matam,Hygiene,2017,4.08895,Basic service
+91,Senegal,Matam,Drinking water,2017,1.58598,Limited service
+92,Senegal,Matam,Hygiene,2017,4.040690000000001,Limited service
+93,Senegal,Matam,Sanitation,2017,8.20852,Limited service
+94,Senegal,Matam,Hygiene,2017,91.87037,No handwashing facility
+95,Senegal,Matam,Sanitation,2017,16.46461,Open defecation
+96,Senegal,Matam,Drinking water,2017,1.3536299999999999,Surface water
+97,Senegal,Matam,Drinking water,2017,14.4725,Unimproved
+98,Senegal,Matam,Sanitation,2017,42.20407,Unimproved
+99,Senegal,Saint-Louis,Drinking water,2017,81.45713,At least basic
+100,Senegal,Saint-Louis,Sanitation,2017,53.35165,At least basic
+101,Senegal,Saint-Louis,Hygiene,2017,8.68815,Basic service
+102,Senegal,Saint-Louis,Drinking water,2017,5.66448,Limited service
+103,Senegal,Saint-Louis,Hygiene,2017,22.51444,Limited service
+104,Senegal,Saint-Louis,Sanitation,2017,16.05309,Limited service
+105,Senegal,Saint-Louis,Hygiene,2017,68.79741,No handwashing facility
+106,Senegal,Saint-Louis,Sanitation,2017,12.37209,Open defecation
+107,Senegal,Saint-Louis,Drinking water,2017,6.35559,Surface water
+108,Senegal,Saint-Louis,Drinking water,2017,6.5228,Unimproved
+109,Senegal,Saint-Louis,Sanitation,2017,18.22317,Unimproved
+110,Senegal,Sedhiou,Drinking water,2017,21.02003,At least basic
+111,Senegal,Sedhiou,Sanitation,2017,56.94839,At least basic
+112,Senegal,Sedhiou,Hygiene,2017,52.07195,Basic service
+113,Senegal,Sedhiou,Drinking water,2017,1.38626,Limited service
+114,Senegal,Sedhiou,Hygiene,2017,24.69116,Limited service
+115,Senegal,Sedhiou,Sanitation,2017,19.68485,Limited service
+116,Senegal,Sedhiou,Hygiene,2017,23.23689,No handwashing facility
+117,Senegal,Sedhiou,Sanitation,2017,4.9459599999999995,Open defecation
+118,Senegal,Sedhiou,Drinking water,2017,0.0,Surface water
+119,Senegal,Sedhiou,Drinking water,2017,77.59371999999999,Unimproved
+120,Senegal,Sedhiou,Sanitation,2017,18.4208,Unimproved
+121,Senegal,Tambacounda,Drinking water,2017,52.36244,At least basic
+122,Senegal,Tambacounda,Sanitation,2017,18.93976,At least basic
+123,Senegal,Tambacounda,Hygiene,2017,7.85415,Basic service
+124,Senegal,Tambacounda,Drinking water,2017,2.33488,Limited service
+125,Senegal,Tambacounda,Hygiene,2017,3.0110799999999998,Limited service
+126,Senegal,Tambacounda,Sanitation,2017,5.03031,Limited service
+127,Senegal,Tambacounda,Hygiene,2017,89.13476999999999,No handwashing facility
+128,Senegal,Tambacounda,Sanitation,2017,15.824079999999999,Open defecation
+129,Senegal,Tambacounda,Drinking water,2017,1.24815,Surface water
+130,Senegal,Tambacounda,Drinking water,2017,44.05454,Unimproved
+131,Senegal,Tambacounda,Sanitation,2017,60.20585,Unimproved
+132,Senegal,Thies,Drinking water,2017,91.99903,At least basic
+133,Senegal,Thies,Sanitation,2017,65.64788,At least basic
+134,Senegal,Thies,Hygiene,2017,27.13989,Basic service
+135,Senegal,Thies,Drinking water,2017,0.5513100000000001,Limited service
+136,Senegal,Thies,Hygiene,2017,24.49471,Limited service
+137,Senegal,Thies,Sanitation,2017,14.858310000000001,Limited service
+138,Senegal,Thies,Hygiene,2017,48.365390000000005,No handwashing facility
+139,Senegal,Thies,Sanitation,2017,13.19045,Open defecation
+140,Senegal,Thies,Drinking water,2017,0.0,Surface water
+141,Senegal,Thies,Drinking water,2017,7.449660000000001,Unimproved
+142,Senegal,Thies,Sanitation,2017,6.30336,Unimproved
+143,Senegal,Ziguinchor,Drinking water,2017,33.83222,At least basic
+144,Senegal,Ziguinchor,Sanitation,2017,61.9723,At least basic
+145,Senegal,Ziguinchor,Hygiene,2017,62.703880000000005,Basic service
+146,Senegal,Ziguinchor,Drinking water,2017,1.0175299999999998,Limited service
+147,Senegal,Ziguinchor,Hygiene,2017,18.7156,Limited service
+148,Senegal,Ziguinchor,Sanitation,2017,21.25713,Limited service
+149,Senegal,Ziguinchor,Hygiene,2017,18.58052,No handwashing facility
+150,Senegal,Ziguinchor,Sanitation,2017,3.20358,Open defecation
+151,Senegal,Ziguinchor,Drinking water,2017,0.0,Surface water
+152,Senegal,Ziguinchor,Drinking water,2017,65.15025,Unimproved
+153,Senegal,Ziguinchor,Sanitation,2017,13.56698,Unimproved
+154,Senegal,Dakar,Drinking water,2015,93.57559,At least basic
+155,Senegal,Dakar,Sanitation,2015,62.028459999999995,At least basic
+156,Senegal,Dakar,Hygiene,2015,27.574990000000003,Basic service
+157,Senegal,Dakar,Drinking water,2015,1.1163299999999998,Limited service
+158,Senegal,Dakar,Hygiene,2015,18.80801,Limited service
+159,Senegal,Dakar,Sanitation,2015,37.05173,Limited service
+160,Senegal,Dakar,Hygiene,2015,53.61701,No handwashing facility
+161,Senegal,Dakar,Sanitation,2015,0.33476999999999996,Open defecation
+162,Senegal,Dakar,Drinking water,2015,0.0,Surface water
+163,Senegal,Dakar,Drinking water,2015,5.30808,Unimproved
+164,Senegal,Dakar,Sanitation,2015,0.58505,Unimproved
+165,Senegal,Diourbel,Drinking water,2015,84.1397,At least basic
+166,Senegal,Diourbel,Sanitation,2015,68.873,At least basic
+167,Senegal,Diourbel,Hygiene,2015,24.45136,Basic service
+168,Senegal,Diourbel,Drinking water,2015,1.64202,Limited service
+169,Senegal,Diourbel,Hygiene,2015,1.41154,Limited service
+170,Senegal,Diourbel,Sanitation,2015,4.1581,Limited service
+171,Senegal,Diourbel,Hygiene,2015,74.1371,No handwashing facility
+172,Senegal,Diourbel,Sanitation,2015,15.40121,Open defecation
+173,Senegal,Diourbel,Drinking water,2015,0.0,Surface water
+174,Senegal,Diourbel,Drinking water,2015,14.218279999999998,Unimproved
+175,Senegal,Diourbel,Sanitation,2015,11.567689999999999,Unimproved
+176,Senegal,Fatick,Drinking water,2015,39.97238,At least basic
+177,Senegal,Fatick,Sanitation,2015,28.58247,At least basic
+178,Senegal,Fatick,Hygiene,2015,5.12956,Basic service
+179,Senegal,Fatick,Drinking water,2015,2.1413900000000003,Limited service
+180,Senegal,Fatick,Hygiene,2015,1.0613299999999999,Limited service
+181,Senegal,Fatick,Sanitation,2015,7.74662,Limited service
+182,Senegal,Fatick,Hygiene,2015,93.80911,No handwashing facility
+183,Senegal,Fatick,Sanitation,2015,29.71459,Open defecation
+184,Senegal,Fatick,Drinking water,2015,0.3059,Surface water
+185,Senegal,Fatick,Drinking water,2015,57.580330000000004,Unimproved
+186,Senegal,Fatick,Sanitation,2015,33.95632,Unimproved
+187,Senegal,Kaffrine,Drinking water,2015,76.72918,At least basic
+188,Senegal,Kaffrine,Sanitation,2015,24.94116,At least basic
+189,Senegal,Kaffrine,Hygiene,2015,4.53524,Basic service
+190,Senegal,Kaffrine,Drinking water,2015,5.0450099999999996,Limited service
+191,Senegal,Kaffrine,Hygiene,2015,19.30355,Limited service
+192,Senegal,Kaffrine,Sanitation,2015,8.20025,Limited service
+193,Senegal,Kaffrine,Hygiene,2015,76.16121,No handwashing facility
+194,Senegal,Kaffrine,Sanitation,2015,31.10197,Open defecation
+195,Senegal,Kaffrine,Drinking water,2015,0.0,Surface water
+196,Senegal,Kaffrine,Drinking water,2015,18.22581,Unimproved
+197,Senegal,Kaffrine,Sanitation,2015,35.75662,Unimproved
+198,Senegal,Kaolack,Drinking water,2015,79.33816999999999,At least basic
+199,Senegal,Kaolack,Sanitation,2015,37.116240000000005,At least basic
+200,Senegal,Kaolack,Hygiene,2015,7.98575,Basic service
+201,Senegal,Kaolack,Drinking water,2015,4.01233,Limited service
+202,Senegal,Kaolack,Hygiene,2015,16.48431,Limited service
+203,Senegal,Kaolack,Sanitation,2015,8.49362,Limited service
+204,Senegal,Kaolack,Hygiene,2015,75.52994,No handwashing facility
+205,Senegal,Kaolack,Sanitation,2015,21.02445,Open defecation
+206,Senegal,Kaolack,Drinking water,2015,0.22336,Surface water
+207,Senegal,Kaolack,Drinking water,2015,16.42614,Unimproved
+208,Senegal,Kaolack,Sanitation,2015,33.36568,Unimproved
+209,Senegal,Kedougou,Drinking water,2015,71.55422,At least basic
+210,Senegal,Kedougou,Sanitation,2015,11.456439999999999,At least basic
+211,Senegal,Kedougou,Hygiene,2015,7.68703,Basic service
+212,Senegal,Kedougou,Drinking water,2015,9.583680000000001,Limited service
+213,Senegal,Kedougou,Hygiene,2015,14.500079999999999,Limited service
+214,Senegal,Kedougou,Sanitation,2015,5.3122,Limited service
+215,Senegal,Kedougou,Hygiene,2015,77.8129,No handwashing facility
+216,Senegal,Kedougou,Sanitation,2015,31.082140000000003,Open defecation
+217,Senegal,Kedougou,Drinking water,2015,2.5688299999999997,Surface water
+218,Senegal,Kedougou,Drinking water,2015,16.29328,Unimproved
+219,Senegal,Kedougou,Sanitation,2015,52.14922,Unimproved
+220,Senegal,Kolda,Drinking water,2015,19.64764,At least basic
+221,Senegal,Kolda,Sanitation,2015,13.99864,At least basic
+222,Senegal,Kolda,Hygiene,2015,2.63315,Basic service
+223,Senegal,Kolda,Drinking water,2015,0.79901,Limited service
+224,Senegal,Kolda,Hygiene,2015,5.70402,Limited service
+225,Senegal,Kolda,Sanitation,2015,1.84657,Limited service
+226,Senegal,Kolda,Hygiene,2015,91.66284,No handwashing facility
+227,Senegal,Kolda,Sanitation,2015,7.27952,Open defecation
+228,Senegal,Kolda,Drinking water,2015,0.0,Surface water
+229,Senegal,Kolda,Drinking water,2015,79.55336,Unimproved
+230,Senegal,Kolda,Sanitation,2015,76.87527,Unimproved
+231,Senegal,Louga,Drinking water,2015,70.26841999999999,At least basic
+232,Senegal,Louga,Sanitation,2015,57.72354,At least basic
+233,Senegal,Louga,Hygiene,2015,31.95935,Basic service
+234,Senegal,Louga,Drinking water,2015,11.55766,Limited service
+235,Senegal,Louga,Hygiene,2015,2.2711099999999997,Limited service
+236,Senegal,Louga,Sanitation,2015,5.55656,Limited service
+237,Senegal,Louga,Hygiene,2015,65.76953,No handwashing facility
+238,Senegal,Louga,Sanitation,2015,28.356540000000003,Open defecation
+239,Senegal,Louga,Drinking water,2015,0.0,Surface water
+240,Senegal,Louga,Drinking water,2015,18.173920000000003,Unimproved
+241,Senegal,Louga,Sanitation,2015,8.36336,Unimproved
+242,Senegal,Matam,Drinking water,2015,75.91979,At least basic
+243,Senegal,Matam,Sanitation,2015,48.049409999999995,At least basic
+244,Senegal,Matam,Hygiene,2015,29.89457,Basic service
+245,Senegal,Matam,Drinking water,2015,4.88376,Limited service
+246,Senegal,Matam,Hygiene,2015,3.7803400000000003,Limited service
+247,Senegal,Matam,Sanitation,2015,8.57136,Limited service
+248,Senegal,Matam,Hygiene,2015,66.32509,No handwashing facility
+249,Senegal,Matam,Sanitation,2015,28.664890000000003,Open defecation
+250,Senegal,Matam,Drinking water,2015,0.58024,Surface water
+251,Senegal,Matam,Drinking water,2015,18.616220000000002,Unimproved
+252,Senegal,Matam,Sanitation,2015,14.71434,Unimproved
+253,Senegal,Saint-Louis,Drinking water,2015,83.5822,At least basic
+254,Senegal,Saint-Louis,Sanitation,2015,50.48635,At least basic
+255,Senegal,Saint-Louis,Hygiene,2015,33.753809999999994,Basic service
+256,Senegal,Saint-Louis,Drinking water,2015,4.1628,Limited service
+257,Senegal,Saint-Louis,Hygiene,2015,1.9817900000000002,Limited service
+258,Senegal,Saint-Louis,Sanitation,2015,8.54142,Limited service
+259,Senegal,Saint-Louis,Hygiene,2015,64.2644,No handwashing facility
+260,Senegal,Saint-Louis,Sanitation,2015,16.51855,Open defecation
+261,Senegal,Saint-Louis,Drinking water,2015,0.0,Surface water
+262,Senegal,Saint-Louis,Drinking water,2015,12.255,Unimproved
+263,Senegal,Saint-Louis,Sanitation,2015,24.45368,Unimproved
+264,Senegal,Sedhiou,Drinking water,2015,20.06806,At least basic
+265,Senegal,Sedhiou,Sanitation,2015,10.91883,At least basic
+266,Senegal,Sedhiou,Hygiene,2015,9.85796,Basic service
+267,Senegal,Sedhiou,Drinking water,2015,3.0584700000000002,Limited service
+268,Senegal,Sedhiou,Hygiene,2015,4.81062,Limited service
+269,Senegal,Sedhiou,Sanitation,2015,1.92697,Limited service
+270,Senegal,Sedhiou,Hygiene,2015,85.33142,No handwashing facility
+271,Senegal,Sedhiou,Sanitation,2015,6.2045699999999995,Open defecation
+272,Senegal,Sedhiou,Drinking water,2015,0.0,Surface water
+273,Senegal,Sedhiou,Drinking water,2015,76.87347,Unimproved
+274,Senegal,Sedhiou,Sanitation,2015,80.94963,Unimproved
+275,Senegal,Tambacounda,Drinking water,2015,48.88159,At least basic
+276,Senegal,Tambacounda,Sanitation,2015,14.39037,At least basic
+277,Senegal,Tambacounda,Hygiene,2015,1.88662,Basic service
+278,Senegal,Tambacounda,Drinking water,2015,2.0762099999999997,Limited service
+279,Senegal,Tambacounda,Hygiene,2015,10.049489999999999,Limited service
+280,Senegal,Tambacounda,Sanitation,2015,6.6283199999999995,Limited service
+281,Senegal,Tambacounda,Hygiene,2015,88.06389,No handwashing facility
+282,Senegal,Tambacounda,Sanitation,2015,14.214839999999999,Open defecation
+283,Senegal,Tambacounda,Drinking water,2015,0.0,Surface water
+284,Senegal,Tambacounda,Drinking water,2015,49.0422,Unimproved
+285,Senegal,Tambacounda,Sanitation,2015,64.76648,Unimproved
+286,Senegal,Thies,Drinking water,2015,87.75315,At least basic
+287,Senegal,Thies,Sanitation,2015,65.81017,At least basic
+288,Senegal,Thies,Hygiene,2015,6.9466399999999995,Basic service
+289,Senegal,Thies,Drinking water,2015,3.38346,Limited service
+290,Senegal,Thies,Hygiene,2015,3.6886300000000003,Limited service
+291,Senegal,Thies,Sanitation,2015,14.63885,Limited service
+292,Senegal,Thies,Hygiene,2015,89.36471999999999,No handwashing facility
+293,Senegal,Thies,Sanitation,2015,9.89782,Open defecation
+294,Senegal,Thies,Drinking water,2015,0.0,Surface water
+295,Senegal,Thies,Drinking water,2015,8.863380000000001,Unimproved
+296,Senegal,Thies,Sanitation,2015,9.65317,Unimproved
+297,Senegal,Ziguinchor,Drinking water,2015,33.82268,At least basic
+298,Senegal,Ziguinchor,Sanitation,2015,28.01574,At least basic
+299,Senegal,Ziguinchor,Hygiene,2015,9.587539999999999,Basic service
+300,Senegal,Ziguinchor,Drinking water,2015,0.84167,Limited service
+301,Senegal,Ziguinchor,Hygiene,2015,5.38791,Limited service
+302,Senegal,Ziguinchor,Sanitation,2015,11.42393,Limited service
+303,Senegal,Ziguinchor,Hygiene,2015,85.02455,No handwashing facility
+304,Senegal,Ziguinchor,Sanitation,2015,7.071739999999999,Open defecation
+305,Senegal,Ziguinchor,Drinking water,2015,0.0,Surface water
+306,Senegal,Ziguinchor,Drinking water,2015,65.33565,Unimproved
+307,Senegal,Ziguinchor,Sanitation,2015,53.48859,Unimproved
+308,Senegal,Dakar,Drinking water,2013,96.32856,At least basic
+309,Senegal,Dakar,Sanitation,2013,57.26121,At least basic
+310,Senegal,Dakar,Hygiene,2013,21.81795,Basic service
+311,Senegal,Dakar,Drinking water,2013,1.86569,Limited service
+312,Senegal,Dakar,Hygiene,2013,24.88162,Limited service
+313,Senegal,Dakar,Sanitation,2013,41.337990000000005,Limited service
+314,Senegal,Dakar,Hygiene,2013,53.300419999999995,No handwashing facility
+315,Senegal,Dakar,Sanitation,2013,0.12015999999999999,Open defecation
+316,Senegal,Dakar,Drinking water,2013,0.0,Surface water
+317,Senegal,Dakar,Drinking water,2013,1.80575,Unimproved
+318,Senegal,Dakar,Sanitation,2013,1.28063,Unimproved
+319,Senegal,Diourbel,Drinking water,2013,87.99383,At least basic
+320,Senegal,Diourbel,Sanitation,2013,62.743109999999994,At least basic
+321,Senegal,Diourbel,Hygiene,2013,5.12091,Basic service
+322,Senegal,Diourbel,Drinking water,2013,7.7557100000000005,Limited service
+323,Senegal,Diourbel,Hygiene,2013,12.936860000000001,Limited service
+324,Senegal,Diourbel,Sanitation,2013,5.12948,Limited service
+325,Senegal,Diourbel,Hygiene,2013,81.94223000000001,No handwashing facility
+326,Senegal,Diourbel,Sanitation,2013,23.01604,Open defecation
+327,Senegal,Diourbel,Drinking water,2013,0.0,Surface water
+328,Senegal,Diourbel,Drinking water,2013,4.2504599999999995,Unimproved
+329,Senegal,Diourbel,Sanitation,2013,9.11138,Unimproved
+330,Senegal,Fatick,Drinking water,2013,70.30798,At least basic
+331,Senegal,Fatick,Sanitation,2013,36.7005,At least basic
+332,Senegal,Fatick,Hygiene,2013,6.46155,Basic service
+333,Senegal,Fatick,Drinking water,2013,3.0058700000000003,Limited service
+334,Senegal,Fatick,Hygiene,2013,14.78137,Limited service
+335,Senegal,Fatick,Sanitation,2013,10.59735,Limited service
+336,Senegal,Fatick,Hygiene,2013,78.75708,No handwashing facility
+337,Senegal,Fatick,Sanitation,2013,25.19683,Open defecation
+338,Senegal,Fatick,Drinking water,2013,0.0,Surface water
+339,Senegal,Fatick,Drinking water,2013,26.68615,Unimproved
+340,Senegal,Fatick,Sanitation,2013,27.50532,Unimproved
+341,Senegal,Kaffrine,Drinking water,2013,79.426,At least basic
+342,Senegal,Kaffrine,Sanitation,2013,16.731170000000002,At least basic
+343,Senegal,Kaffrine,Hygiene,2013,1.20339,Basic service
+344,Senegal,Kaffrine,Drinking water,2013,3.5687800000000003,Limited service
+345,Senegal,Kaffrine,Hygiene,2013,4.2879,Limited service
+346,Senegal,Kaffrine,Sanitation,2013,4.744219999999999,Limited service
+347,Senegal,Kaffrine,Hygiene,2013,94.50871,No handwashing facility
+348,Senegal,Kaffrine,Sanitation,2013,55.966440000000006,Open defecation
+349,Senegal,Kaffrine,Drinking water,2013,0.0,Surface water
+350,Senegal,Kaffrine,Drinking water,2013,17.00522,Unimproved
+351,Senegal,Kaffrine,Sanitation,2013,22.55817,Unimproved
+352,Senegal,Kaolack,Drinking water,2013,76.9265,At least basic
+353,Senegal,Kaolack,Sanitation,2013,44.62558,At least basic
+354,Senegal,Kaolack,Hygiene,2013,5.87069,Basic service
+355,Senegal,Kaolack,Drinking water,2013,1.33037,Limited service
+356,Senegal,Kaolack,Hygiene,2013,13.99554,Limited service
+357,Senegal,Kaolack,Sanitation,2013,15.66344,Limited service
+358,Senegal,Kaolack,Hygiene,2013,80.13377,No handwashing facility
+359,Senegal,Kaolack,Sanitation,2013,21.27901,Open defecation
+360,Senegal,Kaolack,Drinking water,2013,0.0,Surface water
+361,Senegal,Kaolack,Drinking water,2013,21.743129999999997,Unimproved
+362,Senegal,Kaolack,Sanitation,2013,18.43197,Unimproved
+363,Senegal,Kedougou,Drinking water,2013,54.77243000000001,At least basic
+364,Senegal,Kedougou,Sanitation,2013,17.2882,At least basic
+365,Senegal,Kedougou,Hygiene,2013,16.31346,Basic service
+366,Senegal,Kedougou,Drinking water,2013,6.76963,Limited service
+367,Senegal,Kedougou,Hygiene,2013,13.47065,Limited service
+368,Senegal,Kedougou,Sanitation,2013,4.36626,Limited service
+369,Senegal,Kedougou,Hygiene,2013,70.21589,No handwashing facility
+370,Senegal,Kedougou,Sanitation,2013,30.29903,Open defecation
+371,Senegal,Kedougou,Drinking water,2013,4.111190000000001,Surface water
+372,Senegal,Kedougou,Drinking water,2013,34.34675,Unimproved
+373,Senegal,Kedougou,Sanitation,2013,48.04652,Unimproved
+374,Senegal,Kolda,Drinking water,2013,22.89049,At least basic
+375,Senegal,Kolda,Sanitation,2013,18.22273,At least basic
+376,Senegal,Kolda,Hygiene,2013,16.66808,Basic service
+377,Senegal,Kolda,Drinking water,2013,0.44333999999999996,Limited service
+378,Senegal,Kolda,Hygiene,2013,20.47227,Limited service
+379,Senegal,Kolda,Sanitation,2013,3.16952,Limited service
+380,Senegal,Kolda,Hygiene,2013,62.85964,No handwashing facility
+381,Senegal,Kolda,Sanitation,2013,13.678270000000001,Open defecation
+382,Senegal,Kolda,Drinking water,2013,0.0,Surface water
+383,Senegal,Kolda,Drinking water,2013,76.66615999999999,Unimproved
+384,Senegal,Kolda,Sanitation,2013,64.92948,Unimproved
+385,Senegal,Louga,Drinking water,2013,75.88385,At least basic
+386,Senegal,Louga,Sanitation,2013,61.781380000000006,At least basic
+387,Senegal,Louga,Hygiene,2013,6.6623399999999995,Basic service
+388,Senegal,Louga,Drinking water,2013,16.3201,Limited service
+389,Senegal,Louga,Hygiene,2013,0.61528,Limited service
+390,Senegal,Louga,Sanitation,2013,2.68315,Limited service
+391,Senegal,Louga,Hygiene,2013,92.72237,No handwashing facility
+392,Senegal,Louga,Sanitation,2013,28.17701,Open defecation
+393,Senegal,Louga,Drinking water,2013,0.8844200000000001,Surface water
+394,Senegal,Louga,Drinking water,2013,6.911630000000001,Unimproved
+395,Senegal,Louga,Sanitation,2013,7.358460000000001,Unimproved
+396,Senegal,Matam,Drinking water,2013,69.29423,At least basic
+397,Senegal,Matam,Sanitation,2013,31.776790000000002,At least basic
+398,Senegal,Matam,Hygiene,2013,4.2806,Basic service
+399,Senegal,Matam,Drinking water,2013,3.4938300000000004,Limited service
+400,Senegal,Matam,Hygiene,2013,0.70753,Limited service
+401,Senegal,Matam,Sanitation,2013,9.07623,Limited service
+402,Senegal,Matam,Hygiene,2013,95.01187,No handwashing facility
+403,Senegal,Matam,Sanitation,2013,38.88183,Open defecation
+404,Senegal,Matam,Drinking water,2013,1.48013,Surface water
+405,Senegal,Matam,Drinking water,2013,25.73181,Unimproved
+406,Senegal,Matam,Sanitation,2013,20.26515,Unimproved
+407,Senegal,Saint-Louis,Drinking water,2013,79.11175,At least basic
+408,Senegal,Saint-Louis,Sanitation,2013,46.759570000000004,At least basic
+409,Senegal,Saint-Louis,Hygiene,2013,2.60507,Basic service
+410,Senegal,Saint-Louis,Drinking water,2013,3.21057,Limited service
+411,Senegal,Saint-Louis,Hygiene,2013,1.28783,Limited service
+412,Senegal,Saint-Louis,Sanitation,2013,12.13247,Limited service
+413,Senegal,Saint-Louis,Hygiene,2013,96.1071,No handwashing facility
+414,Senegal,Saint-Louis,Sanitation,2013,30.85823,Open defecation
+415,Senegal,Saint-Louis,Drinking water,2013,2.1350599999999997,Surface water
+416,Senegal,Saint-Louis,Drinking water,2013,15.542620000000001,Unimproved
+417,Senegal,Saint-Louis,Sanitation,2013,10.24974,Unimproved
+418,Senegal,Sedhiou,Drinking water,2013,10.55675,At least basic
+419,Senegal,Sedhiou,Sanitation,2013,12.65173,At least basic
+420,Senegal,Sedhiou,Hygiene,2013,15.90308,Basic service
+421,Senegal,Sedhiou,Drinking water,2013,1.56351,Limited service
+422,Senegal,Sedhiou,Hygiene,2013,20.745810000000002,Limited service
+423,Senegal,Sedhiou,Sanitation,2013,1.01252,Limited service
+424,Senegal,Sedhiou,Hygiene,2013,63.35111,No handwashing facility
+425,Senegal,Sedhiou,Sanitation,2013,16.361720000000002,Open defecation
+426,Senegal,Sedhiou,Drinking water,2013,0.0,Surface water
+427,Senegal,Sedhiou,Drinking water,2013,87.87973000000001,Unimproved
+428,Senegal,Sedhiou,Sanitation,2013,69.97403,Unimproved
+429,Senegal,Tambacounda,Drinking water,2013,42.23718,At least basic
+430,Senegal,Tambacounda,Sanitation,2013,17.21493,At least basic
+431,Senegal,Tambacounda,Hygiene,2013,9.37984,Basic service
+432,Senegal,Tambacounda,Drinking water,2013,3.6728,Limited service
+433,Senegal,Tambacounda,Hygiene,2013,14.145520000000001,Limited service
+434,Senegal,Tambacounda,Sanitation,2013,3.60751,Limited service
+435,Senegal,Tambacounda,Hygiene,2013,76.47464000000001,No handwashing facility
+436,Senegal,Tambacounda,Sanitation,2013,38.31228,Open defecation
+437,Senegal,Tambacounda,Drinking water,2013,0.0,Surface water
+438,Senegal,Tambacounda,Drinking water,2013,54.090019999999996,Unimproved
+439,Senegal,Tambacounda,Sanitation,2013,40.86529,Unimproved
+440,Senegal,Thies,Drinking water,2013,77.6549,At least basic
+441,Senegal,Thies,Sanitation,2013,56.368669999999995,At least basic
+442,Senegal,Thies,Hygiene,2013,6.2136,Basic service
+443,Senegal,Thies,Drinking water,2013,3.91537,Limited service
+444,Senegal,Thies,Hygiene,2013,15.874089999999999,Limited service
+445,Senegal,Thies,Sanitation,2013,12.57455,Limited service
+446,Senegal,Thies,Hygiene,2013,77.91230999999999,No handwashing facility
+447,Senegal,Thies,Sanitation,2013,24.86659,Open defecation
+448,Senegal,Thies,Drinking water,2013,0.0,Surface water
+449,Senegal,Thies,Drinking water,2013,18.42972,Unimproved
+450,Senegal,Thies,Sanitation,2013,6.190180000000001,Unimproved
+451,Senegal,Ziguinchor,Drinking water,2013,36.91749,At least basic
+452,Senegal,Ziguinchor,Sanitation,2013,38.54655,At least basic
+453,Senegal,Ziguinchor,Hygiene,2013,18.47159,Basic service
+454,Senegal,Ziguinchor,Drinking water,2013,2.3147,Limited service
+455,Senegal,Ziguinchor,Hygiene,2013,27.60163,Limited service
+456,Senegal,Ziguinchor,Sanitation,2013,18.41826,Limited service
+457,Senegal,Ziguinchor,Hygiene,2013,53.92677,No handwashing facility
+458,Senegal,Ziguinchor,Sanitation,2013,1.60089,Open defecation
+459,Senegal,Ziguinchor,Drinking water,2013,0.0,Surface water
+460,Senegal,Ziguinchor,Drinking water,2013,60.76781,Unimproved
+461,Senegal,Ziguinchor,Sanitation,2013,41.434309999999996,Unimproved
+462,Senegal,Dakar,Drinking water,2011,96.53949,At least basic
+463,Senegal,Dakar,Sanitation,2011,70.27521999999999,At least basic
+464,Senegal,Dakar,Hygiene,2011,43.19678,Basic service
+465,Senegal,Dakar,Drinking water,2011,0.48512,Limited service
+466,Senegal,Dakar,Hygiene,2011,25.12797,Limited service
+467,Senegal,Dakar,Sanitation,2011,27.4978,Limited service
+468,Senegal,Dakar,Hygiene,2011,31.67525,No handwashing facility
+469,Senegal,Dakar,Sanitation,2011,0.36435,Open defecation
+470,Senegal,Dakar,Drinking water,2011,0.0,Surface water
+471,Senegal,Dakar,Drinking water,2011,2.97539,Unimproved
+472,Senegal,Dakar,Sanitation,2011,1.8626200000000002,Unimproved
+473,Senegal,Diourbel,Drinking water,2011,88.08892,At least basic
+474,Senegal,Diourbel,Sanitation,2011,61.07976,At least basic
+475,Senegal,Diourbel,Hygiene,2011,9.12934,Basic service
+476,Senegal,Diourbel,Drinking water,2011,2.81812,Limited service
+477,Senegal,Diourbel,Hygiene,2011,46.50822,Limited service
+478,Senegal,Diourbel,Sanitation,2011,6.6511,Limited service
+479,Senegal,Diourbel,Hygiene,2011,44.36244,No handwashing facility
+480,Senegal,Diourbel,Sanitation,2011,16.485429999999997,Open defecation
+481,Senegal,Diourbel,Drinking water,2011,0.04245,Surface water
+482,Senegal,Diourbel,Drinking water,2011,9.050510000000001,Unimproved
+483,Senegal,Diourbel,Sanitation,2011,15.7837,Unimproved
+484,Senegal,Fatick,Drinking water,2011,60.11445,At least basic
+485,Senegal,Fatick,Sanitation,2011,28.21511,At least basic
+486,Senegal,Fatick,Hygiene,2011,6.32416,Basic service
+487,Senegal,Fatick,Drinking water,2011,6.31036,Limited service
+488,Senegal,Fatick,Hygiene,2011,27.931490000000004,Limited service
+489,Senegal,Fatick,Sanitation,2011,12.84485,Limited service
+490,Senegal,Fatick,Hygiene,2011,65.74435,No handwashing facility
+491,Senegal,Fatick,Sanitation,2011,40.99646,Open defecation
+492,Senegal,Fatick,Drinking water,2011,0.02537,Surface water
+493,Senegal,Fatick,Drinking water,2011,33.54983,Unimproved
+494,Senegal,Fatick,Sanitation,2011,17.943579999999997,Unimproved
+495,Senegal,Kaffrine,Drinking water,2011,78.50441,At least basic
+496,Senegal,Kaffrine,Sanitation,2011,20.42995,At least basic
+497,Senegal,Kaffrine,Hygiene,2011,35.47767,Basic service
+498,Senegal,Kaffrine,Drinking water,2011,6.641369999999999,Limited service
+499,Senegal,Kaffrine,Hygiene,2011,44.77213,Limited service
+500,Senegal,Kaffrine,Sanitation,2011,5.769819999999999,Limited service
+501,Senegal,Kaffrine,Hygiene,2011,19.7502,No handwashing facility
+502,Senegal,Kaffrine,Sanitation,2011,43.162040000000005,Open defecation
+503,Senegal,Kaffrine,Drinking water,2011,0.0,Surface water
+504,Senegal,Kaffrine,Drinking water,2011,14.854220000000002,Unimproved
+505,Senegal,Kaffrine,Sanitation,2011,30.63818,Unimproved
+506,Senegal,Kaolack,Drinking water,2011,75.39359,At least basic
+507,Senegal,Kaolack,Sanitation,2011,33.77649,At least basic
+508,Senegal,Kaolack,Hygiene,2011,11.073739999999999,Basic service
+509,Senegal,Kaolack,Drinking water,2011,3.8846300000000005,Limited service
+510,Senegal,Kaolack,Hygiene,2011,16.239079999999998,Limited service
+511,Senegal,Kaolack,Sanitation,2011,7.09623,Limited service
+512,Senegal,Kaolack,Hygiene,2011,72.68718,No handwashing facility
+513,Senegal,Kaolack,Sanitation,2011,33.94057,Open defecation
+514,Senegal,Kaolack,Drinking water,2011,0.0,Surface water
+515,Senegal,Kaolack,Drinking water,2011,20.72178,Unimproved
+516,Senegal,Kaolack,Sanitation,2011,25.18671,Unimproved
+517,Senegal,Kedougou,Drinking water,2011,65.91516999999999,At least basic
+518,Senegal,Kedougou,Sanitation,2011,5.16591,At least basic
+519,Senegal,Kedougou,Hygiene,2011,3.04696,Basic service
+520,Senegal,Kedougou,Drinking water,2011,6.12327,Limited service
+521,Senegal,Kedougou,Hygiene,2011,3.69516,Limited service
+522,Senegal,Kedougou,Sanitation,2011,4.81372,Limited service
+523,Senegal,Kedougou,Hygiene,2011,93.25788,No handwashing facility
+524,Senegal,Kedougou,Sanitation,2011,46.75278,Open defecation
+525,Senegal,Kedougou,Drinking water,2011,1.0337,Surface water
+526,Senegal,Kedougou,Drinking water,2011,26.92786,Unimproved
+527,Senegal,Kedougou,Sanitation,2011,43.26758,Unimproved
+528,Senegal,Kolda,Drinking water,2011,27.9593,At least basic
+529,Senegal,Kolda,Sanitation,2011,17.39132,At least basic
+530,Senegal,Kolda,Hygiene,2011,6.3506,Basic service
+531,Senegal,Kolda,Drinking water,2011,0.42578,Limited service
+532,Senegal,Kolda,Hygiene,2011,14.37324,Limited service
+533,Senegal,Kolda,Sanitation,2011,2.52305,Limited service
+534,Senegal,Kolda,Hygiene,2011,79.27616,No handwashing facility
+535,Senegal,Kolda,Sanitation,2011,12.278830000000001,Open defecation
+536,Senegal,Kolda,Drinking water,2011,0.0,Surface water
+537,Senegal,Kolda,Drinking water,2011,71.61493,Unimproved
+538,Senegal,Kolda,Sanitation,2011,67.8068,Unimproved
+539,Senegal,Louga,Drinking water,2011,85.1009,At least basic
+540,Senegal,Louga,Sanitation,2011,51.89413,At least basic
+541,Senegal,Louga,Hygiene,2011,13.13285,Basic service
+542,Senegal,Louga,Drinking water,2011,9.03726,Limited service
+543,Senegal,Louga,Hygiene,2011,25.34839,Limited service
+544,Senegal,Louga,Sanitation,2011,8.11253,Limited service
+545,Senegal,Louga,Hygiene,2011,61.51876,No handwashing facility
+546,Senegal,Louga,Sanitation,2011,26.976409999999998,Open defecation
+547,Senegal,Louga,Drinking water,2011,0.5160100000000001,Surface water
+548,Senegal,Louga,Drinking water,2011,5.34583,Unimproved
+549,Senegal,Louga,Sanitation,2011,13.01693,Unimproved
+550,Senegal,Matam,Drinking water,2011,79.96994000000001,At least basic
+551,Senegal,Matam,Sanitation,2011,30.05722,At least basic
+552,Senegal,Matam,Hygiene,2011,23.15227,Basic service
+553,Senegal,Matam,Drinking water,2011,3.41894,Limited service
+554,Senegal,Matam,Hygiene,2011,15.737589999999999,Limited service
+555,Senegal,Matam,Sanitation,2011,8.89977,Limited service
+556,Senegal,Matam,Hygiene,2011,61.11014,No handwashing facility
+557,Senegal,Matam,Sanitation,2011,32.45746,Open defecation
+558,Senegal,Matam,Drinking water,2011,0.49111000000000005,Surface water
+559,Senegal,Matam,Drinking water,2011,16.12001,Unimproved
+560,Senegal,Matam,Sanitation,2011,28.58555,Unimproved
+561,Senegal,Saint-Louis,Drinking water,2011,73.57630999999999,At least basic
+562,Senegal,Saint-Louis,Sanitation,2011,42.337109999999996,At least basic
+563,Senegal,Saint-Louis,Hygiene,2011,11.82698,Basic service
+564,Senegal,Saint-Louis,Drinking water,2011,3.38636,Limited service
+565,Senegal,Saint-Louis,Hygiene,2011,23.850839999999998,Limited service
+566,Senegal,Saint-Louis,Sanitation,2011,16.88079,Limited service
+567,Senegal,Saint-Louis,Hygiene,2011,64.32218,No handwashing facility
+568,Senegal,Saint-Louis,Sanitation,2011,17.39545,Open defecation
+569,Senegal,Saint-Louis,Drinking water,2011,6.21861,Surface water
+570,Senegal,Saint-Louis,Drinking water,2011,16.818720000000003,Unimproved
+571,Senegal,Saint-Louis,Sanitation,2011,23.38665,Unimproved
+572,Senegal,Sedhiou,Drinking water,2011,19.79637,At least basic
+573,Senegal,Sedhiou,Sanitation,2011,9.70429,At least basic
+574,Senegal,Sedhiou,Hygiene,2011,2.6165700000000003,Basic service
+575,Senegal,Sedhiou,Drinking water,2011,2.07807,Limited service
+576,Senegal,Sedhiou,Hygiene,2011,5.64633,Limited service
+577,Senegal,Sedhiou,Sanitation,2011,4.1438,Limited service
+578,Senegal,Sedhiou,Hygiene,2011,91.73709000000001,No handwashing facility
+579,Senegal,Sedhiou,Sanitation,2011,6.72325,Open defecation
+580,Senegal,Sedhiou,Drinking water,2011,0.0,Surface water
+581,Senegal,Sedhiou,Drinking water,2011,78.12555,Unimproved
+582,Senegal,Sedhiou,Sanitation,2011,79.42865,Unimproved
+583,Senegal,Tambacounda,Drinking water,2011,41.39973,At least basic
+584,Senegal,Tambacounda,Sanitation,2011,10.32446,At least basic
+585,Senegal,Tambacounda,Hygiene,2011,6.951219999999999,Basic service
+586,Senegal,Tambacounda,Drinking water,2011,7.02101,Limited service
+587,Senegal,Tambacounda,Hygiene,2011,19.89115,Limited service
+588,Senegal,Tambacounda,Sanitation,2011,2.92293,Limited service
+589,Senegal,Tambacounda,Hygiene,2011,73.15763000000001,No handwashing facility
+590,Senegal,Tambacounda,Sanitation,2011,24.46868,Open defecation
+591,Senegal,Tambacounda,Drinking water,2011,0.52854,Surface water
+592,Senegal,Tambacounda,Drinking water,2011,51.05073,Unimproved
+593,Senegal,Tambacounda,Sanitation,2011,62.283930000000005,Unimproved
+594,Senegal,Thies,Drinking water,2011,84.63252,At least basic
+595,Senegal,Thies,Sanitation,2011,62.0276,At least basic
+596,Senegal,Thies,Hygiene,2011,14.03805,Basic service
+597,Senegal,Thies,Drinking water,2011,2.34849,Limited service
+598,Senegal,Thies,Hygiene,2011,25.84735,Limited service
+599,Senegal,Thies,Sanitation,2011,17.75591,Limited service
+600,Senegal,Thies,Hygiene,2011,60.1146,No handwashing facility
+601,Senegal,Thies,Sanitation,2011,6.10508,Open defecation
+602,Senegal,Thies,Drinking water,2011,0.0,Surface water
+603,Senegal,Thies,Drinking water,2011,13.018989999999999,Unimproved
+604,Senegal,Thies,Sanitation,2011,14.11142,Unimproved
+605,Senegal,Ziguinchor,Drinking water,2011,46.73467,At least basic
+606,Senegal,Ziguinchor,Sanitation,2011,18.24391,At least basic
+607,Senegal,Ziguinchor,Hygiene,2011,4.631130000000001,Basic service
+608,Senegal,Ziguinchor,Drinking water,2011,2.72001,Limited service
+609,Senegal,Ziguinchor,Hygiene,2011,9.5678,Limited service
+610,Senegal,Ziguinchor,Sanitation,2011,9.24676,Limited service
+611,Senegal,Ziguinchor,Hygiene,2011,85.80107,No handwashing facility
+612,Senegal,Ziguinchor,Sanitation,2011,10.749039999999999,Open defecation
+613,Senegal,Ziguinchor,Drinking water,2011,0.0,Surface water
+614,Senegal,Ziguinchor,Drinking water,2011,50.545320000000004,Unimproved
+615,Senegal,Ziguinchor,Sanitation,2011,61.760290000000005,Unimproved
+616,Senegal,Dakar,Drinking water,2009,98.24038,At least basic
+617,Senegal,Dakar,Sanitation,2009,0.0,At least basic
+618,Senegal,Dakar,Drinking water,2009,0.49367,Limited service
+619,Senegal,Dakar,Sanitation,2009,0.0,Limited service
+620,Senegal,Dakar,Sanitation,2009,0.0,Open defecation
+621,Senegal,Dakar,Drinking water,2009,0.0,Surface water
+622,Senegal,Dakar,Drinking water,2009,1.26595,Unimproved
+623,Senegal,Dakar,Sanitation,2009,0.0,Unimproved
+624,Senegal,Diourbel,Drinking water,2009,90.28061,At least basic
+625,Senegal,Diourbel,Sanitation,2009,0.0,At least basic
+626,Senegal,Diourbel,Drinking water,2009,2.88823,Limited service
+627,Senegal,Diourbel,Sanitation,2009,0.0,Limited service
+628,Senegal,Diourbel,Sanitation,2009,0.0,Open defecation
+629,Senegal,Diourbel,Drinking water,2009,0.0,Surface water
+630,Senegal,Diourbel,Drinking water,2009,6.83115,Unimproved
+631,Senegal,Diourbel,Sanitation,2009,0.0,Unimproved
+632,Senegal,Fatick,Drinking water,2009,51.868,At least basic
+633,Senegal,Fatick,Sanitation,2009,0.0,At least basic
+634,Senegal,Fatick,Drinking water,2009,5.44471,Limited service
+635,Senegal,Fatick,Sanitation,2009,0.0,Limited service
+636,Senegal,Fatick,Sanitation,2009,0.0,Open defecation
+637,Senegal,Fatick,Drinking water,2009,0.0,Surface water
+638,Senegal,Fatick,Drinking water,2009,42.687290000000004,Unimproved
+639,Senegal,Fatick,Sanitation,2009,0.0,Unimproved
+640,Senegal,Kaolack,Drinking water,2009,66.56839000000001,At least basic
+641,Senegal,Kaolack,Sanitation,2009,0.0,At least basic
+642,Senegal,Kaolack,Drinking water,2009,5.6316,Limited service
+643,Senegal,Kaolack,Sanitation,2009,0.0,Limited service
+644,Senegal,Kaolack,Sanitation,2009,0.0,Open defecation
+645,Senegal,Kaolack,Drinking water,2009,0.0,Surface water
+646,Senegal,Kaolack,Drinking water,2009,27.800009999999997,Unimproved
+647,Senegal,Kaolack,Sanitation,2009,0.0,Unimproved
+648,Senegal,Kolda,Drinking water,2009,30.5916,At least basic
+649,Senegal,Kolda,Sanitation,2009,0.0,At least basic
+650,Senegal,Kolda,Drinking water,2009,1.5762200000000002,Limited service
+651,Senegal,Kolda,Sanitation,2009,0.0,Limited service
+652,Senegal,Kolda,Sanitation,2009,0.0,Open defecation
+653,Senegal,Kolda,Drinking water,2009,0.0,Surface water
+654,Senegal,Kolda,Drinking water,2009,67.83218000000001,Unimproved
+655,Senegal,Kolda,Sanitation,2009,0.0,Unimproved
+656,Senegal,Louga,Drinking water,2009,77.85436,At least basic
+657,Senegal,Louga,Sanitation,2009,0.0,At least basic
+658,Senegal,Louga,Drinking water,2009,7.2323699999999995,Limited service
+659,Senegal,Louga,Sanitation,2009,0.0,Limited service
+660,Senegal,Louga,Sanitation,2009,0.0,Open defecation
+661,Senegal,Louga,Drinking water,2009,0.45992,Surface water
+662,Senegal,Louga,Drinking water,2009,14.453339999999999,Unimproved
+663,Senegal,Louga,Sanitation,2009,0.0,Unimproved
+664,Senegal,Matam,Drinking water,2009,65.09607,At least basic
+665,Senegal,Matam,Sanitation,2009,0.0,At least basic
+666,Senegal,Matam,Drinking water,2009,0.99131,Limited service
+667,Senegal,Matam,Sanitation,2009,0.0,Limited service
+668,Senegal,Matam,Sanitation,2009,0.0,Open defecation
+669,Senegal,Matam,Drinking water,2009,5.2806,Surface water
+670,Senegal,Matam,Drinking water,2009,28.63202,Unimproved
+671,Senegal,Matam,Sanitation,2009,0.0,Unimproved
+672,Senegal,Saint-Louis,Drinking water,2009,72.36534,At least basic
+673,Senegal,Saint-Louis,Sanitation,2009,0.0,At least basic
+674,Senegal,Saint-Louis,Drinking water,2009,7.684810000000001,Limited service
+675,Senegal,Saint-Louis,Sanitation,2009,0.0,Limited service
+676,Senegal,Saint-Louis,Sanitation,2009,0.0,Open defecation
+677,Senegal,Saint-Louis,Drinking water,2009,13.01073,Surface water
+678,Senegal,Saint-Louis,Drinking water,2009,6.93912,Unimproved
+679,Senegal,Saint-Louis,Sanitation,2009,0.0,Unimproved
+680,Senegal,Tambacounda,Drinking water,2009,38.25461,At least basic
+681,Senegal,Tambacounda,Sanitation,2009,0.0,At least basic
+682,Senegal,Tambacounda,Drinking water,2009,1.6354899999999999,Limited service
+683,Senegal,Tambacounda,Sanitation,2009,0.0,Limited service
+684,Senegal,Tambacounda,Sanitation,2009,0.0,Open defecation
+685,Senegal,Tambacounda,Drinking water,2009,3.4990699999999997,Surface water
+686,Senegal,Tambacounda,Drinking water,2009,56.61083000000001,Unimproved
+687,Senegal,Tambacounda,Sanitation,2009,0.0,Unimproved
+688,Senegal,Thies,Drinking water,2009,60.95083,At least basic
+689,Senegal,Thies,Sanitation,2009,0.0,At least basic
+690,Senegal,Thies,Drinking water,2009,2.80527,Limited service
+691,Senegal,Thies,Sanitation,2009,0.0,Limited service
+692,Senegal,Thies,Sanitation,2009,0.0,Open defecation
+693,Senegal,Thies,Drinking water,2009,0.0,Surface water
+694,Senegal,Thies,Drinking water,2009,36.2439,Unimproved
+695,Senegal,Thies,Sanitation,2009,0.0,Unimproved
+696,Senegal,Ziguinchor,Drinking water,2009,33.17873,At least basic
+697,Senegal,Ziguinchor,Sanitation,2009,0.0,At least basic
+698,Senegal,Ziguinchor,Drinking water,2009,3.48285,Limited service
+699,Senegal,Ziguinchor,Sanitation,2009,0.0,Limited service
+700,Senegal,Ziguinchor,Sanitation,2009,0.0,Open defecation
+701,Senegal,Ziguinchor,Drinking water,2009,0.0,Surface water
+702,Senegal,Ziguinchor,Drinking water,2009,63.33843,Unimproved
+703,Senegal,Ziguinchor,Sanitation,2009,0.0,Unimproved
+704,Senegal,Dakar,Drinking water,2006,98.81198,At least basic
+705,Senegal,Dakar,Sanitation,2006,68.41112,At least basic
+706,Senegal,Dakar,Drinking water,2006,0.49654,Limited service
+707,Senegal,Dakar,Sanitation,2006,29.829829999999998,Limited service
+708,Senegal,Dakar,Sanitation,2006,0.6108100000000001,Open defecation
+709,Senegal,Dakar,Drinking water,2006,0.0,Surface water
+710,Senegal,Dakar,Drinking water,2006,0.69148,Unimproved
+711,Senegal,Dakar,Sanitation,2006,1.14825,Unimproved
+712,Senegal,Diourbel,Drinking water,2006,77.38978,At least basic
+713,Senegal,Diourbel,Sanitation,2006,63.100269999999995,At least basic
+714,Senegal,Diourbel,Drinking water,2006,2.4758299999999998,Limited service
+715,Senegal,Diourbel,Sanitation,2006,7.22225,Limited service
+716,Senegal,Diourbel,Sanitation,2006,19.303929999999998,Open defecation
+717,Senegal,Diourbel,Drinking water,2006,0.0,Surface water
+718,Senegal,Diourbel,Drinking water,2006,20.13439,Unimproved
+719,Senegal,Diourbel,Sanitation,2006,10.37355,Unimproved
+720,Senegal,Fatick,Drinking water,2006,44.19468,At least basic
+721,Senegal,Fatick,Sanitation,2006,34.33932,At least basic
+722,Senegal,Fatick,Drinking water,2006,4.63922,Limited service
+723,Senegal,Fatick,Sanitation,2006,9.38292,Limited service
+724,Senegal,Fatick,Sanitation,2006,48.905120000000004,Open defecation
+725,Senegal,Fatick,Drinking water,2006,0.0,Surface water
+726,Senegal,Fatick,Drinking water,2006,51.1661,Unimproved
+727,Senegal,Fatick,Sanitation,2006,7.37264,Unimproved
+728,Senegal,Kaolack,Drinking water,2006,72.23719,At least basic
+729,Senegal,Kaolack,Sanitation,2006,35.64873,At least basic
+730,Senegal,Kaolack,Drinking water,2006,6.1111699999999995,Limited service
+731,Senegal,Kaolack,Sanitation,2006,19.17728,Limited service
+732,Senegal,Kaolack,Sanitation,2006,28.247,Open defecation
+733,Senegal,Kaolack,Drinking water,2006,0.0,Surface water
+734,Senegal,Kaolack,Drinking water,2006,21.65164,Unimproved
+735,Senegal,Kaolack,Sanitation,2006,16.92699,Unimproved
+736,Senegal,Kolda,Drinking water,2006,18.24324,At least basic
+737,Senegal,Kolda,Sanitation,2006,36.50873,At least basic
+738,Senegal,Kolda,Drinking water,2006,0.9399799999999999,Limited service
+739,Senegal,Kolda,Sanitation,2006,12.25531,Limited service
+740,Senegal,Kolda,Sanitation,2006,7.59927,Open defecation
+741,Senegal,Kolda,Drinking water,2006,0.0,Surface water
+742,Senegal,Kolda,Drinking water,2006,80.81678000000001,Unimproved
+743,Senegal,Kolda,Sanitation,2006,43.63669,Unimproved
+744,Senegal,Louga,Drinking water,2006,77.93422,At least basic
+745,Senegal,Louga,Sanitation,2006,60.767340000000004,At least basic
+746,Senegal,Louga,Drinking water,2006,7.239789999999999,Limited service
+747,Senegal,Louga,Sanitation,2006,9.01356,Limited service
+748,Senegal,Louga,Sanitation,2006,26.36585,Open defecation
+749,Senegal,Louga,Drinking water,2006,0.0,Surface water
+750,Senegal,Louga,Drinking water,2006,14.82599,Unimproved
+751,Senegal,Louga,Sanitation,2006,3.85324,Unimproved
+752,Senegal,Matam,Drinking water,2006,57.13536,At least basic
+753,Senegal,Matam,Sanitation,2006,34.4292,At least basic
+754,Senegal,Matam,Drinking water,2006,0.87008,Limited service
+755,Senegal,Matam,Sanitation,2006,11.92562,Limited service
+756,Senegal,Matam,Sanitation,2006,36.888690000000004,Open defecation
+757,Senegal,Matam,Drinking water,2006,1.18224,Surface water
+758,Senegal,Matam,Drinking water,2006,40.81232,Unimproved
+759,Senegal,Matam,Sanitation,2006,16.7565,Unimproved
+760,Senegal,Saint-Louis,Drinking water,2006,76.51638,At least basic
+761,Senegal,Saint-Louis,Sanitation,2006,51.07979,At least basic
+762,Senegal,Saint-Louis,Drinking water,2006,8.125630000000001,Limited service
+763,Senegal,Saint-Louis,Sanitation,2006,13.25769,Limited service
+764,Senegal,Saint-Louis,Sanitation,2006,24.01843,Open defecation
+765,Senegal,Saint-Louis,Drinking water,2006,1.3885100000000001,Surface water
+766,Senegal,Saint-Louis,Drinking water,2006,13.969479999999999,Unimproved
+767,Senegal,Saint-Louis,Sanitation,2006,11.64408,Unimproved
+768,Senegal,Tambacounda,Drinking water,2006,34.2601,At least basic
+769,Senegal,Tambacounda,Sanitation,2006,42.33936,At least basic
+770,Senegal,Tambacounda,Drinking water,2006,1.46472,Limited service
+771,Senegal,Tambacounda,Sanitation,2006,4.61076,Limited service
+772,Senegal,Tambacounda,Sanitation,2006,26.305590000000002,Open defecation
+773,Senegal,Tambacounda,Drinking water,2006,0.87651,Surface water
+774,Senegal,Tambacounda,Drinking water,2006,63.398680000000006,Unimproved
+775,Senegal,Tambacounda,Sanitation,2006,26.74428,Unimproved
+776,Senegal,Thies,Drinking water,2006,84.54051,At least basic
+777,Senegal,Thies,Sanitation,2006,62.83258000000001,At least basic
+778,Senegal,Thies,Drinking water,2006,3.89099,Limited service
+779,Senegal,Thies,Sanitation,2006,12.68297,Limited service
+780,Senegal,Thies,Sanitation,2006,16.9839,Open defecation
+781,Senegal,Thies,Drinking water,2006,0.0,Surface water
+782,Senegal,Thies,Drinking water,2006,11.5685,Unimproved
+783,Senegal,Thies,Sanitation,2006,7.500539999999999,Unimproved
+784,Senegal,Ziguinchor,Drinking water,2006,16.878120000000003,At least basic
+785,Senegal,Ziguinchor,Sanitation,2006,35.39679,At least basic
+786,Senegal,Ziguinchor,Drinking water,2006,1.77174,Limited service
+787,Senegal,Ziguinchor,Sanitation,2006,16.85361,Limited service
+788,Senegal,Ziguinchor,Sanitation,2006,19.82434,Open defecation
+789,Senegal,Ziguinchor,Drinking water,2006,0.0,Surface water
+790,Senegal,Ziguinchor,Drinking water,2006,81.35014,Unimproved
+791,Senegal,Ziguinchor,Sanitation,2006,27.92527,Unimproved
+792,Senegal,Dakar,Drinking water,2005,96.30986999999999,At least basic
+793,Senegal,Dakar,Sanitation,2005,54.769369999999995,At least basic
+794,Senegal,Dakar,Hygiene,2005,58.0532,Basic service
+795,Senegal,Dakar,Drinking water,2005,3.18008,Limited service
+796,Senegal,Dakar,Hygiene,2005,31.26493,Limited service
+797,Senegal,Dakar,Sanitation,2005,26.3921,Limited service
+798,Senegal,Dakar,Hygiene,2005,10.68188,No handwashing facility
+799,Senegal,Dakar,Sanitation,2005,1.83143,Open defecation
+800,Senegal,Dakar,Drinking water,2005,0.0,Surface water
+801,Senegal,Dakar,Drinking water,2005,0.51005,Unimproved
+802,Senegal,Dakar,Sanitation,2005,17.0071,Unimproved
+803,Senegal,Diourbel,Drinking water,2005,73.86128000000001,At least basic
+804,Senegal,Diourbel,Sanitation,2005,40.91782,At least basic
+805,Senegal,Diourbel,Hygiene,2005,61.39075,Basic service
+806,Senegal,Diourbel,Drinking water,2005,6.02989,Limited service
+807,Senegal,Diourbel,Hygiene,2005,24.29964,Limited service
+808,Senegal,Diourbel,Sanitation,2005,4.80351,Limited service
+809,Senegal,Diourbel,Hygiene,2005,14.309610000000001,No handwashing facility
+810,Senegal,Diourbel,Sanitation,2005,31.604709999999997,Open defecation
+811,Senegal,Diourbel,Drinking water,2005,0.0,Surface water
+812,Senegal,Diourbel,Drinking water,2005,20.10884,Unimproved
+813,Senegal,Diourbel,Sanitation,2005,22.67396,Unimproved
+814,Senegal,Fatick,Drinking water,2005,35.20707,At least basic
+815,Senegal,Fatick,Sanitation,2005,18.325,At least basic
+816,Senegal,Fatick,Hygiene,2005,34.956509999999994,Basic service
+817,Senegal,Fatick,Drinking water,2005,8.0559,Limited service
+818,Senegal,Fatick,Hygiene,2005,58.027969999999996,Limited service
+819,Senegal,Fatick,Sanitation,2005,9.765939999999999,Limited service
+820,Senegal,Fatick,Hygiene,2005,7.0155199999999995,No handwashing facility
+821,Senegal,Fatick,Sanitation,2005,53.14196,Open defecation
+822,Senegal,Fatick,Drinking water,2005,0.11123,Surface water
+823,Senegal,Fatick,Drinking water,2005,56.6258,Unimproved
+824,Senegal,Fatick,Sanitation,2005,18.7671,Unimproved
+825,Senegal,Kaolack,Drinking water,2005,56.83648,At least basic
+826,Senegal,Kaolack,Sanitation,2005,20.66346,At least basic
+827,Senegal,Kaolack,Hygiene,2005,28.171640000000004,Basic service
+828,Senegal,Kaolack,Drinking water,2005,10.512410000000001,Limited service
+829,Senegal,Kaolack,Hygiene,2005,54.26119,Limited service
+830,Senegal,Kaolack,Sanitation,2005,6.90038,Limited service
+831,Senegal,Kaolack,Hygiene,2005,17.56717,No handwashing facility
+832,Senegal,Kaolack,Sanitation,2005,34.722409999999996,Open defecation
+833,Senegal,Kaolack,Drinking water,2005,0.0,Surface water
+834,Senegal,Kaolack,Drinking water,2005,32.651109999999996,Unimproved
+835,Senegal,Kaolack,Sanitation,2005,37.71375,Unimproved
+836,Senegal,Kolda,Drinking water,2005,15.95592,At least basic
+837,Senegal,Kolda,Sanitation,2005,6.55865,At least basic
+838,Senegal,Kolda,Hygiene,2005,7.579619999999999,Basic service
+839,Senegal,Kolda,Drinking water,2005,0.8879100000000001,Limited service
+840,Senegal,Kolda,Hygiene,2005,64.50646,Limited service
+841,Senegal,Kolda,Sanitation,2005,1.8799,Limited service
+842,Senegal,Kolda,Hygiene,2005,27.91392,No handwashing facility
+843,Senegal,Kolda,Sanitation,2005,11.85343,Open defecation
+844,Senegal,Kolda,Drinking water,2005,0.0,Surface water
+845,Senegal,Kolda,Drinking water,2005,83.15616999999999,Unimproved
+846,Senegal,Kolda,Sanitation,2005,79.70801999999999,Unimproved
+847,Senegal,Louga,Drinking water,2005,58.01125,At least basic
+848,Senegal,Louga,Sanitation,2005,34.79345,At least basic
+849,Senegal,Louga,Hygiene,2005,57.24756,Basic service
+850,Senegal,Louga,Drinking water,2005,20.94305,Limited service
+851,Senegal,Louga,Hygiene,2005,21.2065,Limited service
+852,Senegal,Louga,Sanitation,2005,3.12169,Limited service
+853,Senegal,Louga,Hygiene,2005,21.545939999999998,No handwashing facility
+854,Senegal,Louga,Sanitation,2005,35.33745,Open defecation
+855,Senegal,Louga,Drinking water,2005,0.0,Surface water
+856,Senegal,Louga,Drinking water,2005,21.04571,Unimproved
+857,Senegal,Louga,Sanitation,2005,26.74741,Unimproved
+858,Senegal,Matam,Sanitation,2005,24.564870000000003,At least basic
+859,Senegal,Matam,Hygiene,2005,31.90557,Basic service
+860,Senegal,Matam,Hygiene,2005,46.67432,Limited service
+861,Senegal,Matam,Sanitation,2005,4.67673,Limited service
+862,Senegal,Matam,Hygiene,2005,21.42011,No handwashing facility
+863,Senegal,Matam,Sanitation,2005,27.43034,Open defecation
+864,Senegal,Matam,Sanitation,2005,43.32806,Unimproved
+865,Senegal,Saint-Louis,Drinking water,2005,72.2102,At least basic
+866,Senegal,Saint-Louis,Sanitation,2005,38.166990000000006,At least basic
+867,Senegal,Saint-Louis,Hygiene,2005,55.79524,Basic service
+868,Senegal,Saint-Louis,Drinking water,2005,2.02355,Limited service
+869,Senegal,Saint-Louis,Hygiene,2005,32.093990000000005,Limited service
+870,Senegal,Saint-Louis,Sanitation,2005,11.743139999999999,Limited service
+871,Senegal,Saint-Louis,Hygiene,2005,12.11077,No handwashing facility
+872,Senegal,Saint-Louis,Sanitation,2005,17.13397,Open defecation
+873,Senegal,Saint-Louis,Drinking water,2005,8.30942,Surface water
+874,Senegal,Saint-Louis,Drinking water,2005,17.45682,Unimproved
+875,Senegal,Saint-Louis,Sanitation,2005,32.955890000000004,Unimproved
+876,Senegal,Tambacounda,Drinking water,2005,33.163140000000006,At least basic
+877,Senegal,Tambacounda,Sanitation,2005,18.2529,At least basic
+878,Senegal,Tambacounda,Hygiene,2005,21.128020000000003,Basic service
+879,Senegal,Tambacounda,Drinking water,2005,8.0189,Limited service
+880,Senegal,Tambacounda,Hygiene,2005,67.62254,Limited service
+881,Senegal,Tambacounda,Sanitation,2005,1.47698,Limited service
+882,Senegal,Tambacounda,Hygiene,2005,11.24944,No handwashing facility
+883,Senegal,Tambacounda,Sanitation,2005,31.13049,Open defecation
+884,Senegal,Tambacounda,Drinking water,2005,2.6276200000000003,Surface water
+885,Senegal,Tambacounda,Drinking water,2005,56.19034,Unimproved
+886,Senegal,Tambacounda,Sanitation,2005,49.13963,Unimproved
+887,Senegal,Thies,Drinking water,2005,76.41627,At least basic
+888,Senegal,Thies,Sanitation,2005,44.69421,At least basic
+889,Senegal,Thies,Hygiene,2005,55.526030000000006,Basic service
+890,Senegal,Thies,Drinking water,2005,4.06754,Limited service
+891,Senegal,Thies,Hygiene,2005,36.75782,Limited service
+892,Senegal,Thies,Sanitation,2005,13.85595,Limited service
+893,Senegal,Thies,Hygiene,2005,7.71615,No handwashing facility
+894,Senegal,Thies,Sanitation,2005,24.0896,Open defecation
+895,Senegal,Thies,Drinking water,2005,0.0,Surface water
+896,Senegal,Thies,Drinking water,2005,19.5162,Unimproved
+897,Senegal,Thies,Sanitation,2005,17.36024,Unimproved
+898,Senegal,Ziguinchor,Drinking water,2005,32.28267,At least basic
+899,Senegal,Ziguinchor,Sanitation,2005,17.50372,At least basic
+900,Senegal,Ziguinchor,Hygiene,2005,16.18307,Basic service
+901,Senegal,Ziguinchor,Drinking water,2005,0.63679,Limited service
+902,Senegal,Ziguinchor,Hygiene,2005,48.82935,Limited service
+903,Senegal,Ziguinchor,Sanitation,2005,10.23205,Limited service
+904,Senegal,Ziguinchor,Hygiene,2005,34.98757,No handwashing facility
+905,Senegal,Ziguinchor,Sanitation,2005,11.39734,Open defecation
+906,Senegal,Ziguinchor,Drinking water,2005,0.0,Surface water
+907,Senegal,Ziguinchor,Drinking water,2005,67.08053000000001,Unimproved
+908,Senegal,Ziguinchor,Sanitation,2005,60.866890000000005,Unimproved
+909,Senegal,Dakar,Drinking water,2000,90.24215,At least basic
+910,Senegal,Dakar,Sanitation,2000,57.53164,At least basic
+911,Senegal,Dakar,Drinking water,2000,2.97973,Limited service
+912,Senegal,Dakar,Sanitation,2000,27.72317,Limited service
+913,Senegal,Dakar,Sanitation,2000,4.13352,Open defecation
+914,Senegal,Dakar,Drinking water,2000,0.0,Surface water
+915,Senegal,Dakar,Drinking water,2000,6.77813,Unimproved
+916,Senegal,Dakar,Sanitation,2000,10.61167,Unimproved
+917,Senegal,Diourbel,Drinking water,2000,72.44405,At least basic
+918,Senegal,Diourbel,Sanitation,2000,43.344390000000004,At least basic
+919,Senegal,Diourbel,Drinking water,2000,5.9141900000000005,Limited service
+920,Senegal,Diourbel,Sanitation,2000,5.088369999999999,Limited service
+921,Senegal,Diourbel,Sanitation,2000,37.440290000000005,Open defecation
+922,Senegal,Diourbel,Drinking water,2000,0.0,Surface water
+923,Senegal,Diourbel,Drinking water,2000,21.64176,Unimproved
+924,Senegal,Diourbel,Sanitation,2000,14.12694,Unimproved
+925,Senegal,Fatick,Drinking water,2000,42.7249,At least basic
+926,Senegal,Fatick,Sanitation,2000,17.14349,At least basic
+927,Senegal,Fatick,Drinking water,2000,9.7761,Limited service
+928,Senegal,Fatick,Sanitation,2000,9.136280000000001,Limited service
+929,Senegal,Fatick,Sanitation,2000,55.24986,Open defecation
+930,Senegal,Fatick,Drinking water,2000,0.0,Surface water
+931,Senegal,Fatick,Drinking water,2000,47.49901,Unimproved
+932,Senegal,Fatick,Sanitation,2000,18.47038,Unimproved
+933,Senegal,Kaolack,Drinking water,2000,42.29593,At least basic
+934,Senegal,Kaolack,Sanitation,2000,30.583640000000003,At least basic
+935,Senegal,Kaolack,Drinking water,2000,7.823010000000001,Limited service
+936,Senegal,Kaolack,Sanitation,2000,10.21314,Limited service
+937,Senegal,Kaolack,Sanitation,2000,36.99798,Open defecation
+938,Senegal,Kaolack,Drinking water,2000,0.23301999999999998,Surface water
+939,Senegal,Kaolack,Drinking water,2000,49.64805,Unimproved
+940,Senegal,Kaolack,Sanitation,2000,22.20524,Unimproved
+941,Senegal,Kolda,Drinking water,2000,26.07824,At least basic
+942,Senegal,Kolda,Sanitation,2000,33.45512,At least basic
+943,Senegal,Kolda,Drinking water,2000,1.4512,Limited service
+944,Senegal,Kolda,Sanitation,2000,9.5892,Limited service
+945,Senegal,Kolda,Sanitation,2000,20.2146,Open defecation
+946,Senegal,Kolda,Drinking water,2000,0.0,Surface water
+947,Senegal,Kolda,Drinking water,2000,72.47055999999999,Unimproved
+948,Senegal,Kolda,Sanitation,2000,36.74108,Unimproved
+949,Senegal,Louga,Drinking water,2000,56.860580000000006,At least basic
+950,Senegal,Louga,Sanitation,2000,38.340509999999995,At least basic
+951,Senegal,Louga,Drinking water,2000,20.527639999999998,Limited service
+952,Senegal,Louga,Sanitation,2000,3.43994,Limited service
+953,Senegal,Louga,Sanitation,2000,38.21456,Open defecation
+954,Senegal,Louga,Drinking water,2000,0.0,Surface water
+955,Senegal,Louga,Drinking water,2000,22.61178,Unimproved
+956,Senegal,Louga,Sanitation,2000,20.00499,Unimproved
+957,Senegal,Saint-Louis,Drinking water,2000,62.79093,At least basic
+958,Senegal,Saint-Louis,Sanitation,2000,41.76061,At least basic
+959,Senegal,Saint-Louis,Drinking water,2000,1.7596,Limited service
+960,Senegal,Saint-Louis,Sanitation,2000,12.84882,Limited service
+961,Senegal,Saint-Louis,Sanitation,2000,19.51453,Open defecation
+962,Senegal,Saint-Louis,Drinking water,2000,12.34993,Surface water
+963,Senegal,Saint-Louis,Drinking water,2000,23.09954,Unimproved
+964,Senegal,Saint-Louis,Sanitation,2000,25.87604,Unimproved
+965,Senegal,Tambacounda,Drinking water,2000,38.277809999999995,At least basic
+966,Senegal,Tambacounda,Sanitation,2000,35.34254,At least basic
+967,Senegal,Tambacounda,Drinking water,2000,9.25564,Limited service
+968,Senegal,Tambacounda,Sanitation,2000,2.85982,Limited service
+969,Senegal,Tambacounda,Sanitation,2000,35.11858,Open defecation
+970,Senegal,Tambacounda,Drinking water,2000,10.91473,Surface water
+971,Senegal,Tambacounda,Drinking water,2000,41.55182,Unimproved
+972,Senegal,Tambacounda,Sanitation,2000,26.679059999999996,Unimproved
+973,Senegal,Thies,Drinking water,2000,65.83582,At least basic
+974,Senegal,Thies,Sanitation,2000,39.50053,At least basic
+975,Senegal,Thies,Drinking water,2000,3.50435,Limited service
+976,Senegal,Thies,Sanitation,2000,12.24582,Limited service
+977,Senegal,Thies,Sanitation,2000,31.82283,Open defecation
+978,Senegal,Thies,Drinking water,2000,0.0,Surface water
+979,Senegal,Thies,Drinking water,2000,30.65983,Unimproved
+980,Senegal,Thies,Sanitation,2000,16.43082,Unimproved
+981,Senegal,Ziguinchor,Drinking water,2000,37.51876,At least basic
+982,Senegal,Ziguinchor,Sanitation,2000,34.20364,At least basic
+983,Senegal,Ziguinchor,Drinking water,2000,0.7400800000000001,Limited service
+984,Senegal,Ziguinchor,Sanitation,2000,19.994220000000002,Limited service
+985,Senegal,Ziguinchor,Sanitation,2000,11.06134,Open defecation
+986,Senegal,Ziguinchor,Drinking water,2000,0.0,Surface water
+987,Senegal,Ziguinchor,Drinking water,2000,61.74116,Unimproved
+988,Senegal,Ziguinchor,Sanitation,2000,34.740790000000004,Unimproved

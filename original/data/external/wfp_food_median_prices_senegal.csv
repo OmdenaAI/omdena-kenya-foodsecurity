@@ -1,0 +1,712 @@
+date,cmname,unit,category,price,currency,country,admname,adm1id,mktname,mktid,cmid,ptid,umid,catid,sn,default,year,label,cmnameshort,scaling,interpolated,x
+#date,#item+name,#item+unit,#item+type,#value,#currency,#country+name,#adm1+name,#adm1+code,#name+market,,#item+code,,,#item+type+code,#meta+id,,0.0,#item+label,#item+name+short,,,
+2015-01-15,Beans (niebe) - Retail,KG,pulses and nuts,650.0,,,,,,,120,,,5,,,,Beans (niebe) - Retail (KG),Beans niebe,1.0,1.0,
+2015-02-15,Beans (niebe) - Retail,KG,pulses and nuts,650.0,,,,,,,120,,,5,,,,Beans (niebe) - Retail (KG),Beans niebe,1.0,1.0,
+2015-03-15,Beans (niebe) - Retail,KG,pulses and nuts,650.0,,,,,,,120,,,5,,,,Beans (niebe) - Retail (KG),Beans niebe,1.0,1.0,
+2015-04-15,Beans (niebe) - Retail,KG,pulses and nuts,650.0,,,,,,,120,,,5,,,,Beans (niebe) - Retail (KG),Beans niebe,1.0,1.0,
+2015-05-15,Beans (niebe) - Retail,KG,pulses and nuts,650.0,,,,,,,120,,,5,,,,Beans (niebe) - Retail (KG),Beans niebe,1.0,1.0,
+2015-06-15,Beans (niebe) - Retail,KG,pulses and nuts,650.0,,,,,,,120,,,5,,,,Beans (niebe) - Retail (KG),Beans niebe,1.0,1.0,
+2015-07-15,Beans (niebe) - Retail,KG,pulses and nuts,650.0,,,,,,,120,,,5,,,,Beans (niebe) - Retail (KG),Beans niebe,1.0,1.0,
+2015-08-15,Beans (niebe) - Retail,KG,pulses and nuts,650.0,,,,,,,120,,,5,,,,Beans (niebe) - Retail (KG),Beans niebe,1.0,1.0,
+2015-09-15,Beans (niebe) - Retail,KG,pulses and nuts,650.0,,,,,,,120,,,5,,,,Beans (niebe) - Retail (KG),Beans niebe,1.0,1.0,
+2015-10-15,Beans (niebe) - Retail,KG,pulses and nuts,650.0,,,,,,,120,,,5,,,,Beans (niebe) - Retail (KG),Beans niebe,1.0,1.0,
+2015-11-15,Beans (niebe) - Retail,KG,pulses and nuts,650.0,,,,,,,120,,,5,,,,Beans (niebe) - Retail (KG),Beans niebe,1.0,1.0,
+2015-12-15,Beans (niebe) - Retail,KG,pulses and nuts,650.0,,,,,,,120,,,5,,,,Beans (niebe) - Retail (KG),Beans niebe,1.0,1.0,
+2016-01-15,Beans (niebe) - Retail,KG,pulses and nuts,650.0,,,,,,,120,,,5,,,,Beans (niebe) - Retail (KG),Beans niebe,1.0,1.0,
+2016-02-15,Beans (niebe) - Retail,KG,pulses and nuts,650.0,,,,,,,120,,,5,,,,Beans (niebe) - Retail (KG),Beans niebe,1.0,1.0,
+2016-03-15,Beans (niebe) - Retail,KG,pulses and nuts,650.0,,,,,,,120,,,5,,,,Beans (niebe) - Retail (KG),Beans niebe,1.0,1.0,
+2016-04-15,Beans (niebe) - Retail,KG,pulses and nuts,650.0,,,,,,,120,,,5,,,,Beans (niebe) - Retail (KG),Beans niebe,1.0,1.0,
+2016-05-15,Beans (niebe) - Retail,KG,pulses and nuts,650.0,,,,,,,120,,,5,,,,Beans (niebe) - Retail (KG),Beans niebe,1.0,1.0,
+2016-06-15,Beans (niebe) - Retail,KG,pulses and nuts,650.0,,,,,,,120,,,5,,,,Beans (niebe) - Retail (KG),Beans niebe,1.0,1.0,
+2016-07-15,Beans (niebe) - Retail,KG,pulses and nuts,650.0,,,,,,,120,,,5,,,,Beans (niebe) - Retail (KG),Beans niebe,1.0,1.0,
+2016-08-15,Beans (niebe) - Retail,KG,pulses and nuts,650.0,,,,,,,120,,,5,,,,Beans (niebe) - Retail (KG),Beans niebe,1.0,1.0,
+2016-09-15,Beans (niebe) - Retail,KG,pulses and nuts,650.0,,,,,,,120,,,5,,,,Beans (niebe) - Retail (KG),Beans niebe,1.0,1.0,
+2016-10-15,Beans (niebe) - Retail,KG,pulses and nuts,650.0,,,,,,,120,,,5,,,,Beans (niebe) - Retail (KG),Beans niebe,1.0,1.0,
+2016-11-15,Beans (niebe) - Retail,KG,pulses and nuts,650.0,,,,,,,120,,,5,,,,Beans (niebe) - Retail (KG),Beans niebe,1.0,1.0,
+2016-12-15,Beans (niebe) - Retail,KG,pulses and nuts,650.0,,,,,,,120,,,5,,,,Beans (niebe) - Retail (KG),Beans niebe,1.0,1.0,
+2017-01-15,Beans (niebe) - Retail,KG,pulses and nuts,650.0,,,,,,,120,,,5,,,,Beans (niebe) - Retail (KG),Beans niebe,1.0,1.0,
+2017-02-15,Beans (niebe) - Retail,KG,pulses and nuts,650.0,,,,,,,120,,,5,,,,Beans (niebe) - Retail (KG),Beans niebe,1.0,1.0,
+2017-03-15,Beans (niebe) - Retail,KG,pulses and nuts,650.0,,,,,,,120,,,5,,,,Beans (niebe) - Retail (KG),Beans niebe,1.0,1.0,
+2017-04-15,Beans (niebe) - Retail,KG,pulses and nuts,650.0,,,,,,,120,,,5,,,,Beans (niebe) - Retail (KG),Beans niebe,1.0,1.0,
+2017-05-15,Beans (niebe) - Retail,KG,pulses and nuts,650.0,,,,,,,120,,,5,,,,Beans (niebe) - Retail (KG),Beans niebe,1.0,1.0,
+2017-06-15,Beans (niebe) - Retail,KG,pulses and nuts,650.0,,,,,,,120,,,5,,,,Beans (niebe) - Retail (KG),Beans niebe,1.0,1.0,
+2017-07-15,Beans (niebe) - Retail,KG,pulses and nuts,650.0,,,,,,,120,,,5,,,,Beans (niebe) - Retail (KG),Beans niebe,1.0,1.0,
+2017-08-15,Beans (niebe) - Retail,KG,pulses and nuts,650.0,,,,,,,120,,,5,,,,Beans (niebe) - Retail (KG),Beans niebe,1.0,1.0,
+2017-09-15,Beans (niebe) - Retail,KG,pulses and nuts,650.0,,,,,,,120,,,5,,,,Beans (niebe) - Retail (KG),Beans niebe,1.0,1.0,
+2017-10-15,Beans (niebe) - Retail,KG,pulses and nuts,650.0,,,,,,,120,,,5,,,,Beans (niebe) - Retail (KG),Beans niebe,1.0,1.0,
+2017-11-15,Beans (niebe) - Retail,KG,pulses and nuts,650.0,,,,,,,120,,,5,,,,Beans (niebe) - Retail (KG),Beans niebe,1.0,1.0,
+2017-12-15,Beans (niebe) - Retail,KG,pulses and nuts,650.0,,,,,,,120,,,5,,,,Beans (niebe) - Retail (KG),Beans niebe,1.0,1.0,
+2018-01-15,Beans (niebe) - Retail,KG,pulses and nuts,650.0,,,,,,,120,,,5,,,,Beans (niebe) - Retail (KG),Beans niebe,1.0,1.0,
+2018-02-15,Beans (niebe) - Retail,KG,pulses and nuts,650.0,,,,,,,120,,,5,,,,Beans (niebe) - Retail (KG),Beans niebe,1.0,1.0,
+2018-03-15,Beans (niebe) - Retail,KG,pulses and nuts,650.0,,,,,,,120,,,5,,,,Beans (niebe) - Retail (KG),Beans niebe,1.0,1.0,
+2018-04-15,Beans (niebe) - Retail,KG,pulses and nuts,650.0,,,,,,,120,,,5,,,,Beans (niebe) - Retail (KG),Beans niebe,1.0,1.0,
+2018-05-15,Beans (niebe) - Retail,KG,pulses and nuts,650.0,,,,,,,120,,,5,,,,Beans (niebe) - Retail (KG),Beans niebe,1.0,1.0,
+2018-06-15,Beans (niebe) - Retail,KG,pulses and nuts,650.0,,,,,,,120,,,5,,,,Beans (niebe) - Retail (KG),Beans niebe,1.0,1.0,
+2018-07-15,Beans (niebe) - Retail,KG,pulses and nuts,650.0,,,,,,,120,,,5,,,,Beans (niebe) - Retail (KG),Beans niebe,1.0,1.0,
+2018-08-15,Beans (niebe) - Retail,KG,pulses and nuts,650.0,,,,,,,120,,,5,,,,Beans (niebe) - Retail (KG),Beans niebe,1.0,1.0,
+2018-09-15,Beans (niebe) - Retail,KG,pulses and nuts,650.0,,,,,,,120,,,5,,,,Beans (niebe) - Retail (KG),Beans niebe,1.0,1.0,
+2018-10-15,Beans (niebe) - Retail,KG,pulses and nuts,650.0,,,,,,,120,,,5,,,,Beans (niebe) - Retail (KG),Beans niebe,1.0,1.0,
+2018-11-15,Beans (niebe) - Retail,KG,pulses and nuts,650.0,,,,,,,120,,,5,,,,Beans (niebe) - Retail (KG),Beans niebe,1.0,1.0,
+2018-12-15,Beans (niebe) - Retail,KG,pulses and nuts,650.0,,,,,,,120,,,5,,,,Beans (niebe) - Retail (KG),Beans niebe,1.0,1.0,
+2019-01-15,Beans (niebe) - Retail,KG,pulses and nuts,650.0,,,,,,,120,,,5,,,,Beans (niebe) - Retail (KG),Beans niebe,1.0,1.0,
+2019-02-15,Beans (niebe) - Retail,KG,pulses and nuts,650.0,,,,,,,120,,,5,,,,Beans (niebe) - Retail (KG),Beans niebe,1.0,1.0,
+2019-03-15,Beans (niebe) - Retail,KG,pulses and nuts,650.0,,,,,,,120,,,5,,,,Beans (niebe) - Retail (KG),Beans niebe,1.0,1.0,
+2019-04-15,Beans (niebe) - Retail,KG,pulses and nuts,650.0,,,,,,,120,,,5,,,,Beans (niebe) - Retail (KG),Beans niebe,1.0,1.0,
+2019-05-15,Beans (niebe) - Retail,KG,pulses and nuts,650.0,,,,,,,120,,,5,,,,Beans (niebe) - Retail (KG),Beans niebe,1.0,1.0,
+2019-06-15,Beans (niebe) - Retail,KG,pulses and nuts,650.0,,,,,,,120,,,5,,,,Beans (niebe) - Retail (KG),Beans niebe,1.0,1.0,
+2019-07-15,Beans (niebe) - Retail,KG,pulses and nuts,650.0,,,,,,,120,,,5,,,,Beans (niebe) - Retail (KG),Beans niebe,1.0,1.0,
+2019-08-15,Beans (niebe) - Retail,KG,pulses and nuts,650.0,,,,,,,120,,,5,,,,Beans (niebe) - Retail (KG),Beans niebe,1.0,1.0,
+2019-09-15,Beans (niebe) - Retail,KG,pulses and nuts,650.0,,,,,,,120,,,5,,,,Beans (niebe) - Retail (KG),Beans niebe,1.0,1.0,
+2019-10-15,Beans (niebe) - Retail,KG,pulses and nuts,650.0,,,,,,,120,,,5,,,,Beans (niebe) - Retail (KG),Beans niebe,1.0,1.0,
+2019-11-15,Beans (niebe) - Retail,KG,pulses and nuts,650.0,,,,,,,120,,,5,,,,Beans (niebe) - Retail (KG),Beans niebe,1.0,1.0,
+2019-12-15,Beans (niebe) - Retail,KG,pulses and nuts,650.0,,,,,,,120,,,5,,,,Beans (niebe) - Retail (KG),Beans niebe,1.0,1.0,
+2020-01-15,Beans (niebe) - Retail,KG,pulses and nuts,650.0,,,,,,,120,,,5,,,,Beans (niebe) - Retail (KG),Beans niebe,1.0,1.0,
+2020-02-15,Beans (niebe) - Retail,KG,pulses and nuts,650.0,,,,,,,120,,,5,,,,Beans (niebe) - Retail (KG),Beans niebe,1.0,1.0,
+2020-03-15,Beans (niebe) - Retail,KG,pulses and nuts,650.0,,,,,,,120,,,5,,,,Beans (niebe) - Retail (KG),Beans niebe,1.0,1.0,
+2020-04-15,Beans (niebe) - Retail,KG,pulses and nuts,650.0,XOF,Senegal,Fatick,47586.0,Fatick,414.0,120,15.0,5.0,5,414_120_15_5,,2020.0,Beans (niebe) - Retail (KG),Beans niebe,1.0,0.0,1586908800.0
+2020-05-15,Beans (niebe) - Retail,KG,pulses and nuts,600.0,XOF,Senegal,Kolda,2640.0,Kolda,421.0,120,15.0,5.0,5,421_120_15_5,,2020.0,Beans (niebe) - Retail (KG),Beans niebe,1.0,0.0,1589500800.0
+2020-06-15,Beans (niebe) - Retail,KG,pulses and nuts,600.0,XOF,Senegal,Kolda,2640.0,Kolda,421.0,120,15.0,5.0,5,421_120_15_5,,2020.0,Beans (niebe) - Retail (KG),Beans niebe,1.0,0.0,1592179200.0
+2020-07-15,Beans (niebe) - Retail,KG,pulses and nuts,600.0,XOF,Senegal,Tambacounda,2643.0,Tambacounda,441.0,120,15.0,5.0,5,441_120_15_5,,2020.0,Beans (niebe) - Retail (KG),Beans niebe,1.0,0.0,1594771200.0
+2020-08-15,Beans (niebe) - Retail,KG,pulses and nuts,600.0,XOF,Senegal,Kaolack,2639.0,Kaolack,418.0,120,15.0,5.0,5,418_120_15_5,,2020.0,Beans (niebe) - Retail (KG),Beans niebe,1.0,0.0,1597449600.0
+2020-09-15,Beans (niebe) - Retail,KG,pulses and nuts,580.0,XOF,Senegal,Fatick,47586.0,Gossas,415.0,120,15.0,5.0,5,415_120_15_5,,2020.0,Beans (niebe) - Retail (KG),Beans niebe,1.0,0.0,1600128000.0
+2020-10-15,Beans (niebe) - Retail,KG,pulses and nuts,500.0,XOF,Senegal,Kedougou,1374.0,Kedougou,419.0,120,15.0,5.0,5,419_120_15_5,,2020.0,Beans (niebe) - Retail (KG),Beans niebe,1.0,0.0,1602720000.0
+2020-11-15,Beans (niebe) - Retail,KG,pulses and nuts,500.0,XOF,Senegal,Kaolack,2639.0,Porokhane,437.0,120,15.0,5.0,5,437_120_15_5,,2020.0,Beans (niebe) - Retail (KG),Beans niebe,1.0,0.0,1605398400.0
+2015-01-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,600.0,,,,,,,119,,,5,,,,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1.0,1.0,
+2015-02-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,600.0,,,,,,,119,,,5,,,,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1.0,1.0,
+2015-03-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,600.0,,,,,,,119,,,5,,,,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1.0,1.0,
+2015-04-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,600.0,,,,,,,119,,,5,,,,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1.0,1.0,
+2015-05-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,600.0,,,,,,,119,,,5,,,,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1.0,1.0,
+2015-06-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,600.0,,,,,,,119,,,5,,,,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1.0,1.0,
+2015-07-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,600.0,,,,,,,119,,,5,,,,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1.0,1.0,
+2015-08-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,600.0,,,,,,,119,,,5,,,,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1.0,1.0,
+2015-09-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,600.0,,,,,,,119,,,5,,,,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1.0,1.0,
+2015-10-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,600.0,,,,,,,119,,,5,,,,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1.0,1.0,
+2015-11-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,600.0,,,,,,,119,,,5,,,,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1.0,1.0,
+2015-12-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,600.0,,,,,,,119,,,5,,,,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1.0,1.0,
+2016-01-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,600.0,,,,,,,119,,,5,,,,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1.0,1.0,
+2016-02-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,600.0,,,,,,,119,,,5,,,,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1.0,1.0,
+2016-03-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,600.0,,,,,,,119,,,5,,,,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1.0,1.0,
+2016-04-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,600.0,,,,,,,119,,,5,,,,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1.0,1.0,
+2016-05-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,600.0,,,,,,,119,,,5,,,,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1.0,1.0,
+2016-06-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,600.0,,,,,,,119,,,5,,,,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1.0,1.0,
+2016-07-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,600.0,,,,,,,119,,,5,,,,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1.0,1.0,
+2016-08-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,600.0,,,,,,,119,,,5,,,,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1.0,1.0,
+2016-09-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,600.0,,,,,,,119,,,5,,,,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1.0,1.0,
+2016-10-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,600.0,,,,,,,119,,,5,,,,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1.0,1.0,
+2016-11-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,600.0,,,,,,,119,,,5,,,,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1.0,1.0,
+2016-12-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,600.0,,,,,,,119,,,5,,,,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1.0,1.0,
+2017-01-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,600.0,,,,,,,119,,,5,,,,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1.0,1.0,
+2017-02-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,600.0,,,,,,,119,,,5,,,,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1.0,1.0,
+2017-03-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,600.0,,,,,,,119,,,5,,,,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1.0,1.0,
+2017-04-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,600.0,,,,,,,119,,,5,,,,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1.0,1.0,
+2017-05-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,600.0,,,,,,,119,,,5,,,,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1.0,1.0,
+2017-06-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,600.0,,,,,,,119,,,5,,,,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1.0,1.0,
+2017-07-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,600.0,,,,,,,119,,,5,,,,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1.0,1.0,
+2017-08-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,600.0,,,,,,,119,,,5,,,,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1.0,1.0,
+2017-09-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,600.0,,,,,,,119,,,5,,,,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1.0,1.0,
+2017-10-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,600.0,,,,,,,119,,,5,,,,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1.0,1.0,
+2017-11-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,600.0,,,,,,,119,,,5,,,,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1.0,1.0,
+2017-12-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,600.0,,,,,,,119,,,5,,,,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1.0,1.0,
+2018-01-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,600.0,,,,,,,119,,,5,,,,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1.0,1.0,
+2018-02-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,600.0,,,,,,,119,,,5,,,,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1.0,1.0,
+2018-03-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,600.0,,,,,,,119,,,5,,,,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1.0,1.0,
+2018-04-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,600.0,,,,,,,119,,,5,,,,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1.0,1.0,
+2018-05-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,600.0,,,,,,,119,,,5,,,,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1.0,1.0,
+2018-06-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,600.0,,,,,,,119,,,5,,,,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1.0,1.0,
+2018-07-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,600.0,,,,,,,119,,,5,,,,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1.0,1.0,
+2018-08-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,600.0,,,,,,,119,,,5,,,,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1.0,1.0,
+2018-09-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,600.0,,,,,,,119,,,5,,,,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1.0,1.0,
+2018-10-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,600.0,,,,,,,119,,,5,,,,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1.0,1.0,
+2018-11-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,600.0,,,,,,,119,,,5,,,,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1.0,1.0,
+2018-12-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,600.0,,,,,,,119,,,5,,,,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1.0,1.0,
+2019-01-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,600.0,,,,,,,119,,,5,,,,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1.0,1.0,
+2019-02-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,600.0,,,,,,,119,,,5,,,,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1.0,1.0,
+2019-03-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,600.0,,,,,,,119,,,5,,,,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1.0,1.0,
+2019-04-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,600.0,,,,,,,119,,,5,,,,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1.0,1.0,
+2019-05-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,600.0,,,,,,,119,,,5,,,,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1.0,1.0,
+2019-06-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,600.0,,,,,,,119,,,5,,,,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1.0,1.0,
+2019-07-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,600.0,,,,,,,119,,,5,,,,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1.0,1.0,
+2019-08-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,600.0,,,,,,,119,,,5,,,,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1.0,1.0,
+2019-09-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,600.0,,,,,,,119,,,5,,,,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1.0,1.0,
+2019-10-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,600.0,,,,,,,119,,,5,,,,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1.0,1.0,
+2019-11-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,600.0,,,,,,,119,,,5,,,,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1.0,1.0,
+2019-12-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,600.0,,,,,,,119,,,5,,,,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1.0,1.0,
+2020-01-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,600.0,,,,,,,119,,,5,,,,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1.0,1.0,
+2020-02-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,600.0,,,,,,,119,,,5,,,,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1.0,1.0,
+2020-03-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,600.0,,,,,,,119,,,5,,,,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1.0,1.0,
+2020-04-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,600.0,XOF,Senegal,Kedougou,1374.0,Kedougou,419.0,119,15.0,5.0,5,419_119_15_5,,2020.0,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1.0,0.0,1586908800.0
+2020-05-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,600.0,,,,,,,119,,,5,,,,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1.0,1.0,
+2020-06-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,600.0,,,,,,,119,,,5,,,,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1.0,1.0,
+2020-07-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,600.0,,,,,,,119,,,5,,,,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1.0,1.0,
+2020-08-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,600.0,,,,,,,119,,,5,,,,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1.0,1.0,
+2020-09-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,600.0,,,,,,,119,,,5,,,,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1.0,1.0,
+2020-10-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,600.0,,,,,,,119,,,5,,,,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1.0,1.0,
+2020-11-15,Groundnuts (shelled) - Retail,KG,pulses and nuts,600.0,,,,,,,119,,,5,,,,Groundnuts (shelled) - Retail (KG),Groundnuts shelled,1.0,1.0,
+2015-01-15,Groundnuts (unshelled) - Retail,KG,pulses and nuts,275.0,,,,,,,118,,,5,,,,Groundnuts (unshelled) - Retail (KG),Groundnuts unshelled,1.0,1.0,
+2015-02-15,Groundnuts (unshelled) - Retail,KG,pulses and nuts,275.0,,,,,,,118,,,5,,,,Groundnuts (unshelled) - Retail (KG),Groundnuts unshelled,1.0,1.0,
+2015-03-15,Groundnuts (unshelled) - Retail,KG,pulses and nuts,275.0,,,,,,,118,,,5,,,,Groundnuts (unshelled) - Retail (KG),Groundnuts unshelled,1.0,1.0,
+2015-04-15,Groundnuts (unshelled) - Retail,KG,pulses and nuts,275.0,,,,,,,118,,,5,,,,Groundnuts (unshelled) - Retail (KG),Groundnuts unshelled,1.0,1.0,
+2015-05-15,Groundnuts (unshelled) - Retail,KG,pulses and nuts,275.0,,,,,,,118,,,5,,,,Groundnuts (unshelled) - Retail (KG),Groundnuts unshelled,1.0,1.0,
+2015-06-15,Groundnuts (unshelled) - Retail,KG,pulses and nuts,275.0,,,,,,,118,,,5,,,,Groundnuts (unshelled) - Retail (KG),Groundnuts unshelled,1.0,1.0,
+2015-07-15,Groundnuts (unshelled) - Retail,KG,pulses and nuts,275.0,,,,,,,118,,,5,,,,Groundnuts (unshelled) - Retail (KG),Groundnuts unshelled,1.0,1.0,
+2015-08-15,Groundnuts (unshelled) - Retail,KG,pulses and nuts,275.0,,,,,,,118,,,5,,,,Groundnuts (unshelled) - Retail (KG),Groundnuts unshelled,1.0,1.0,
+2015-09-15,Groundnuts (unshelled) - Retail,KG,pulses and nuts,275.0,,,,,,,118,,,5,,,,Groundnuts (unshelled) - Retail (KG),Groundnuts unshelled,1.0,1.0,
+2015-10-15,Groundnuts (unshelled) - Retail,KG,pulses and nuts,275.0,,,,,,,118,,,5,,,,Groundnuts (unshelled) - Retail (KG),Groundnuts unshelled,1.0,1.0,
+2015-11-15,Groundnuts (unshelled) - Retail,KG,pulses and nuts,275.0,,,,,,,118,,,5,,,,Groundnuts (unshelled) - Retail (KG),Groundnuts unshelled,1.0,1.0,
+2015-12-15,Groundnuts (unshelled) - Retail,KG,pulses and nuts,275.0,,,,,,,118,,,5,,,,Groundnuts (unshelled) - Retail (KG),Groundnuts unshelled,1.0,1.0,
+2016-01-15,Groundnuts (unshelled) - Retail,KG,pulses and nuts,275.0,,,,,,,118,,,5,,,,Groundnuts (unshelled) - Retail (KG),Groundnuts unshelled,1.0,1.0,
+2016-02-15,Groundnuts (unshelled) - Retail,KG,pulses and nuts,275.0,,,,,,,118,,,5,,,,Groundnuts (unshelled) - Retail (KG),Groundnuts unshelled,1.0,1.0,
+2016-03-15,Groundnuts (unshelled) - Retail,KG,pulses and nuts,275.0,,,,,,,118,,,5,,,,Groundnuts (unshelled) - Retail (KG),Groundnuts unshelled,1.0,1.0,
+2016-04-15,Groundnuts (unshelled) - Retail,KG,pulses and nuts,275.0,,,,,,,118,,,5,,,,Groundnuts (unshelled) - Retail (KG),Groundnuts unshelled,1.0,1.0,
+2016-05-15,Groundnuts (unshelled) - Retail,KG,pulses and nuts,275.0,,,,,,,118,,,5,,,,Groundnuts (unshelled) - Retail (KG),Groundnuts unshelled,1.0,1.0,
+2016-06-15,Groundnuts (unshelled) - Retail,KG,pulses and nuts,275.0,,,,,,,118,,,5,,,,Groundnuts (unshelled) - Retail (KG),Groundnuts unshelled,1.0,1.0,
+2016-07-15,Groundnuts (unshelled) - Retail,KG,pulses and nuts,275.0,,,,,,,118,,,5,,,,Groundnuts (unshelled) - Retail (KG),Groundnuts unshelled,1.0,1.0,
+2016-08-15,Groundnuts (unshelled) - Retail,KG,pulses and nuts,275.0,,,,,,,118,,,5,,,,Groundnuts (unshelled) - Retail (KG),Groundnuts unshelled,1.0,1.0,
+2016-09-15,Groundnuts (unshelled) - Retail,KG,pulses and nuts,275.0,,,,,,,118,,,5,,,,Groundnuts (unshelled) - Retail (KG),Groundnuts unshelled,1.0,1.0,
+2016-10-15,Groundnuts (unshelled) - Retail,KG,pulses and nuts,275.0,,,,,,,118,,,5,,,,Groundnuts (unshelled) - Retail (KG),Groundnuts unshelled,1.0,1.0,
+2016-11-15,Groundnuts (unshelled) - Retail,KG,pulses and nuts,275.0,,,,,,,118,,,5,,,,Groundnuts (unshelled) - Retail (KG),Groundnuts unshelled,1.0,1.0,
+2016-12-15,Groundnuts (unshelled) - Retail,KG,pulses and nuts,275.0,,,,,,,118,,,5,,,,Groundnuts (unshelled) - Retail (KG),Groundnuts unshelled,1.0,1.0,
+2017-01-15,Groundnuts (unshelled) - Retail,KG,pulses and nuts,275.0,,,,,,,118,,,5,,,,Groundnuts (unshelled) - Retail (KG),Groundnuts unshelled,1.0,1.0,
+2017-02-15,Groundnuts (unshelled) - Retail,KG,pulses and nuts,275.0,,,,,,,118,,,5,,,,Groundnuts (unshelled) - Retail (KG),Groundnuts unshelled,1.0,1.0,
+2017-03-15,Groundnuts (unshelled) - Retail,KG,pulses and nuts,275.0,,,,,,,118,,,5,,,,Groundnuts (unshelled) - Retail (KG),Groundnuts unshelled,1.0,1.0,
+2017-04-15,Groundnuts (unshelled) - Retail,KG,pulses and nuts,275.0,,,,,,,118,,,5,,,,Groundnuts (unshelled) - Retail (KG),Groundnuts unshelled,1.0,1.0,
+2017-05-15,Groundnuts (unshelled) - Retail,KG,pulses and nuts,275.0,,,,,,,118,,,5,,,,Groundnuts (unshelled) - Retail (KG),Groundnuts unshelled,1.0,1.0,
+2017-06-15,Groundnuts (unshelled) - Retail,KG,pulses and nuts,275.0,,,,,,,118,,,5,,,,Groundnuts (unshelled) - Retail (KG),Groundnuts unshelled,1.0,1.0,
+2017-07-15,Groundnuts (unshelled) - Retail,KG,pulses and nuts,275.0,,,,,,,118,,,5,,,,Groundnuts (unshelled) - Retail (KG),Groundnuts unshelled,1.0,1.0,
+2017-08-15,Groundnuts (unshelled) - Retail,KG,pulses and nuts,275.0,,,,,,,118,,,5,,,,Groundnuts (unshelled) - Retail (KG),Groundnuts unshelled,1.0,1.0,
+2017-09-15,Groundnuts (unshelled) - Retail,KG,pulses and nuts,275.0,,,,,,,118,,,5,,,,Groundnuts (unshelled) - Retail (KG),Groundnuts unshelled,1.0,1.0,
+2017-10-15,Groundnuts (unshelled) - Retail,KG,pulses and nuts,275.0,,,,,,,118,,,5,,,,Groundnuts (unshelled) - Retail (KG),Groundnuts unshelled,1.0,1.0,
+2017-11-15,Groundnuts (unshelled) - Retail,KG,pulses and nuts,275.0,,,,,,,118,,,5,,,,Groundnuts (unshelled) - Retail (KG),Groundnuts unshelled,1.0,1.0,
+2017-12-15,Groundnuts (unshelled) - Retail,KG,pulses and nuts,275.0,,,,,,,118,,,5,,,,Groundnuts (unshelled) - Retail (KG),Groundnuts unshelled,1.0,1.0,
+2018-01-15,Groundnuts (unshelled) - Retail,KG,pulses and nuts,275.0,,,,,,,118,,,5,,,,Groundnuts (unshelled) - Retail (KG),Groundnuts unshelled,1.0,1.0,
+2018-02-15,Groundnuts (unshelled) - Retail,KG,pulses and nuts,275.0,,,,,,,118,,,5,,,,Groundnuts (unshelled) - Retail (KG),Groundnuts unshelled,1.0,1.0,
+2018-03-15,Groundnuts (unshelled) - Retail,KG,pulses and nuts,275.0,,,,,,,118,,,5,,,,Groundnuts (unshelled) - Retail (KG),Groundnuts unshelled,1.0,1.0,
+2018-04-15,Groundnuts (unshelled) - Retail,KG,pulses and nuts,275.0,,,,,,,118,,,5,,,,Groundnuts (unshelled) - Retail (KG),Groundnuts unshelled,1.0,1.0,
+2018-05-15,Groundnuts (unshelled) - Retail,KG,pulses and nuts,275.0,,,,,,,118,,,5,,,,Groundnuts (unshelled) - Retail (KG),Groundnuts unshelled,1.0,1.0,
+2018-06-15,Groundnuts (unshelled) - Retail,KG,pulses and nuts,275.0,,,,,,,118,,,5,,,,Groundnuts (unshelled) - Retail (KG),Groundnuts unshelled,1.0,1.0,
+2018-07-15,Groundnuts (unshelled) - Retail,KG,pulses and nuts,275.0,,,,,,,118,,,5,,,,Groundnuts (unshelled) - Retail (KG),Groundnuts unshelled,1.0,1.0,
+2018-08-15,Groundnuts (unshelled) - Retail,KG,pulses and nuts,275.0,,,,,,,118,,,5,,,,Groundnuts (unshelled) - Retail (KG),Groundnuts unshelled,1.0,1.0,
+2018-09-15,Groundnuts (unshelled) - Retail,KG,pulses and nuts,275.0,,,,,,,118,,,5,,,,Groundnuts (unshelled) - Retail (KG),Groundnuts unshelled,1.0,1.0,
+2018-10-15,Groundnuts (unshelled) - Retail,KG,pulses and nuts,275.0,,,,,,,118,,,5,,,,Groundnuts (unshelled) - Retail (KG),Groundnuts unshelled,1.0,1.0,
+2018-11-15,Groundnuts (unshelled) - Retail,KG,pulses and nuts,275.0,,,,,,,118,,,5,,,,Groundnuts (unshelled) - Retail (KG),Groundnuts unshelled,1.0,1.0,
+2018-12-15,Groundnuts (unshelled) - Retail,KG,pulses and nuts,275.0,,,,,,,118,,,5,,,,Groundnuts (unshelled) - Retail (KG),Groundnuts unshelled,1.0,1.0,
+2019-01-15,Groundnuts (unshelled) - Retail,KG,pulses and nuts,275.0,,,,,,,118,,,5,,,,Groundnuts (unshelled) - Retail (KG),Groundnuts unshelled,1.0,1.0,
+2019-02-15,Groundnuts (unshelled) - Retail,KG,pulses and nuts,275.0,,,,,,,118,,,5,,,,Groundnuts (unshelled) - Retail (KG),Groundnuts unshelled,1.0,1.0,
+2019-03-15,Groundnuts (unshelled) - Retail,KG,pulses and nuts,275.0,,,,,,,118,,,5,,,,Groundnuts (unshelled) - Retail (KG),Groundnuts unshelled,1.0,1.0,
+2019-04-15,Groundnuts (unshelled) - Retail,KG,pulses and nuts,275.0,,,,,,,118,,,5,,,,Groundnuts (unshelled) - Retail (KG),Groundnuts unshelled,1.0,1.0,
+2019-05-15,Groundnuts (unshelled) - Retail,KG,pulses and nuts,275.0,,,,,,,118,,,5,,,,Groundnuts (unshelled) - Retail (KG),Groundnuts unshelled,1.0,1.0,
+2019-06-15,Groundnuts (unshelled) - Retail,KG,pulses and nuts,275.0,,,,,,,118,,,5,,,,Groundnuts (unshelled) - Retail (KG),Groundnuts unshelled,1.0,1.0,
+2019-07-15,Groundnuts (unshelled) - Retail,KG,pulses and nuts,275.0,,,,,,,118,,,5,,,,Groundnuts (unshelled) - Retail (KG),Groundnuts unshelled,1.0,1.0,
+2019-08-15,Groundnuts (unshelled) - Retail,KG,pulses and nuts,275.0,,,,,,,118,,,5,,,,Groundnuts (unshelled) - Retail (KG),Groundnuts unshelled,1.0,1.0,
+2019-09-15,Groundnuts (unshelled) - Retail,KG,pulses and nuts,275.0,,,,,,,118,,,5,,,,Groundnuts (unshelled) - Retail (KG),Groundnuts unshelled,1.0,1.0,
+2019-10-15,Groundnuts (unshelled) - Retail,KG,pulses and nuts,275.0,,,,,,,118,,,5,,,,Groundnuts (unshelled) - Retail (KG),Groundnuts unshelled,1.0,1.0,
+2019-11-15,Groundnuts (unshelled) - Retail,KG,pulses and nuts,275.0,,,,,,,118,,,5,,,,Groundnuts (unshelled) - Retail (KG),Groundnuts unshelled,1.0,1.0,
+2019-12-15,Groundnuts (unshelled) - Retail,KG,pulses and nuts,275.0,,,,,,,118,,,5,,,,Groundnuts (unshelled) - Retail (KG),Groundnuts unshelled,1.0,1.0,
+2020-01-15,Groundnuts (unshelled) - Retail,KG,pulses and nuts,275.0,,,,,,,118,,,5,,,,Groundnuts (unshelled) - Retail (KG),Groundnuts unshelled,1.0,1.0,
+2020-02-15,Groundnuts (unshelled) - Retail,KG,pulses and nuts,275.0,,,,,,,118,,,5,,,,Groundnuts (unshelled) - Retail (KG),Groundnuts unshelled,1.0,1.0,
+2020-03-15,Groundnuts (unshelled) - Retail,KG,pulses and nuts,275.0,,,,,,,118,,,5,,,,Groundnuts (unshelled) - Retail (KG),Groundnuts unshelled,1.0,1.0,
+2020-04-15,Groundnuts (unshelled) - Retail,KG,pulses and nuts,275.0,XOF,Senegal,Tambacounda,2643.0,Tambacounda,441.0,118,15.0,5.0,5,441_118_15_5,,2020.0,Groundnuts (unshelled) - Retail (KG),Groundnuts unshelled,1.0,0.0,1586908800.0
+2020-05-15,Groundnuts (unshelled) - Retail,KG,pulses and nuts,275.0,,,,,,,118,,,5,,,,Groundnuts (unshelled) - Retail (KG),Groundnuts unshelled,1.0,1.0,
+2020-06-15,Groundnuts (unshelled) - Retail,KG,pulses and nuts,275.0,,,,,,,118,,,5,,,,Groundnuts (unshelled) - Retail (KG),Groundnuts unshelled,1.0,1.0,
+2020-07-15,Groundnuts (unshelled) - Retail,KG,pulses and nuts,275.0,,,,,,,118,,,5,,,,Groundnuts (unshelled) - Retail (KG),Groundnuts unshelled,1.0,1.0,
+2020-08-15,Groundnuts (unshelled) - Retail,KG,pulses and nuts,275.0,,,,,,,118,,,5,,,,Groundnuts (unshelled) - Retail (KG),Groundnuts unshelled,1.0,1.0,
+2020-09-15,Groundnuts (unshelled) - Retail,KG,pulses and nuts,275.0,,,,,,,118,,,5,,,,Groundnuts (unshelled) - Retail (KG),Groundnuts unshelled,1.0,1.0,
+2020-10-15,Groundnuts (unshelled) - Retail,KG,pulses and nuts,275.0,,,,,,,118,,,5,,,,Groundnuts (unshelled) - Retail (KG),Groundnuts unshelled,1.0,1.0,
+2020-11-15,Groundnuts (unshelled) - Retail,KG,pulses and nuts,275.0,,,,,,,118,,,5,,,,Groundnuts (unshelled) - Retail (KG),Groundnuts unshelled,1.0,1.0,
+2015-01-15,Maize (imported) - Retail,KG,cereals and tubers,200.0,XOF,Senegal,Fatick,47586.0,Fatick,414.0,158,15.0,5.0,1,414_158_15_5,,2015.0,Maize (imported) - Retail (KG),Maize imp.,1.0,0.0,1421280000.0
+2015-02-15,Maize (imported) - Retail,KG,cereals and tubers,200.0,XOF,Senegal,Kedougou,1374.0,Kedougou,419.0,158,15.0,5.0,1,419_158_15_5,,2015.0,Maize (imported) - Retail (KG),Maize imp.,1.0,0.0,1423958400.0
+2015-03-15,Maize (imported) - Retail,KG,cereals and tubers,220.0,XOF,Senegal,Dakar,2636.0,Thiaroye,442.0,158,15.0,5.0,1,442_158_15_5,,2015.0,Maize (imported) - Retail (KG),Maize imp.,1.0,0.0,1426377600.0
+2015-04-15,Maize (imported) - Retail,KG,cereals and tubers,220.0,XOF,Senegal,Dakar,2636.0,Castors,408.0,158,15.0,5.0,1,408_158_15_5,,2015.0,Maize (imported) - Retail (KG),Maize imp.,1.0,0.0,1429056000.0
+2015-05-15,Maize (imported) - Retail,KG,cereals and tubers,220.0,,,,,,,158,,,1,,,,Maize (imported) - Retail (KG),Maize imp.,1.0,1.0,
+2015-06-15,Maize (imported) - Retail,KG,cereals and tubers,220.0,XOF,Senegal,Dakar,2636.0,Castors,408.0,158,15.0,5.0,1,408_158_15_5,,2015.0,Maize (imported) - Retail (KG),Maize imp.,1.0,0.0,1434326400.0
+2015-07-15,Maize (imported) - Retail,KG,cereals and tubers,220.0,XOF,Senegal,Dakar,2636.0,Castors,408.0,158,15.0,5.0,1,408_158_15_5,,2015.0,Maize (imported) - Retail (KG),Maize imp.,1.0,0.0,1436918400.0
+2015-08-15,Maize (imported) - Retail,KG,cereals and tubers,227.0,XOF,Senegal,Diourbel,47585.0,Diourbel,413.0,158,15.0,5.0,1,413_158_15_5,,2015.0,Maize (imported) - Retail (KG),Maize imp.,1.0,0.0,1439596800.0
+2015-09-15,Maize (imported) - Retail,KG,cereals and tubers,210.0,XOF,Senegal,Matam,47588.0,Orkodiere,433.0,158,15.0,5.0,1,433_158_15_5,,2015.0,Maize (imported) - Retail (KG),Maize imp.,1.0,0.0,1442275200.0
+2015-10-15,Maize (imported) - Retail,KG,cereals and tubers,225.0,XOF,Senegal,Kedougou,1374.0,Kedougou,419.0,158,15.0,5.0,1,419_158_15_5,,2015.0,Maize (imported) - Retail (KG),Maize imp.,1.0,0.0,1444867200.0
+2015-11-15,Maize (imported) - Retail,KG,cereals and tubers,223.98360655737704,,,,,,,158,,,1,,,,Maize (imported) - Retail (KG),Maize imp.,1.0,1.0,
+2015-12-15,Maize (imported) - Retail,KG,cereals and tubers,223.0,XOF,Senegal,Dakar,2636.0,Thiaroye,442.0,158,15.0,5.0,1,442_158_15_5,,2015.0,Maize (imported) - Retail (KG),Maize imp.,1.0,0.0,1450137600.0
+2016-01-15,Maize (imported) - Retail,KG,cereals and tubers,200.0,XOF,Senegal,Dakar,2636.0,Gueule Tapee,457.0,158,15.0,5.0,1,457_158_15_5,,2016.0,Maize (imported) - Retail (KG),Maize imp.,1.0,0.0,1452816000.0
+2016-02-15,Maize (imported) - Retail,KG,cereals and tubers,213.0,XOF,Senegal,Dakar,2636.0,Thiaroye,442.0,158,15.0,5.0,1,442_158_15_5,,2016.0,Maize (imported) - Retail (KG),Maize imp.,1.0,0.0,1455494400.0
+2016-03-15,Maize (imported) - Retail,KG,cereals and tubers,208.0,XOF,Senegal,Thies,2644.0,Thies,443.0,158,15.0,5.0,1,443_158_15_5,,2016.0,Maize (imported) - Retail (KG),Maize imp.,1.0,0.0,1458000000.0
+2016-04-15,Maize (imported) - Retail,KG,cereals and tubers,215.0,XOF,Senegal,Thies,2644.0,Touba Toul,449.0,158,15.0,5.0,1,449_158_15_5,,2016.0,Maize (imported) - Retail (KG),Maize imp.,1.0,0.0,1460678400.0
+2016-05-15,Maize (imported) - Retail,KG,cereals and tubers,220.0,XOF,Senegal,Dakar,2636.0,Castors,408.0,158,15.0,5.0,1,408_158_15_5,,2016.0,Maize (imported) - Retail (KG),Maize imp.,1.0,0.0,1463270400.0
+2016-06-15,Maize (imported) - Retail,KG,cereals and tubers,225.0,XOF,Senegal,Thies,2644.0,Thilmakha,445.0,158,15.0,5.0,1,445_158_15_5,,2016.0,Maize (imported) - Retail (KG),Maize imp.,1.0,0.0,1465948800.0
+2016-07-15,Maize (imported) - Retail,KG,cereals and tubers,220.0,XOF,Senegal,Dakar,2636.0,Castors,408.0,158,15.0,5.0,1,408_158_15_5,,2016.0,Maize (imported) - Retail (KG),Maize imp.,1.0,0.0,1468540800.0
+2016-08-15,Maize (imported) - Retail,KG,cereals and tubers,225.0,XOF,Senegal,Diourbel,47585.0,Diourbel,413.0,158,15.0,5.0,1,413_158_15_5,,2016.0,Maize (imported) - Retail (KG),Maize imp.,1.0,0.0,1471219200.0
+2016-09-15,Maize (imported) - Retail,KG,cereals and tubers,225.0,XOF,Senegal,Dakar,2636.0,Castors,408.0,158,15.0,5.0,1,408_158_15_5,,2016.0,Maize (imported) - Retail (KG),Maize imp.,1.0,0.0,1473897600.0
+2016-10-15,Maize (imported) - Retail,KG,cereals and tubers,225.0,XOF,Senegal,Dakar,2636.0,Castors,408.0,158,15.0,5.0,1,408_158_15_5,,2016.0,Maize (imported) - Retail (KG),Maize imp.,1.0,0.0,1476489600.0
+2016-11-15,Maize (imported) - Retail,KG,cereals and tubers,225.0,XOF,Senegal,Dakar,2636.0,Castors,408.0,158,15.0,5.0,1,408_158_15_5,,2016.0,Maize (imported) - Retail (KG),Maize imp.,1.0,0.0,1479168000.0
+2016-12-15,Maize (imported) - Retail,KG,cereals and tubers,225.0,XOF,Senegal,Dakar,2636.0,Castors,408.0,158,15.0,5.0,1,408_158_15_5,,2016.0,Maize (imported) - Retail (KG),Maize imp.,1.0,0.0,1481760000.0
+2017-01-15,Maize (imported) - Retail,KG,cereals and tubers,225.0,XOF,Senegal,Dakar,2636.0,Castors,408.0,158,15.0,5.0,1,408_158_15_5,,2017.0,Maize (imported) - Retail (KG),Maize imp.,1.0,0.0,1484438400.0
+2017-02-15,Maize (imported) - Retail,KG,cereals and tubers,207.0,XOF,Senegal,Thies,2644.0,Thilmakha,445.0,158,15.0,5.0,1,445_158_15_5,,2017.0,Maize (imported) - Retail (KG),Maize imp.,1.0,0.0,1487116800.0
+2017-03-15,Maize (imported) - Retail,KG,cereals and tubers,213.0,XOF,Senegal,Kolda,2640.0,Diaobe,412.0,158,15.0,5.0,1,412_158_15_5,,2017.0,Maize (imported) - Retail (KG),Maize imp.,1.0,0.0,1489536000.0
+2017-04-15,Maize (imported) - Retail,KG,cereals and tubers,225.0,XOF,Senegal,Dakar,2636.0,Castors,408.0,158,15.0,5.0,1,408_158_15_5,,2017.0,Maize (imported) - Retail (KG),Maize imp.,1.0,0.0,1492214400.0
+2017-05-15,Maize (imported) - Retail,KG,cereals and tubers,225.0,XOF,Senegal,Dakar,2636.0,Castors,408.0,158,15.0,5.0,1,408_158_15_5,,2017.0,Maize (imported) - Retail (KG),Maize imp.,1.0,0.0,1494806400.0
+2017-06-15,Maize (imported) - Retail,KG,cereals and tubers,225.0,XOF,Senegal,Dakar,2636.0,Castors,408.0,158,15.0,5.0,1,408_158_15_5,,2017.0,Maize (imported) - Retail (KG),Maize imp.,1.0,0.0,1497484800.0
+2017-07-15,Maize (imported) - Retail,KG,cereals and tubers,225.0,XOF,Senegal,Kolda,2640.0,Kolda,421.0,158,15.0,5.0,1,421_158_15_5,,2017.0,Maize (imported) - Retail (KG),Maize imp.,1.0,0.0,1500076800.0
+2017-08-15,Maize (imported) - Retail,KG,cereals and tubers,225.0,XOF,Senegal,Thies,2644.0,Mbafaye,427.0,158,15.0,5.0,1,427_158_15_5,,2017.0,Maize (imported) - Retail (KG),Maize imp.,1.0,0.0,1502755200.0
+2017-09-15,Maize (imported) - Retail,KG,cereals and tubers,225.0,XOF,Senegal,Dakar,2636.0,Thiaroye,442.0,158,15.0,5.0,1,442_158_15_5,,2017.0,Maize (imported) - Retail (KG),Maize imp.,1.0,0.0,1505433600.0
+2017-10-15,Maize (imported) - Retail,KG,cereals and tubers,220.0,XOF,Senegal,Dakar,2636.0,Tilene,447.0,158,15.0,5.0,1,447_158_15_5,,2017.0,Maize (imported) - Retail (KG),Maize imp.,1.0,0.0,1508025600.0
+2017-11-15,Maize (imported) - Retail,KG,cereals and tubers,220.0,XOF,Senegal,Dakar,2636.0,Tilene,447.0,158,15.0,5.0,1,447_158_15_5,,2017.0,Maize (imported) - Retail (KG),Maize imp.,1.0,0.0,1510704000.0
+2017-12-15,Maize (imported) - Retail,KG,cereals and tubers,220.0,XOF,Senegal,Dakar,2636.0,Tilene,447.0,158,15.0,5.0,1,447_158_15_5,,2017.0,Maize (imported) - Retail (KG),Maize imp.,1.0,0.0,1513296000.0
+2018-01-15,Maize (imported) - Retail,KG,cereals and tubers,213.0,XOF,Senegal,Dakar,2636.0,Castors,408.0,158,15.0,5.0,1,408_158_15_5,,2018.0,Maize (imported) - Retail (KG),Maize imp.,1.0,0.0,1515974400.0
+2018-02-15,Maize (imported) - Retail,KG,cereals and tubers,210.0,XOF,Senegal,Fatick,47586.0,Keur I. Yacine,420.0,158,15.0,5.0,1,420_158_15_5,,2018.0,Maize (imported) - Retail (KG),Maize imp.,1.0,0.0,1518652800.0
+2018-03-15,Maize (imported) - Retail,KG,cereals and tubers,218.0,XOF,Senegal,Thies,2644.0,Mbafaye,427.0,158,15.0,5.0,1,427_158_15_5,,2018.0,Maize (imported) - Retail (KG),Maize imp.,1.0,0.0,1521072000.0
+2018-04-15,Maize (imported) - Retail,KG,cereals and tubers,200.0,XOF,Senegal,Thies,2644.0,Touba Toul,449.0,158,15.0,5.0,1,449_158_15_5,,2018.0,Maize (imported) - Retail (KG),Maize imp.,1.0,0.0,1523750400.0
+2018-05-15,Maize (imported) - Retail,KG,cereals and tubers,200.0,XOF,Senegal,Thies,2644.0,Touba Toul,449.0,158,15.0,5.0,1,449_158_15_5,,2018.0,Maize (imported) - Retail (KG),Maize imp.,1.0,0.0,1526342400.0
+2018-06-15,Maize (imported) - Retail,KG,cereals and tubers,213.0,XOF,Senegal,Dakar,2636.0,Thiaroye,442.0,158,15.0,5.0,1,442_158_15_5,,2018.0,Maize (imported) - Retail (KG),Maize imp.,1.0,0.0,1529020800.0
+2018-07-15,Maize (imported) - Retail,KG,cereals and tubers,225.0,XOF,Senegal,Kolda,2640.0,Sare Yoba,439.0,158,15.0,5.0,1,439_158_15_5,,2018.0,Maize (imported) - Retail (KG),Maize imp.,1.0,0.0,1531612800.0
+2018-08-15,Maize (imported) - Retail,KG,cereals and tubers,225.0,XOF,Senegal,Dakar,2636.0,Thiaroye,442.0,158,15.0,5.0,1,442_158_15_5,,2018.0,Maize (imported) - Retail (KG),Maize imp.,1.0,0.0,1534291200.0
+2018-09-15,Maize (imported) - Retail,KG,cereals and tubers,225.0,XOF,Senegal,Dakar,2636.0,Thiaroye,442.0,158,15.0,5.0,1,442_158_15_5,,2018.0,Maize (imported) - Retail (KG),Maize imp.,1.0,0.0,1536969600.0
+2018-10-15,Maize (imported) - Retail,KG,cereals and tubers,225.0,XOF,Senegal,Kolda,2640.0,Kolda,421.0,158,15.0,5.0,1,421_158_15_5,,2018.0,Maize (imported) - Retail (KG),Maize imp.,1.0,0.0,1539561600.0
+2018-11-15,Maize (imported) - Retail,KG,cereals and tubers,225.0,,,,,,,158,,,1,,,,Maize (imported) - Retail (KG),Maize imp.,1.0,1.0,
+2018-12-15,Maize (imported) - Retail,KG,cereals and tubers,225.0,,,,,,,158,,,1,,,,Maize (imported) - Retail (KG),Maize imp.,1.0,1.0,
+2019-01-15,Maize (imported) - Retail,KG,cereals and tubers,225.0,,,,,,,158,,,1,,,,Maize (imported) - Retail (KG),Maize imp.,1.0,1.0,
+2019-02-15,Maize (imported) - Retail,KG,cereals and tubers,225.0,,,,,,,158,,,1,,,,Maize (imported) - Retail (KG),Maize imp.,1.0,1.0,
+2019-03-15,Maize (imported) - Retail,KG,cereals and tubers,225.0,XOF,Senegal,Thies,2644.0,Thilmakha,445.0,158,15.0,5.0,1,445_158_15_5,,2019.0,Maize (imported) - Retail (KG),Maize imp.,1.0,0.0,1552608000.0
+2019-04-15,Maize (imported) - Retail,KG,cereals and tubers,225.0,XOF,Senegal,Kedougou,1374.0,Kedougou,419.0,158,15.0,5.0,1,419_158_15_5,,2019.0,Maize (imported) - Retail (KG),Maize imp.,1.0,0.0,1555286400.0
+2019-05-15,Maize (imported) - Retail,KG,cereals and tubers,225.0,XOF,Senegal,Thies,2644.0,Thilmakha,445.0,158,15.0,5.0,1,445_158_15_5,,2019.0,Maize (imported) - Retail (KG),Maize imp.,1.0,0.0,1557878400.0
+2019-06-15,Maize (imported) - Retail,KG,cereals and tubers,225.0,XOF,Senegal,Dakar,2636.0,Thiaroye,442.0,158,15.0,5.0,1,442_158_15_5,,2019.0,Maize (imported) - Retail (KG),Maize imp.,1.0,0.0,1560556800.0
+2019-07-15,Maize (imported) - Retail,KG,cereals and tubers,225.0,XOF,Senegal,Thies,2644.0,Thilmakha,445.0,158,15.0,5.0,1,445_158_15_5,,2019.0,Maize (imported) - Retail (KG),Maize imp.,1.0,0.0,1563148800.0
+2019-08-15,Maize (imported) - Retail,KG,cereals and tubers,225.0,XOF,Senegal,Dakar,2636.0,Thiaroye,442.0,158,15.0,5.0,1,442_158_15_5,,2019.0,Maize (imported) - Retail (KG),Maize imp.,1.0,0.0,1565827200.0
+2019-09-15,Maize (imported) - Retail,KG,cereals and tubers,225.0,XOF,Senegal,Dakar,2636.0,Thiaroye,442.0,158,15.0,5.0,1,442_158_15_5,,2019.0,Maize (imported) - Retail (KG),Maize imp.,1.0,0.0,1568505600.0
+2019-10-15,Maize (imported) - Retail,KG,cereals and tubers,225.0,XOF,Senegal,Thies,2644.0,Mbafaye,427.0,158,15.0,5.0,1,427_158_15_5,,2019.0,Maize (imported) - Retail (KG),Maize imp.,1.0,0.0,1571097600.0
+2019-11-15,Maize (imported) - Retail,KG,cereals and tubers,225.0,XOF,Senegal,Diourbel,47585.0,Bambey,406.0,158,15.0,5.0,1,406_158_15_5,,2019.0,Maize (imported) - Retail (KG),Maize imp.,1.0,0.0,1573776000.0
+2019-12-15,Maize (imported) - Retail,KG,cereals and tubers,225.0,XOF,Senegal,Diourbel,47585.0,Bambey,406.0,158,15.0,5.0,1,406_158_15_5,,2019.0,Maize (imported) - Retail (KG),Maize imp.,1.0,0.0,1576368000.0
+2020-01-15,Maize (imported) - Retail,KG,cereals and tubers,225.0,XOF,Senegal,Diourbel,47585.0,Bambey,406.0,158,15.0,5.0,1,406_158_15_5,,2020.0,Maize (imported) - Retail (KG),Maize imp.,1.0,0.0,1579046400.0
+2020-02-15,Maize (imported) - Retail,KG,cereals and tubers,225.0,XOF,Senegal,Thies,2644.0,Thies,443.0,158,15.0,5.0,1,443_158_15_5,,2020.0,Maize (imported) - Retail (KG),Maize imp.,1.0,0.0,1581724800.0
+2020-03-15,Maize (imported) - Retail,KG,cereals and tubers,200.0,XOF,Senegal,Dakar,2636.0,Tilene,447.0,158,15.0,5.0,1,447_158_15_5,,2020.0,Maize (imported) - Retail (KG),Maize imp.,1.0,0.0,1584230400.0
+2020-04-15,Maize (imported) - Retail,KG,cereals and tubers,225.0,XOF,Senegal,Sedhiou,1376.0,Sedhiou,452.0,158,15.0,5.0,1,452_158_15_5,,2020.0,Maize (imported) - Retail (KG),Maize imp.,1.0,0.0,1586908800.0
+2020-05-15,Maize (imported) - Retail,KG,cereals and tubers,225.0,XOF,Senegal,Diourbel,47585.0,Diourbel,413.0,158,15.0,5.0,1,413_158_15_5,,2020.0,Maize (imported) - Retail (KG),Maize imp.,1.0,0.0,1589500800.0
+2020-06-15,Maize (imported) - Retail,KG,cereals and tubers,216.6666,XOF,Senegal,Dakar,2636.0,Tilene,447.0,158,15.0,5.0,1,447_158_15_5,,2020.0,Maize (imported) - Retail (KG),Maize imp.,1.0,0.0,1592179200.0
+2020-07-15,Maize (imported) - Retail,KG,cereals and tubers,200.0,XOF,Senegal,Kaffrine,1378.0,Kaffrine,417.0,158,15.0,5.0,1,417_158_15_5,,2020.0,Maize (imported) - Retail (KG),Maize imp.,1.0,0.0,1594771200.0
+2020-08-15,Maize (imported) - Retail,KG,cereals and tubers,201.6666,XOF,Senegal,Dakar,2636.0,Thiaroye,442.0,158,15.0,5.0,1,442_158_15_5,,2020.0,Maize (imported) - Retail (KG),Maize imp.,1.0,0.0,1597449600.0
+2020-09-15,Maize (imported) - Retail,KG,cereals and tubers,205.5555,XOF,Senegal,Diourbel,47585.0,Bambey,406.0,158,15.0,5.0,1,406_158_15_5,,2020.0,Maize (imported) - Retail (KG),Maize imp.,1.0,0.0,1600128000.0
+2020-10-15,Maize (imported) - Retail,KG,cereals and tubers,200.0,XOF,Senegal,Dakar,2636.0,Tilene,447.0,158,15.0,5.0,1,447_158_15_5,,2020.0,Maize (imported) - Retail (KG),Maize imp.,1.0,0.0,1602720000.0
+2020-11-15,Maize (imported) - Retail,KG,cereals and tubers,225.0,XOF,Senegal,Kaolack,2639.0,Ndrame Escale,451.0,158,15.0,5.0,1,451_158_15_5,,2020.0,Maize (imported) - Retail (KG),Maize imp.,1.0,0.0,1605398400.0
+2015-01-15,Maize (local) - Retail,KG,cereals and tubers,190.0,XOF,Senegal,Diourbel,47585.0,Bambey,406.0,56,15.0,5.0,1,406_56_15_5,,2015.0,Maize (local) - Retail (KG),Maize loc.,1.0,0.0,1421280000.0
+2015-02-15,Maize (local) - Retail,KG,cereals and tubers,190.0,XOF,Senegal,Diourbel,47585.0,Bambey,406.0,56,15.0,5.0,1,406_56_15_5,,2015.0,Maize (local) - Retail (KG),Maize loc.,1.0,0.0,1423958400.0
+2015-03-15,Maize (local) - Retail,KG,cereals and tubers,200.0,XOF,Senegal,Kedougou,1374.0,Salémata,1542.0,56,15.0,5.0,1,1542_56_15_5,,2015.0,Maize (local) - Retail (KG),Maize loc.,1.0,0.0,1426377600.0
+2015-04-15,Maize (local) - Retail,KG,cereals and tubers,200.0,XOF,Senegal,Kedougou,1374.0,Mako,1543.0,56,15.0,5.0,1,1543_56_15_5,,2015.0,Maize (local) - Retail (KG),Maize loc.,1.0,0.0,1429056000.0
+2015-05-15,Maize (local) - Retail,KG,cereals and tubers,200.0,XOF,Senegal,Kedougou,1374.0,Mako,1543.0,56,15.0,5.0,1,1543_56_15_5,,2015.0,Maize (local) - Retail (KG),Maize loc.,1.0,0.0,1431648000.0
+2015-06-15,Maize (local) - Retail,KG,cereals and tubers,190.0,XOF,Senegal,Kolda,2640.0,Sare Yoba,439.0,56,15.0,5.0,1,439_56_15_5,,2015.0,Maize (local) - Retail (KG),Maize loc.,1.0,0.0,1434326400.0
+2015-07-15,Maize (local) - Retail,KG,cereals and tubers,210.0,XOF,Senegal,Dakar,2636.0,Castors,408.0,56,15.0,5.0,1,408_56_15_5,,2015.0,Maize (local) - Retail (KG),Maize loc.,1.0,0.0,1436918400.0
+2015-08-15,Maize (local) - Retail,KG,cereals and tubers,200.0,XOF,Senegal,Kolda,2640.0,Sare Yoba,439.0,56,15.0,5.0,1,439_56_15_5,,2015.0,Maize (local) - Retail (KG),Maize loc.,1.0,0.0,1439596800.0
+2015-09-15,Maize (local) - Retail,KG,cereals and tubers,200.0,XOF,Senegal,Kolda,2640.0,Kolda,421.0,56,15.0,5.0,1,421_56_15_5,,2015.0,Maize (local) - Retail (KG),Maize loc.,1.0,0.0,1442275200.0
+2015-10-15,Maize (local) - Retail,KG,cereals and tubers,200.0,XOF,Senegal,Louga,47587.0,Gouille Mbeuth,416.0,56,15.0,5.0,1,416_56_15_5,,2015.0,Maize (local) - Retail (KG),Maize loc.,1.0,0.0,1444867200.0
+2015-11-15,Maize (local) - Retail,KG,cereals and tubers,187.29508196721312,,,,,,,56,,,1,,,,Maize (local) - Retail (KG),Maize loc.,1.0,1.0,
+2015-12-15,Maize (local) - Retail,KG,cereals and tubers,175.0,XOF,Senegal,Tambacounda,2643.0,Tambacounda,441.0,56,15.0,5.0,1,441_56_15_5,,2015.0,Maize (local) - Retail (KG),Maize loc.,1.0,0.0,1450137600.0
+2016-01-15,Maize (local) - Retail,KG,cereals and tubers,190.0,XOF,Senegal,Louga,47587.0,Louga,424.0,56,15.0,5.0,1,424_56_15_5,,2016.0,Maize (local) - Retail (KG),Maize loc.,1.0,0.0,1452816000.0
+2016-02-15,Maize (local) - Retail,KG,cereals and tubers,193.0,XOF,Senegal,Sedhiou,1376.0,Sedhiou,452.0,56,15.0,5.0,1,452_56_15_5,,2016.0,Maize (local) - Retail (KG),Maize loc.,1.0,0.0,1455494400.0
+2016-03-15,Maize (local) - Retail,KG,cereals and tubers,187.0,XOF,Senegal,Kolda,2640.0,Sare Yoba,439.0,56,15.0,5.0,1,439_56_15_5,,2016.0,Maize (local) - Retail (KG),Maize loc.,1.0,0.0,1458000000.0
+2016-04-15,Maize (local) - Retail,KG,cereals and tubers,200.0,XOF,Senegal,Sedhiou,1376.0,Sedhiou,452.0,56,15.0,5.0,1,452_56_15_5,,2016.0,Maize (local) - Retail (KG),Maize loc.,1.0,0.0,1460678400.0
+2016-05-15,Maize (local) - Retail,KG,cereals and tubers,200.0,XOF,Senegal,Kedougou,1374.0,Mako,1543.0,56,15.0,5.0,1,1543_56_15_5,,2016.0,Maize (local) - Retail (KG),Maize loc.,1.0,0.0,1463270400.0
+2016-06-15,Maize (local) - Retail,KG,cereals and tubers,200.0,XOF,Senegal,Kolda,2640.0,Kolda,421.0,56,15.0,5.0,1,421_56_15_5,,2016.0,Maize (local) - Retail (KG),Maize loc.,1.0,0.0,1465948800.0
+2016-07-15,Maize (local) - Retail,KG,cereals and tubers,213.75,XOF,Senegal,Saint louis,47589.0,Mpal,430.0,56,15.0,5.0,1,430_56_15_5,,2016.0,Maize (local) - Retail (KG),Maize loc.,1.0,0.0,1468540800.0
+2016-08-15,Maize (local) - Retail,KG,cereals and tubers,211.0,XOF,Senegal,Kaolack,2639.0,Kaolack,418.0,56,15.0,5.0,1,418_56_15_5,,2016.0,Maize (local) - Retail (KG),Maize loc.,1.0,0.0,1471219200.0
+2016-09-15,Maize (local) - Retail,KG,cereals and tubers,225.0,XOF,Senegal,Dakar,2636.0,Thiaroye,442.0,56,15.0,5.0,1,442_56_15_5,,2016.0,Maize (local) - Retail (KG),Maize loc.,1.0,0.0,1473897600.0
+2016-10-15,Maize (local) - Retail,KG,cereals and tubers,231.0,XOF,Senegal,Saint louis,47589.0,Mpal,430.0,56,15.0,5.0,1,430_56_15_5,,2016.0,Maize (local) - Retail (KG),Maize loc.,1.0,0.0,1476489600.0
+2016-11-15,Maize (local) - Retail,KG,cereals and tubers,231.0,XOF,Senegal,Saint louis,47589.0,Mpal,430.0,56,15.0,5.0,1,430_56_15_5,,2016.0,Maize (local) - Retail (KG),Maize loc.,1.0,0.0,1479168000.0
+2016-12-15,Maize (local) - Retail,KG,cereals and tubers,203.0,XOF,Senegal,Kaffrine,1378.0,Kaffrine,417.0,56,15.0,5.0,1,417_56_15_5,,2016.0,Maize (local) - Retail (KG),Maize loc.,1.0,0.0,1481760000.0
+2017-01-15,Maize (local) - Retail,KG,cereals and tubers,219.0,XOF,Senegal,Thies,2644.0,Thies,443.0,56,15.0,5.0,1,443_56_15_5,,2017.0,Maize (local) - Retail (KG),Maize loc.,1.0,0.0,1484438400.0
+2017-02-15,Maize (local) - Retail,KG,cereals and tubers,200.0,XOF,Senegal,Tambacounda,2643.0,Tambacounda,441.0,56,15.0,5.0,1,441_56_15_5,,2017.0,Maize (local) - Retail (KG),Maize loc.,1.0,0.0,1487116800.0
+2017-03-15,Maize (local) - Retail,KG,cereals and tubers,220.0,XOF,Senegal,Dakar,2636.0,Thiaroye,442.0,56,15.0,5.0,1,442_56_15_5,,2017.0,Maize (local) - Retail (KG),Maize loc.,1.0,0.0,1489536000.0
+2017-04-15,Maize (local) - Retail,KG,cereals and tubers,200.0,XOF,Senegal,Diourbel,47585.0,Diourbel,413.0,56,15.0,5.0,1,413_56_15_5,,2017.0,Maize (local) - Retail (KG),Maize loc.,1.0,0.0,1492214400.0
+2017-05-15,Maize (local) - Retail,KG,cereals and tubers,217.0,XOF,Senegal,Tambacounda,2643.0,Bakel,405.0,56,15.0,5.0,1,405_56_15_5,,2017.0,Maize (local) - Retail (KG),Maize loc.,1.0,0.0,1494806400.0
+2017-06-15,Maize (local) - Retail,KG,cereals and tubers,225.0,XOF,Senegal,Kolda,2640.0,Kolda,421.0,56,15.0,5.0,1,421_56_15_5,,2017.0,Maize (local) - Retail (KG),Maize loc.,1.0,0.0,1497484800.0
+2017-07-15,Maize (local) - Retail,KG,cereals and tubers,220.0,XOF,Senegal,Dakar,2636.0,Thiaroye,442.0,56,15.0,5.0,1,442_56_15_5,,2017.0,Maize (local) - Retail (KG),Maize loc.,1.0,0.0,1500076800.0
+2017-08-15,Maize (local) - Retail,KG,cereals and tubers,225.0,XOF,Senegal,Kedougou,1374.0,Kedougou,419.0,56,15.0,5.0,1,419_56_15_5,,2017.0,Maize (local) - Retail (KG),Maize loc.,1.0,0.0,1502755200.0
+2017-09-15,Maize (local) - Retail,KG,cereals and tubers,247.0,XOF,Senegal,Dakar,2636.0,Castors,408.0,56,15.0,5.0,1,408_56_15_5,,2017.0,Maize (local) - Retail (KG),Maize loc.,1.0,0.0,1505433600.0
+2017-10-15,Maize (local) - Retail,KG,cereals and tubers,240.0,XOF,Senegal,Thies,2644.0,Mbafaye,427.0,56,15.0,5.0,1,427_56_15_5,,2017.0,Maize (local) - Retail (KG),Maize loc.,1.0,0.0,1508025600.0
+2017-11-15,Maize (local) - Retail,KG,cereals and tubers,213.0,XOF,Senegal,Kedougou,1374.0,Kedougou,419.0,56,15.0,5.0,1,419_56_15_5,,2017.0,Maize (local) - Retail (KG),Maize loc.,1.0,0.0,1510704000.0
+2017-12-15,Maize (local) - Retail,KG,cereals and tubers,200.0,XOF,Senegal,Kolda,2640.0,Kolda,421.0,56,15.0,5.0,1,421_56_15_5,,2017.0,Maize (local) - Retail (KG),Maize loc.,1.0,0.0,1513296000.0
+2018-01-15,Maize (local) - Retail,KG,cereals and tubers,200.0,XOF,Senegal,Diourbel,47585.0,Diourbel,413.0,56,15.0,5.0,1,413_56_15_5,,2018.0,Maize (local) - Retail (KG),Maize loc.,1.0,0.0,1515974400.0
+2018-02-15,Maize (local) - Retail,KG,cereals and tubers,200.0,XOF,Senegal,Kolda,2640.0,Sare Yoba,439.0,56,15.0,5.0,1,439_56_15_5,,2018.0,Maize (local) - Retail (KG),Maize loc.,1.0,0.0,1518652800.0
+2018-03-15,Maize (local) - Retail,KG,cereals and tubers,200.0,XOF,Senegal,Kedougou,1374.0,Kedougou,419.0,56,15.0,5.0,1,419_56_15_5,,2018.0,Maize (local) - Retail (KG),Maize loc.,1.0,0.0,1521072000.0
+2018-04-15,Maize (local) - Retail,KG,cereals and tubers,200.0,XOF,Senegal,Kedougou,1374.0,Kedougou,419.0,56,15.0,5.0,1,419_56_15_5,,2018.0,Maize (local) - Retail (KG),Maize loc.,1.0,0.0,1523750400.0
+2018-05-15,Maize (local) - Retail,KG,cereals and tubers,190.0,XOF,Senegal,Louga,47587.0,Gouille Mbeuth,416.0,56,15.0,5.0,1,416_56_15_5,,2018.0,Maize (local) - Retail (KG),Maize loc.,1.0,0.0,1526342400.0
+2018-06-15,Maize (local) - Retail,KG,cereals and tubers,220.0,XOF,Senegal,Dakar,2636.0,Thiaroye,442.0,56,15.0,5.0,1,442_56_15_5,,2018.0,Maize (local) - Retail (KG),Maize loc.,1.0,0.0,1529020800.0
+2018-07-15,Maize (local) - Retail,KG,cereals and tubers,225.0,XOF,Senegal,Tambacounda,2643.0,Bakel,405.0,56,15.0,5.0,1,405_56_15_5,,2018.0,Maize (local) - Retail (KG),Maize loc.,1.0,0.0,1531612800.0
+2018-08-15,Maize (local) - Retail,KG,cereals and tubers,225.0,XOF,Senegal,Kolda,2640.0,Diaobe,412.0,56,15.0,5.0,1,412_56_15_5,,2018.0,Maize (local) - Retail (KG),Maize loc.,1.0,0.0,1534291200.0
+2018-09-15,Maize (local) - Retail,KG,cereals and tubers,225.0,XOF,Senegal,Tambacounda,2643.0,Tambacounda,441.0,56,15.0,5.0,1,441_56_15_5,,2018.0,Maize (local) - Retail (KG),Maize loc.,1.0,0.0,1536969600.0
+2018-10-15,Maize (local) - Retail,KG,cereals and tubers,225.0,XOF,Senegal,Kedougou,1374.0,Mako,1543.0,56,15.0,5.0,1,1543_56_15_5,,2018.0,Maize (local) - Retail (KG),Maize loc.,1.0,0.0,1539561600.0
+2018-11-15,Maize (local) - Retail,KG,cereals and tubers,200.0,XOF,Senegal,Dakar,2636.0,Thiaroye,442.0,56,15.0,5.0,1,442_56_15_5,,2018.0,Maize (local) - Retail (KG),Maize loc.,1.0,0.0,1542240000.0
+2018-12-15,Maize (local) - Retail,KG,cereals and tubers,200.0,XOF,Senegal,Dakar,2636.0,Thiaroye,442.0,56,15.0,5.0,1,442_56_15_5,,2018.0,Maize (local) - Retail (KG),Maize loc.,1.0,0.0,1544832000.0
+2019-01-15,Maize (local) - Retail,KG,cereals and tubers,200.0,XOF,Senegal,Kolda,2640.0,Kolda,421.0,56,15.0,5.0,1,421_56_15_5,,2019.0,Maize (local) - Retail (KG),Maize loc.,1.0,0.0,1547510400.0
+2019-02-15,Maize (local) - Retail,KG,cereals and tubers,200.0,XOF,Senegal,Kolda,2640.0,Kolda,421.0,56,15.0,5.0,1,421_56_15_5,,2019.0,Maize (local) - Retail (KG),Maize loc.,1.0,0.0,1550188800.0
+2019-03-15,Maize (local) - Retail,KG,cereals and tubers,200.0,XOF,Senegal,Dakar,2636.0,Tilene,447.0,56,15.0,5.0,1,447_56_15_5,,2019.0,Maize (local) - Retail (KG),Maize loc.,1.0,0.0,1552608000.0
+2019-04-15,Maize (local) - Retail,KG,cereals and tubers,200.0,XOF,Senegal,Kedougou,1374.0,Kedougou,419.0,56,15.0,5.0,1,419_56_15_5,,2019.0,Maize (local) - Retail (KG),Maize loc.,1.0,0.0,1555286400.0
+2019-05-15,Maize (local) - Retail,KG,cereals and tubers,200.0,XOF,Senegal,Kolda,2640.0,Diaobe,412.0,56,15.0,5.0,1,412_56_15_5,,2019.0,Maize (local) - Retail (KG),Maize loc.,1.0,0.0,1557878400.0
+2019-06-15,Maize (local) - Retail,KG,cereals and tubers,225.0,XOF,Senegal,Kedougou,1374.0,Mako,1543.0,56,15.0,5.0,1,1543_56_15_5,,2019.0,Maize (local) - Retail (KG),Maize loc.,1.0,0.0,1560556800.0
+2019-07-15,Maize (local) - Retail,KG,cereals and tubers,221.0,XOF,Senegal,Louga,47587.0,Gouille Mbeuth,416.0,56,15.0,5.0,1,416_56_15_5,,2019.0,Maize (local) - Retail (KG),Maize loc.,1.0,0.0,1563148800.0
+2019-08-15,Maize (local) - Retail,KG,cereals and tubers,225.0,XOF,Senegal,Kedougou,1374.0,Kedougou,419.0,56,15.0,5.0,1,419_56_15_5,,2019.0,Maize (local) - Retail (KG),Maize loc.,1.0,0.0,1565827200.0
+2019-09-15,Maize (local) - Retail,KG,cereals and tubers,225.0,XOF,Senegal,Kaffrine,1378.0,Mabo,425.0,56,15.0,5.0,1,425_56_15_5,,2019.0,Maize (local) - Retail (KG),Maize loc.,1.0,0.0,1568505600.0
+2019-10-15,Maize (local) - Retail,KG,cereals and tubers,225.0,XOF,Senegal,Kedougou,1374.0,Salémata,1542.0,56,15.0,5.0,1,1542_56_15_5,,2019.0,Maize (local) - Retail (KG),Maize loc.,1.0,0.0,1571097600.0
+2019-11-15,Maize (local) - Retail,KG,cereals and tubers,200.0,XOF,Senegal,Kedougou,1374.0,Salémata,1542.0,56,15.0,5.0,1,1542_56_15_5,,2019.0,Maize (local) - Retail (KG),Maize loc.,1.0,0.0,1573776000.0
+2019-12-15,Maize (local) - Retail,KG,cereals and tubers,212.5,XOF,Senegal,Dakar,2636.0,Thiaroye,442.0,56,15.0,5.0,1,442_56_15_5,,2019.0,Maize (local) - Retail (KG),Maize loc.,1.0,0.0,1576368000.0
+2020-01-15,Maize (local) - Retail,KG,cereals and tubers,225.0,XOF,Senegal,Kaffrine,1378.0,Kaffrine,417.0,56,15.0,5.0,1,417_56_15_5,,2020.0,Maize (local) - Retail (KG),Maize loc.,1.0,0.0,1579046400.0
+2020-02-15,Maize (local) - Retail,KG,cereals and tubers,210.0,XOF,Senegal,Louga,47587.0,Louga,424.0,56,15.0,5.0,1,424_56_15_5,,2020.0,Maize (local) - Retail (KG),Maize loc.,1.0,0.0,1581724800.0
+2020-03-15,Maize (local) - Retail,KG,cereals and tubers,225.0,XOF,Senegal,Kaffrine,1378.0,Kaffrine,417.0,56,15.0,5.0,1,417_56_15_5,,2020.0,Maize (local) - Retail (KG),Maize loc.,1.0,0.0,1584230400.0
+2020-04-15,Maize (local) - Retail,KG,cereals and tubers,206.25,XOF,Senegal,Thies,2644.0,Thies,443.0,56,15.0,5.0,1,443_56_15_5,,2020.0,Maize (local) - Retail (KG),Maize loc.,1.0,0.0,1586908800.0
+2020-05-15,Maize (local) - Retail,KG,cereals and tubers,250.0,XOF,Senegal,Kolda,2640.0,Kolda,421.0,56,15.0,5.0,1,421_56_15_5,,2020.0,Maize (local) - Retail (KG),Maize loc.,1.0,0.0,1589500800.0
+2020-06-15,Maize (local) - Retail,KG,cereals and tubers,227.5,XOF,Senegal,Fatick,47586.0,Passy,436.0,56,15.0,5.0,1,436_56_15_5,,2020.0,Maize (local) - Retail (KG),Maize loc.,1.0,0.0,1592179200.0
+2020-07-15,Maize (local) - Retail,KG,cereals and tubers,220.0,XOF,Senegal,Fatick,47586.0,Passy,436.0,56,15.0,5.0,1,436_56_15_5,,2020.0,Maize (local) - Retail (KG),Maize loc.,1.0,0.0,1594771200.0
+2020-08-15,Maize (local) - Retail,KG,cereals and tubers,225.0,XOF,Senegal,Kaffrine,1378.0,Kaffrine,417.0,56,15.0,5.0,1,417_56_15_5,,2020.0,Maize (local) - Retail (KG),Maize loc.,1.0,0.0,1597449600.0
+2020-09-15,Maize (local) - Retail,KG,cereals and tubers,231.25,XOF,Senegal,Tambacounda,2643.0,Bakel,405.0,56,15.0,5.0,1,405_56_15_5,,2020.0,Maize (local) - Retail (KG),Maize loc.,1.0,0.0,1600128000.0
+2020-10-15,Maize (local) - Retail,KG,cereals and tubers,212.5,XOF,Senegal,Kedougou,1374.0,Kedougou,419.0,56,15.0,5.0,1,419_56_15_5,,2020.0,Maize (local) - Retail (KG),Maize loc.,1.0,0.0,1602720000.0
+2020-11-15,Maize (local) - Retail,KG,cereals and tubers,200.0,XOF,Senegal,Kedougou,1374.0,Mako,1543.0,56,15.0,5.0,1,1543_56_15_5,,2020.0,Maize (local) - Retail (KG),Maize loc.,1.0,0.0,1605398400.0
+2015-01-15,Millet - Retail,KG,cereals and tubers,208.3333,XOF,Senegal,Dakar,2636.0,Thiaroye,442.0,73,15.0,5.0,1,442_73_15_5,,2015.0,Millet - Retail (KG),Millet,1.0,0.0,1421280000.0
+2015-02-15,Millet - Retail,KG,cereals and tubers,205.0,XOF,Senegal,Fatick,47586.0,Diakhao,411.0,73,15.0,5.0,1,411_73_15_5,,2015.0,Millet - Retail (KG),Millet,1.0,0.0,1423958400.0
+2015-03-15,Millet - Retail,KG,cereals and tubers,208.0,XOF,Senegal,Saint louis,47589.0,Saint-Louis,440.0,73,15.0,5.0,1,440_73_15_5,,2015.0,Millet - Retail (KG),Millet,1.0,0.0,1426377600.0
+2015-04-15,Millet - Retail,KG,cereals and tubers,217.5,XOF,Senegal,Louga,47587.0,Louga,424.0,73,15.0,5.0,1,424_73_15_5,,2015.0,Millet - Retail (KG),Millet,1.0,0.0,1429056000.0
+2015-05-15,Millet - Retail,KG,cereals and tubers,220.0,XOF,Senegal,Diourbel,47585.0,Bambey,406.0,73,15.0,5.0,1,406_73_15_5,,2015.0,Millet - Retail (KG),Millet,1.0,0.0,1431648000.0
+2015-06-15,Millet - Retail,KG,cereals and tubers,220.0,XOF,Senegal,Diourbel,47585.0,Diourbel,413.0,73,15.0,5.0,1,413_73_15_5,,2015.0,Millet - Retail (KG),Millet,1.0,0.0,1434326400.0
+2015-07-15,Millet - Retail,KG,cereals and tubers,212.0,XOF,Senegal,Thies,2644.0,Touba Toul,449.0,73,15.0,5.0,1,449_73_15_5,,2015.0,Millet - Retail (KG),Millet,1.0,0.0,1436918400.0
+2015-08-15,Millet - Retail,KG,cereals and tubers,212.0,XOF,Senegal,Kolda,2640.0,Sare Yoba,439.0,73,15.0,5.0,1,439_73_15_5,,2015.0,Millet - Retail (KG),Millet,1.0,0.0,1439596800.0
+2015-09-15,Millet - Retail,KG,cereals and tubers,200.0,XOF,Senegal,Kolda,2640.0,Kolda,421.0,73,15.0,5.0,1,421_73_15_5,,2015.0,Millet - Retail (KG),Millet,1.0,0.0,1442275200.0
+2015-10-15,Millet - Retail,KG,cereals and tubers,200.0,XOF,Senegal,Tambacounda,2643.0,Bakel,405.0,73,15.0,5.0,1,405_73_15_5,,2015.0,Millet - Retail (KG),Millet,1.0,0.0,1444867200.0
+2015-11-15,Millet - Retail,KG,cereals and tubers,195.0,XOF,Senegal,Louga,47587.0,Louga,424.0,73,15.0,5.0,1,424_73_15_5,,2015.0,Millet - Retail (KG),Millet,1.0,0.0,1447545600.0
+2015-12-15,Millet - Retail,KG,cereals and tubers,185.0,XOF,Senegal,Saint louis,47589.0,Mpal,430.0,73,15.0,5.0,1,430_73_15_5,,2015.0,Millet - Retail (KG),Millet,1.0,0.0,1450137600.0
+2016-01-15,Millet - Retail,KG,cereals and tubers,175.0,XOF,Senegal,Kolda,2640.0,Kolda,421.0,73,15.0,5.0,1,421_73_15_5,,2016.0,Millet - Retail (KG),Millet,1.0,0.0,1452816000.0
+2016-02-15,Millet - Retail,KG,cereals and tubers,180.0,XOF,Senegal,Louga,47587.0,Gouille Mbeuth,416.0,73,15.0,5.0,1,416_73_15_5,,2016.0,Millet - Retail (KG),Millet,1.0,0.0,1455494400.0
+2016-03-15,Millet - Retail,KG,cereals and tubers,175.0,XOF,Senegal,Sedhiou,1376.0,Sedhiou,452.0,73,15.0,5.0,1,452_73_15_5,,2016.0,Millet - Retail (KG),Millet,1.0,0.0,1458000000.0
+2016-04-15,Millet - Retail,KG,cereals and tubers,185.0,XOF,Senegal,Louga,47587.0,Gouille Mbeuth,416.0,73,15.0,5.0,1,416_73_15_5,,2016.0,Millet - Retail (KG),Millet,1.0,0.0,1460678400.0
+2016-05-15,Millet - Retail,KG,cereals and tubers,198.0,XOF,Senegal,Thies,2644.0,Thilmakha,445.0,73,15.0,5.0,1,445_73_15_5,,2016.0,Millet - Retail (KG),Millet,1.0,0.0,1463270400.0
+2016-06-15,Millet - Retail,KG,cereals and tubers,200.0,XOF,Senegal,Sedhiou,1376.0,Sedhiou,452.0,73,15.0,5.0,1,452_73_15_5,,2016.0,Millet - Retail (KG),Millet,1.0,0.0,1465948800.0
+2016-07-15,Millet - Retail,KG,cereals and tubers,200.0,XOF,Senegal,Sedhiou,1376.0,Sedhiou,452.0,73,15.0,5.0,1,452_73_15_5,,2016.0,Millet - Retail (KG),Millet,1.0,0.0,1468540800.0
+2016-08-15,Millet - Retail,KG,cereals and tubers,200.0,XOF,Senegal,Kolda,2640.0,Kolda,421.0,73,15.0,5.0,1,421_73_15_5,,2016.0,Millet - Retail (KG),Millet,1.0,0.0,1471219200.0
+2016-09-15,Millet - Retail,KG,cereals and tubers,210.0,XOF,Senegal,Louga,47587.0,Gouille Mbeuth,416.0,73,15.0,5.0,1,416_73_15_5,,2016.0,Millet - Retail (KG),Millet,1.0,0.0,1473897600.0
+2016-10-15,Millet - Retail,KG,cereals and tubers,225.0,XOF,Senegal,Thies,2644.0,Mbafaye,427.0,73,15.0,5.0,1,427_73_15_5,,2016.0,Millet - Retail (KG),Millet,1.0,0.0,1476489600.0
+2016-11-15,Millet - Retail,KG,cereals and tubers,225.0,XOF,Senegal,Thies,2644.0,Mbafaye,427.0,73,15.0,5.0,1,427_73_15_5,,2016.0,Millet - Retail (KG),Millet,1.0,0.0,1479168000.0
+2016-12-15,Millet - Retail,KG,cereals and tubers,205.0,XOF,Senegal,Kaffrine,1378.0,Mabo,425.0,73,15.0,5.0,1,425_73_15_5,,2016.0,Millet - Retail (KG),Millet,1.0,0.0,1481760000.0
+2017-01-15,Millet - Retail,KG,cereals and tubers,215.0,XOF,Senegal,Diourbel,47585.0,Touba,448.0,73,15.0,5.0,1,448_73_15_5,,2017.0,Millet - Retail (KG),Millet,1.0,0.0,1484438400.0
+2017-02-15,Millet - Retail,KG,cereals and tubers,210.0,XOF,Senegal,Diourbel,47585.0,Touba,448.0,73,15.0,5.0,1,448_73_15_5,,2017.0,Millet - Retail (KG),Millet,1.0,0.0,1487116800.0
+2017-03-15,Millet - Retail,KG,cereals and tubers,225.0,XOF,Senegal,Kedougou,1374.0,Salémata,1542.0,73,15.0,5.0,1,1542_73_15_5,,2017.0,Millet - Retail (KG),Millet,1.0,0.0,1489536000.0
+2017-04-15,Millet - Retail,KG,cereals and tubers,225.0,XOF,Senegal,Kolda,2640.0,Kolda,421.0,73,15.0,5.0,1,421_73_15_5,,2017.0,Millet - Retail (KG),Millet,1.0,0.0,1492214400.0
+2017-05-15,Millet - Retail,KG,cereals and tubers,225.0,XOF,Senegal,Kolda,2640.0,Kolda,421.0,73,15.0,5.0,1,421_73_15_5,,2017.0,Millet - Retail (KG),Millet,1.0,0.0,1494806400.0
+2017-06-15,Millet - Retail,KG,cereals and tubers,225.0,XOF,Senegal,Kolda,2640.0,Kolda,421.0,73,15.0,5.0,1,421_73_15_5,,2017.0,Millet - Retail (KG),Millet,1.0,0.0,1497484800.0
+2017-07-15,Millet - Retail,KG,cereals and tubers,250.0,XOF,Senegal,Kolda,2640.0,Kolda,421.0,73,15.0,5.0,1,421_73_15_5,,2017.0,Millet - Retail (KG),Millet,1.0,0.0,1500076800.0
+2017-08-15,Millet - Retail,KG,cereals and tubers,250.0,XOF,Senegal,Dakar,2636.0,Castors,408.0,73,15.0,5.0,1,408_73_15_5,,2017.0,Millet - Retail (KG),Millet,1.0,0.0,1502755200.0
+2017-09-15,Millet - Retail,KG,cereals and tubers,273.0,XOF,Senegal,Dakar,2636.0,Castors,408.0,73,15.0,5.0,1,408_73_15_5,,2017.0,Millet - Retail (KG),Millet,1.0,0.0,1505433600.0
+2017-10-15,Millet - Retail,KG,cereals and tubers,275.0,XOF,Senegal,Dakar,2636.0,Castors,408.0,73,15.0,5.0,1,408_73_15_5,,2017.0,Millet - Retail (KG),Millet,1.0,0.0,1508025600.0
+2017-11-15,Millet - Retail,KG,cereals and tubers,250.0,XOF,Senegal,Kolda,2640.0,Diaobe,412.0,73,15.0,5.0,1,412_73_15_5,,2017.0,Millet - Retail (KG),Millet,1.0,0.0,1510704000.0
+2017-12-15,Millet - Retail,KG,cereals and tubers,225.0,XOF,Senegal,Tambacounda,2643.0,Bakel,405.0,73,15.0,5.0,1,405_73_15_5,,2017.0,Millet - Retail (KG),Millet,1.0,0.0,1513296000.0
+2018-01-15,Millet - Retail,KG,cereals and tubers,219.0,XOF,Senegal,Thies,2644.0,Mbafaye,427.0,73,15.0,5.0,1,427_73_15_5,,2018.0,Millet - Retail (KG),Millet,1.0,0.0,1515974400.0
+2018-02-15,Millet - Retail,KG,cereals and tubers,200.0,XOF,Senegal,Kolda,2640.0,Sare Yoba,439.0,73,15.0,5.0,1,439_73_15_5,,2018.0,Millet - Retail (KG),Millet,1.0,0.0,1518652800.0
+2018-03-15,Millet - Retail,KG,cereals and tubers,200.0,XOF,Senegal,Sedhiou,1376.0,Sedhiou,452.0,73,15.0,5.0,1,452_73_15_5,,2018.0,Millet - Retail (KG),Millet,1.0,0.0,1521072000.0
+2018-04-15,Millet - Retail,KG,cereals and tubers,200.0,XOF,Senegal,Thies,2644.0,Touba Toul,449.0,73,15.0,5.0,1,449_73_15_5,,2018.0,Millet - Retail (KG),Millet,1.0,0.0,1523750400.0
+2018-05-15,Millet - Retail,KG,cereals and tubers,200.0,XOF,Senegal,Sedhiou,1376.0,Sedhiou,452.0,73,15.0,5.0,1,452_73_15_5,,2018.0,Millet - Retail (KG),Millet,1.0,0.0,1526342400.0
+2018-06-15,Millet - Retail,KG,cereals and tubers,203.0,XOF,Senegal,Louga,47587.0,Gouille Mbeuth,416.0,73,15.0,5.0,1,416_73_15_5,,2018.0,Millet - Retail (KG),Millet,1.0,0.0,1529020800.0
+2018-07-15,Millet - Retail,KG,cereals and tubers,213.0,XOF,Senegal,Kolda,2640.0,Sare Yoba,439.0,73,15.0,5.0,1,439_73_15_5,,2018.0,Millet - Retail (KG),Millet,1.0,0.0,1531612800.0
+2018-08-15,Millet - Retail,KG,cereals and tubers,225.0,XOF,Senegal,Kolda,2640.0,Kolda,421.0,73,15.0,5.0,1,421_73_15_5,,2018.0,Millet - Retail (KG),Millet,1.0,0.0,1534291200.0
+2018-09-15,Millet - Retail,KG,cereals and tubers,250.0,XOF,Senegal,Dakar,2636.0,Thiaroye,442.0,73,15.0,5.0,1,442_73_15_5,,2018.0,Millet - Retail (KG),Millet,1.0,0.0,1536969600.0
+2018-10-15,Millet - Retail,KG,cereals and tubers,225.0,XOF,Senegal,Kolda,2640.0,Sare Yoba,439.0,73,15.0,5.0,1,439_73_15_5,,2018.0,Millet - Retail (KG),Millet,1.0,0.0,1539561600.0
+2018-11-15,Millet - Retail,KG,cereals and tubers,200.0,XOF,Senegal,Kolda,2640.0,Diaobe,412.0,73,15.0,5.0,1,412_73_15_5,,2018.0,Millet - Retail (KG),Millet,1.0,0.0,1542240000.0
+2018-12-15,Millet - Retail,KG,cereals and tubers,210.0,XOF,Senegal,Diourbel,47585.0,Touba,448.0,73,15.0,5.0,1,448_73_15_5,,2018.0,Millet - Retail (KG),Millet,1.0,0.0,1544832000.0
+2019-01-15,Millet - Retail,KG,cereals and tubers,200.0,XOF,Senegal,Tambacounda,2643.0,Tambacounda,441.0,73,15.0,5.0,1,441_73_15_5,,2019.0,Millet - Retail (KG),Millet,1.0,0.0,1547510400.0
+2019-02-15,Millet - Retail,KG,cereals and tubers,200.0,XOF,Senegal,Kedougou,1374.0,Salémata,1542.0,73,15.0,5.0,1,1542_73_15_5,,2019.0,Millet - Retail (KG),Millet,1.0,0.0,1550188800.0
+2019-03-15,Millet - Retail,KG,cereals and tubers,212.0,XOF,Senegal,Sedhiou,1376.0,Sedhiou,452.0,73,15.0,5.0,1,452_73_15_5,,2019.0,Millet - Retail (KG),Millet,1.0,0.0,1552608000.0
+2019-04-15,Millet - Retail,KG,cereals and tubers,225.0,XOF,Senegal,Dakar,2636.0,Thiaroye,442.0,73,15.0,5.0,1,442_73_15_5,,2019.0,Millet - Retail (KG),Millet,1.0,0.0,1555286400.0
+2019-05-15,Millet - Retail,KG,cereals and tubers,225.0,XOF,Senegal,Dakar,2636.0,Thiaroye,442.0,73,15.0,5.0,1,442_73_15_5,,2019.0,Millet - Retail (KG),Millet,1.0,0.0,1557878400.0
+2019-06-15,Millet - Retail,KG,cereals and tubers,225.0,XOF,Senegal,Dakar,2636.0,Thiaroye,442.0,73,15.0,5.0,1,442_73_15_5,,2019.0,Millet - Retail (KG),Millet,1.0,0.0,1560556800.0
+2019-07-15,Millet - Retail,KG,cereals and tubers,225.0,XOF,Senegal,Kolda,2640.0,Kolda,421.0,73,15.0,5.0,1,421_73_15_5,,2019.0,Millet - Retail (KG),Millet,1.0,0.0,1563148800.0
+2019-08-15,Millet - Retail,KG,cereals and tubers,242.0,XOF,Senegal,Kolda,2640.0,Kolda,421.0,73,15.0,5.0,1,421_73_15_5,,2019.0,Millet - Retail (KG),Millet,1.0,0.0,1565827200.0
+2019-09-15,Millet - Retail,KG,cereals and tubers,250.0,XOF,Senegal,Kaffrine,1378.0,Mabo,425.0,73,15.0,5.0,1,425_73_15_5,,2019.0,Millet - Retail (KG),Millet,1.0,0.0,1568505600.0
+2019-10-15,Millet - Retail,KG,cereals and tubers,250.0,XOF,Senegal,Dakar,2636.0,Thiaroye,442.0,73,15.0,5.0,1,442_73_15_5,,2019.0,Millet - Retail (KG),Millet,1.0,0.0,1571097600.0
+2019-11-15,Millet - Retail,KG,cereals and tubers,241.6667,XOF,Senegal,Kolda,2640.0,Kolda,421.0,73,15.0,5.0,1,421_73_15_5,,2019.0,Millet - Retail (KG),Millet,1.0,0.0,1573776000.0
+2019-12-15,Millet - Retail,KG,cereals and tubers,250.0,XOF,Senegal,Dakar,2636.0,Dakar,410.0,73,15.0,5.0,1,410_73_15_5,,2019.0,Millet - Retail (KG),Millet,1.0,0.0,1576368000.0
+2020-01-15,Millet - Retail,KG,cereals and tubers,250.0,XOF,Senegal,Kaffrine,1378.0,Kaffrine,417.0,73,15.0,5.0,1,417_73_15_5,,2020.0,Millet - Retail (KG),Millet,1.0,0.0,1579046400.0
+2020-02-15,Millet - Retail,KG,cereals and tubers,250.0,XOF,Senegal,Kaffrine,1378.0,Mabo,425.0,73,15.0,5.0,1,425_73_15_5,,2020.0,Millet - Retail (KG),Millet,1.0,0.0,1581724800.0
+2020-03-15,Millet - Retail,KG,cereals and tubers,250.0,XOF,Senegal,Kaffrine,1378.0,Kaffrine,417.0,73,15.0,5.0,1,417_73_15_5,,2020.0,Millet - Retail (KG),Millet,1.0,0.0,1584230400.0
+2020-04-15,Millet - Retail,KG,cereals and tubers,231.25,XOF,Senegal,Fatick,47586.0,Gossas,415.0,73,15.0,5.0,1,415_73_15_5,,2020.0,Millet - Retail (KG),Millet,1.0,0.0,1586908800.0
+2020-05-15,Millet - Retail,KG,cereals and tubers,300.0,XOF,Senegal,Tambacounda,2643.0,Bakel,405.0,73,15.0,5.0,1,405_73_15_5,,2020.0,Millet - Retail (KG),Millet,1.0,0.0,1589500800.0
+2020-06-15,Millet - Retail,KG,cereals and tubers,263.0,XOF,Senegal,Matam,47588.0,Matam,426.0,73,15.0,5.0,1,426_73_15_5,,2020.0,Millet - Retail (KG),Millet,1.0,0.0,1592179200.0
+2020-07-15,Millet - Retail,KG,cereals and tubers,262.5,XOF,Senegal,Kolda,2640.0,Kolda,421.0,73,15.0,5.0,1,421_73_15_5,,2020.0,Millet - Retail (KG),Millet,1.0,0.0,1594771200.0
+2020-08-15,Millet - Retail,KG,cereals and tubers,277.5,XOF,Senegal,Kolda,2640.0,Kolda,421.0,73,15.0,5.0,1,421_73_15_5,,2020.0,Millet - Retail (KG),Millet,1.0,0.0,1597449600.0
+2020-09-15,Millet - Retail,KG,cereals and tubers,290.0,XOF,Senegal,Kaffrine,1378.0,Kaffrine,417.0,73,15.0,5.0,1,417_73_15_5,,2020.0,Millet - Retail (KG),Millet,1.0,0.0,1600128000.0
+2020-10-15,Millet - Retail,KG,cereals and tubers,297.5,XOF,Senegal,Fatick,47586.0,Diakhao,411.0,73,15.0,5.0,1,411_73_15_5,,2020.0,Millet - Retail (KG),Millet,1.0,0.0,1602720000.0
+2020-11-15,Millet - Retail,KG,cereals and tubers,275.0,XOF,Senegal,Tambacounda,2643.0,Bakel,405.0,73,15.0,5.0,1,405_73_15_5,,2020.0,Millet - Retail (KG),Millet,1.0,0.0,1605398400.0
+2015-01-15,Rice (imported) - Retail,KG,cereals and tubers,270.0,XOF,Senegal,Sedhiou,1376.0,Sedhiou,452.0,64,15.0,5.0,1,452_64_15_5,,2015.0,Rice (imported) - Retail (KG),Rice imp.,1.0,0.0,1421280000.0
+2015-02-15,Rice (imported) - Retail,KG,cereals and tubers,275.0,XOF,Senegal,Kaffrine,1378.0,Kaffrine,417.0,64,15.0,5.0,1,417_64_15_5,,2015.0,Rice (imported) - Retail (KG),Rice imp.,1.0,0.0,1423958400.0
+2015-03-15,Rice (imported) - Retail,KG,cereals and tubers,275.0,XOF,Senegal,Kaolack,2639.0,Porokhane,437.0,64,15.0,5.0,1,437_64_15_5,,2015.0,Rice (imported) - Retail (KG),Rice imp.,1.0,0.0,1426377600.0
+2015-04-15,Rice (imported) - Retail,KG,cereals and tubers,273.3333,XOF,Senegal,Louga,47587.0,Gouille Mbeuth,416.0,64,15.0,5.0,1,416_64_15_5,,2015.0,Rice (imported) - Retail (KG),Rice imp.,1.0,0.0,1429056000.0
+2015-05-15,Rice (imported) - Retail,KG,cereals and tubers,275.0,XOF,Senegal,Kaolack,2639.0,Porokhane,437.0,64,15.0,5.0,1,437_64_15_5,,2015.0,Rice (imported) - Retail (KG),Rice imp.,1.0,0.0,1431648000.0
+2015-06-15,Rice (imported) - Retail,KG,cereals and tubers,275.0,XOF,Senegal,Kaffrine,1378.0,Kaffrine,417.0,64,15.0,5.0,1,417_64_15_5,,2015.0,Rice (imported) - Retail (KG),Rice imp.,1.0,0.0,1434326400.0
+2015-07-15,Rice (imported) - Retail,KG,cereals and tubers,275.0,XOF,Senegal,Kaffrine,1378.0,Kaffrine,417.0,64,15.0,5.0,1,417_64_15_5,,2015.0,Rice (imported) - Retail (KG),Rice imp.,1.0,0.0,1436918400.0
+2015-08-15,Rice (imported) - Retail,KG,cereals and tubers,275.0,XOF,Senegal,Kaffrine,1378.0,Kaffrine,417.0,64,15.0,5.0,1,417_64_15_5,,2015.0,Rice (imported) - Retail (KG),Rice imp.,1.0,0.0,1439596800.0
+2015-09-15,Rice (imported) - Retail,KG,cereals and tubers,275.0,XOF,Senegal,Dakar,2636.0,Castors,408.0,64,15.0,5.0,1,408_64_15_5,,2015.0,Rice (imported) - Retail (KG),Rice imp.,1.0,0.0,1442275200.0
+2015-10-15,Rice (imported) - Retail,KG,cereals and tubers,275.0,XOF,Senegal,Dakar,2636.0,Castors,408.0,64,15.0,5.0,1,408_64_15_5,,2015.0,Rice (imported) - Retail (KG),Rice imp.,1.0,0.0,1444867200.0
+2015-11-15,Rice (imported) - Retail,KG,cereals and tubers,388.0,XOF,Senegal,Matam,47588.0,Matam,426.0,64,15.0,5.0,1,426_64_15_5,,2015.0,Rice (imported) - Retail (KG),Rice imp.,1.0,0.0,1447545600.0
+2015-12-15,Rice (imported) - Retail,KG,cereals and tubers,275.0,XOF,Senegal,Kaffrine,1378.0,Kaffrine,417.0,64,15.0,5.0,1,417_64_15_5,,2015.0,Rice (imported) - Retail (KG),Rice imp.,1.0,0.0,1450137600.0
+2016-01-15,Rice (imported) - Retail,KG,cereals and tubers,270.0,XOF,Senegal,Dakar,2636.0,Castors,408.0,64,15.0,5.0,1,408_64_15_5,,2016.0,Rice (imported) - Retail (KG),Rice imp.,1.0,0.0,1452816000.0
+2016-02-15,Rice (imported) - Retail,KG,cereals and tubers,275.0,XOF,Senegal,Kolda,2640.0,Diaobe,412.0,64,15.0,5.0,1,412_64_15_5,,2016.0,Rice (imported) - Retail (KG),Rice imp.,1.0,0.0,1455494400.0
+2016-03-15,Rice (imported) - Retail,KG,cereals and tubers,270.0,XOF,Senegal,Dakar,2636.0,Castors,408.0,64,15.0,5.0,1,408_64_15_5,,2016.0,Rice (imported) - Retail (KG),Rice imp.,1.0,0.0,1458000000.0
+2016-04-15,Rice (imported) - Retail,KG,cereals and tubers,270.0,XOF,Senegal,Dakar,2636.0,Castors,408.0,64,15.0,5.0,1,408_64_15_5,,2016.0,Rice (imported) - Retail (KG),Rice imp.,1.0,0.0,1460678400.0
+2016-05-15,Rice (imported) - Retail,KG,cereals and tubers,275.0,XOF,Senegal,Kolda,2640.0,Diaobe,412.0,64,15.0,5.0,1,412_64_15_5,,2016.0,Rice (imported) - Retail (KG),Rice imp.,1.0,0.0,1463270400.0
+2016-06-15,Rice (imported) - Retail,KG,cereals and tubers,275.0,XOF,Senegal,Kaffrine,1378.0,Kaffrine,417.0,64,15.0,5.0,1,417_64_15_5,,2016.0,Rice (imported) - Retail (KG),Rice imp.,1.0,0.0,1465948800.0
+2016-07-15,Rice (imported) - Retail,KG,cereals and tubers,270.0,XOF,Senegal,Kaffrine,1378.0,Kaffrine,417.0,64,15.0,5.0,1,417_64_15_5,,2016.0,Rice (imported) - Retail (KG),Rice imp.,1.0,0.0,1468540800.0
+2016-08-15,Rice (imported) - Retail,KG,cereals and tubers,270.0,XOF,Senegal,Kaffrine,1378.0,Kaffrine,417.0,64,15.0,5.0,1,417_64_15_5,,2016.0,Rice (imported) - Retail (KG),Rice imp.,1.0,0.0,1471219200.0
+2016-09-15,Rice (imported) - Retail,KG,cereals and tubers,275.0,XOF,Senegal,Kolda,2640.0,Diaobe,412.0,64,15.0,5.0,1,412_64_15_5,,2016.0,Rice (imported) - Retail (KG),Rice imp.,1.0,0.0,1473897600.0
+2016-10-15,Rice (imported) - Retail,KG,cereals and tubers,275.0,XOF,Senegal,Kolda,2640.0,Diaobe,412.0,64,15.0,5.0,1,412_64_15_5,,2016.0,Rice (imported) - Retail (KG),Rice imp.,1.0,0.0,1476489600.0
+2016-11-15,Rice (imported) - Retail,KG,cereals and tubers,275.0,XOF,Senegal,Kolda,2640.0,Diaobe,412.0,64,15.0,5.0,1,412_64_15_5,,2016.0,Rice (imported) - Retail (KG),Rice imp.,1.0,0.0,1479168000.0
+2016-12-15,Rice (imported) - Retail,KG,cereals and tubers,275.0,XOF,Senegal,Kolda,2640.0,Diaobe,412.0,64,15.0,5.0,1,412_64_15_5,,2016.0,Rice (imported) - Retail (KG),Rice imp.,1.0,0.0,1481760000.0
+2017-01-15,Rice (imported) - Retail,KG,cereals and tubers,275.0,XOF,Senegal,Kolda,2640.0,Diaobe,412.0,64,15.0,5.0,1,412_64_15_5,,2017.0,Rice (imported) - Retail (KG),Rice imp.,1.0,0.0,1484438400.0
+2017-02-15,Rice (imported) - Retail,KG,cereals and tubers,283.0,XOF,Senegal,Kolda,2640.0,Kolda,421.0,64,15.0,5.0,1,421_64_15_5,,2017.0,Rice (imported) - Retail (KG),Rice imp.,1.0,0.0,1487116800.0
+2017-03-15,Rice (imported) - Retail,KG,cereals and tubers,280.0,XOF,Senegal,Sedhiou,1376.0,Sedhiou,452.0,64,15.0,5.0,1,452_64_15_5,,2017.0,Rice (imported) - Retail (KG),Rice imp.,1.0,0.0,1489536000.0
+2017-04-15,Rice (imported) - Retail,KG,cereals and tubers,278.0,XOF,Senegal,Kaolack,2639.0,Kaolack,418.0,64,15.0,5.0,1,418_64_15_5,,2017.0,Rice (imported) - Retail (KG),Rice imp.,1.0,0.0,1492214400.0
+2017-05-15,Rice (imported) - Retail,KG,cereals and tubers,285.0,XOF,Senegal,Kaolack,2639.0,Kaolack,418.0,64,15.0,5.0,1,418_64_15_5,,2017.0,Rice (imported) - Retail (KG),Rice imp.,1.0,0.0,1494806400.0
+2017-06-15,Rice (imported) - Retail,KG,cereals and tubers,285.0,XOF,Senegal,Kaolack,2639.0,Kaolack,418.0,64,15.0,5.0,1,418_64_15_5,,2017.0,Rice (imported) - Retail (KG),Rice imp.,1.0,0.0,1497484800.0
+2017-07-15,Rice (imported) - Retail,KG,cereals and tubers,293.0,XOF,Senegal,Kaolack,2639.0,Kaolack,418.0,64,15.0,5.0,1,418_64_15_5,,2017.0,Rice (imported) - Retail (KG),Rice imp.,1.0,0.0,1500076800.0
+2017-08-15,Rice (imported) - Retail,KG,cereals and tubers,280.0,XOF,Senegal,Louga,47587.0,Gouille Mbeuth,416.0,64,15.0,5.0,1,416_64_15_5,,2017.0,Rice (imported) - Retail (KG),Rice imp.,1.0,0.0,1502755200.0
+2017-09-15,Rice (imported) - Retail,KG,cereals and tubers,292.0,XOF,Senegal,Tambacounda,2643.0,Bakel,405.0,64,15.0,5.0,1,405_64_15_5,,2017.0,Rice (imported) - Retail (KG),Rice imp.,1.0,0.0,1505433600.0
+2017-10-15,Rice (imported) - Retail,KG,cereals and tubers,290.0,XOF,Senegal,Thies,2644.0,Thilmakha,445.0,64,15.0,5.0,1,445_64_15_5,,2017.0,Rice (imported) - Retail (KG),Rice imp.,1.0,0.0,1508025600.0
+2017-11-15,Rice (imported) - Retail,KG,cereals and tubers,300.0,XOF,Senegal,Kedougou,1374.0,Kedougou,419.0,64,15.0,5.0,1,419_64_15_5,,2017.0,Rice (imported) - Retail (KG),Rice imp.,1.0,0.0,1510704000.0
+2017-12-15,Rice (imported) - Retail,KG,cereals and tubers,300.0,XOF,Senegal,Kedougou,1374.0,Kedougou,419.0,64,15.0,5.0,1,419_64_15_5,,2017.0,Rice (imported) - Retail (KG),Rice imp.,1.0,0.0,1513296000.0
+2018-01-15,Rice (imported) - Retail,KG,cereals and tubers,290.0,XOF,Senegal,Dakar,2636.0,Thiaroye,442.0,64,15.0,5.0,1,442_64_15_5,,2018.0,Rice (imported) - Retail (KG),Rice imp.,1.0,0.0,1515974400.0
+2018-02-15,Rice (imported) - Retail,KG,cereals and tubers,280.0,XOF,Senegal,Louga,47587.0,Gouille Mbeuth,416.0,64,15.0,5.0,1,416_64_15_5,,2018.0,Rice (imported) - Retail (KG),Rice imp.,1.0,0.0,1518652800.0
+2018-03-15,Rice (imported) - Retail,KG,cereals and tubers,290.0,XOF,Senegal,Dakar,2636.0,Tilene,447.0,64,15.0,5.0,1,447_64_15_5,,2018.0,Rice (imported) - Retail (KG),Rice imp.,1.0,0.0,1521072000.0
+2018-04-15,Rice (imported) - Retail,KG,cereals and tubers,288.0,XOF,Senegal,Tambacounda,2643.0,Bakel,405.0,64,15.0,5.0,1,405_64_15_5,,2018.0,Rice (imported) - Retail (KG),Rice imp.,1.0,0.0,1523750400.0
+2018-05-15,Rice (imported) - Retail,KG,cereals and tubers,290.0,XOF,Senegal,Tambacounda,2643.0,Tambacounda,441.0,64,15.0,5.0,1,441_64_15_5,,2018.0,Rice (imported) - Retail (KG),Rice imp.,1.0,0.0,1526342400.0
+2018-06-15,Rice (imported) - Retail,KG,cereals and tubers,300.0,XOF,Senegal,Kedougou,1374.0,Kedougou,419.0,64,15.0,5.0,1,419_64_15_5,,2018.0,Rice (imported) - Retail (KG),Rice imp.,1.0,0.0,1529020800.0
+2018-07-15,Rice (imported) - Retail,KG,cereals and tubers,300.0,XOF,Senegal,Kedougou,1374.0,Kedougou,419.0,64,15.0,5.0,1,419_64_15_5,,2018.0,Rice (imported) - Retail (KG),Rice imp.,1.0,0.0,1531612800.0
+2018-08-15,Rice (imported) - Retail,KG,cereals and tubers,300.0,XOF,Senegal,Sedhiou,1376.0,Sedhiou,452.0,64,15.0,5.0,1,452_64_15_5,,2018.0,Rice (imported) - Retail (KG),Rice imp.,1.0,0.0,1534291200.0
+2018-09-15,Rice (imported) - Retail,KG,cereals and tubers,300.0,XOF,Senegal,Sedhiou,1376.0,Sedhiou,452.0,64,15.0,5.0,1,452_64_15_5,,2018.0,Rice (imported) - Retail (KG),Rice imp.,1.0,0.0,1536969600.0
+2018-10-15,Rice (imported) - Retail,KG,cereals and tubers,300.0,XOF,Senegal,Kedougou,1374.0,Mako,1543.0,64,15.0,5.0,1,1543_64_15_5,,2018.0,Rice (imported) - Retail (KG),Rice imp.,1.0,0.0,1539561600.0
+2018-11-15,Rice (imported) - Retail,KG,cereals and tubers,300.0,XOF,Senegal,Kedougou,1374.0,Salémata,1542.0,64,15.0,5.0,1,1542_64_15_5,,2018.0,Rice (imported) - Retail (KG),Rice imp.,1.0,0.0,1542240000.0
+2018-12-15,Rice (imported) - Retail,KG,cereals and tubers,300.0,XOF,Senegal,Kedougou,1374.0,Salémata,1542.0,64,15.0,5.0,1,1542_64_15_5,,2018.0,Rice (imported) - Retail (KG),Rice imp.,1.0,0.0,1544832000.0
+2019-01-15,Rice (imported) - Retail,KG,cereals and tubers,300.0,XOF,Senegal,Kedougou,1374.0,Kedougou,419.0,64,15.0,5.0,1,419_64_15_5,,2019.0,Rice (imported) - Retail (KG),Rice imp.,1.0,0.0,1547510400.0
+2019-02-15,Rice (imported) - Retail,KG,cereals and tubers,300.0,XOF,Senegal,Kedougou,1374.0,Salémata,1542.0,64,15.0,5.0,1,1542_64_15_5,,2019.0,Rice (imported) - Retail (KG),Rice imp.,1.0,0.0,1550188800.0
+2019-03-15,Rice (imported) - Retail,KG,cereals and tubers,300.0,XOF,Senegal,Kedougou,1374.0,Salémata,1542.0,64,15.0,5.0,1,1542_64_15_5,,2019.0,Rice (imported) - Retail (KG),Rice imp.,1.0,0.0,1552608000.0
+2019-04-15,Rice (imported) - Retail,KG,cereals and tubers,300.0,XOF,Senegal,Kedougou,1374.0,Salémata,1542.0,64,15.0,5.0,1,1542_64_15_5,,2019.0,Rice (imported) - Retail (KG),Rice imp.,1.0,0.0,1555286400.0
+2019-05-15,Rice (imported) - Retail,KG,cereals and tubers,300.0,XOF,Senegal,Kedougou,1374.0,Salémata,1542.0,64,15.0,5.0,1,1542_64_15_5,,2019.0,Rice (imported) - Retail (KG),Rice imp.,1.0,0.0,1557878400.0
+2019-06-15,Rice (imported) - Retail,KG,cereals and tubers,300.0,XOF,Senegal,Sedhiou,1376.0,Sedhiou,452.0,64,15.0,5.0,1,452_64_15_5,,2019.0,Rice (imported) - Retail (KG),Rice imp.,1.0,0.0,1560556800.0
+2019-07-15,Rice (imported) - Retail,KG,cereals and tubers,300.0,XOF,Senegal,Kedougou,1374.0,Mako,1543.0,64,15.0,5.0,1,1543_64_15_5,,2019.0,Rice (imported) - Retail (KG),Rice imp.,1.0,0.0,1563148800.0
+2019-08-15,Rice (imported) - Retail,KG,cereals and tubers,300.0,XOF,Senegal,Kedougou,1374.0,Kedougou,419.0,64,15.0,5.0,1,419_64_15_5,,2019.0,Rice (imported) - Retail (KG),Rice imp.,1.0,0.0,1565827200.0
+2019-09-15,Rice (imported) - Retail,KG,cereals and tubers,300.0,XOF,Senegal,Sedhiou,1376.0,Sedhiou,452.0,64,15.0,5.0,1,452_64_15_5,,2019.0,Rice (imported) - Retail (KG),Rice imp.,1.0,0.0,1568505600.0
+2019-10-15,Rice (imported) - Retail,KG,cereals and tubers,300.0,XOF,Senegal,Sedhiou,1376.0,Sedhiou,452.0,64,15.0,5.0,1,452_64_15_5,,2019.0,Rice (imported) - Retail (KG),Rice imp.,1.0,0.0,1571097600.0
+2019-11-15,Rice (imported) - Retail,KG,cereals and tubers,300.0,XOF,Senegal,Sedhiou,1376.0,Sedhiou,452.0,64,15.0,5.0,1,452_64_15_5,,2019.0,Rice (imported) - Retail (KG),Rice imp.,1.0,0.0,1573776000.0
+2019-12-15,Rice (imported) - Retail,KG,cereals and tubers,300.0,XOF,Senegal,Kedougou,1374.0,Kedougou,419.0,64,15.0,5.0,1,419_64_15_5,,2019.0,Rice (imported) - Retail (KG),Rice imp.,1.0,0.0,1576368000.0
+2020-01-15,Rice (imported) - Retail,KG,cereals and tubers,315.0,XOF,Senegal,Kaffrine,1378.0,Kaffrine,417.0,64,15.0,5.0,1,417_64_15_5,,2020.0,Rice (imported) - Retail (KG),Rice imp.,1.0,0.0,1579046400.0
+2020-02-15,Rice (imported) - Retail,KG,cereals and tubers,325.0,XOF,Senegal,Kedougou,1374.0,Salémata,1542.0,64,15.0,5.0,1,1542_64_15_5,,2020.0,Rice (imported) - Retail (KG),Rice imp.,1.0,0.0,1581724800.0
+2020-03-15,Rice (imported) - Retail,KG,cereals and tubers,325.0,XOF,Senegal,Sedhiou,1376.0,Sedhiou,452.0,64,15.0,5.0,1,452_64_15_5,,2020.0,Rice (imported) - Retail (KG),Rice imp.,1.0,0.0,1584230400.0
+2020-04-15,Rice (imported) - Retail,KG,cereals and tubers,300.0,XOF,Senegal,Kedougou,1374.0,Salémata,1542.0,64,15.0,5.0,1,1542_64_15_5,,2020.0,Rice (imported) - Retail (KG),Rice imp.,1.0,0.0,1586908800.0
+2020-05-15,Rice (imported) - Retail,KG,cereals and tubers,325.0,XOF,Senegal,Sedhiou,1376.0,Sedhiou,452.0,64,15.0,5.0,1,452_64_15_5,,2020.0,Rice (imported) - Retail (KG),Rice imp.,1.0,0.0,1589500800.0
+2020-06-15,Rice (imported) - Retail,KG,cereals and tubers,325.0,XOF,Senegal,Kaolack,2639.0,Porokhane,437.0,64,15.0,5.0,1,437_64_15_5,,2020.0,Rice (imported) - Retail (KG),Rice imp.,1.0,0.0,1592179200.0
+2020-07-15,Rice (imported) - Retail,KG,cereals and tubers,325.0,XOF,Senegal,Kedougou,1374.0,Kedougou,419.0,64,15.0,5.0,1,419_64_15_5,,2020.0,Rice (imported) - Retail (KG),Rice imp.,1.0,0.0,1594771200.0
+2020-08-15,Rice (imported) - Retail,KG,cereals and tubers,318.3333,XOF,Senegal,Kedougou,1374.0,Kedougou,419.0,64,15.0,5.0,1,419_64_15_5,,2020.0,Rice (imported) - Retail (KG),Rice imp.,1.0,0.0,1597449600.0
+2020-09-15,Rice (imported) - Retail,KG,cereals and tubers,325.0,XOF,Senegal,Kedougou,1374.0,Mako,1543.0,64,15.0,5.0,1,1543_64_15_5,,2020.0,Rice (imported) - Retail (KG),Rice imp.,1.0,0.0,1600128000.0
+2020-10-15,Rice (imported) - Retail,KG,cereals and tubers,325.0,XOF,Senegal,Kedougou,1374.0,Kedougou,419.0,64,15.0,5.0,1,419_64_15_5,,2020.0,Rice (imported) - Retail (KG),Rice imp.,1.0,0.0,1602720000.0
+2020-11-15,Rice (imported) - Retail,KG,cereals and tubers,325.0,XOF,Senegal,Kaffrine,1378.0,Kaffrine,417.0,64,15.0,5.0,1,417_64_15_5,,2020.0,Rice (imported) - Retail (KG),Rice imp.,1.0,0.0,1605398400.0
+2015-01-15,Rice (local) - Retail,KG,cereals and tubers,240.0,XOF,Senegal,Diourbel,47585.0,Diourbel,413.0,71,15.0,5.0,1,413_71_15_5,,2015.0,Rice (local) - Retail (KG),Rice loc.,1.0,0.0,1421280000.0
+2015-02-15,Rice (local) - Retail,KG,cereals and tubers,240.0,XOF,Senegal,Diourbel,47585.0,Bambey,406.0,71,15.0,5.0,1,406_71_15_5,,2015.0,Rice (local) - Retail (KG),Rice loc.,1.0,0.0,1423958400.0
+2015-03-15,Rice (local) - Retail,KG,cereals and tubers,240.0,XOF,Senegal,Diourbel,47585.0,Diourbel,413.0,71,15.0,5.0,1,413_71_15_5,,2015.0,Rice (local) - Retail (KG),Rice loc.,1.0,0.0,1426377600.0
+2015-04-15,Rice (local) - Retail,KG,cereals and tubers,260.0,XOF,Senegal,Thies,2644.0,Touba Toul,449.0,71,15.0,5.0,1,449_71_15_5,,2015.0,Rice (local) - Retail (KG),Rice loc.,1.0,0.0,1429056000.0
+2015-05-15,Rice (local) - Retail,KG,cereals and tubers,280.0,XOF,Senegal,Matam,47588.0,Orkodiere,433.0,71,15.0,5.0,1,433_71_15_5,,2015.0,Rice (local) - Retail (KG),Rice loc.,1.0,0.0,1431648000.0
+2015-06-15,Rice (local) - Retail,KG,cereals and tubers,280.0,XOF,Senegal,Matam,47588.0,Orkodiere,433.0,71,15.0,5.0,1,433_71_15_5,,2015.0,Rice (local) - Retail (KG),Rice loc.,1.0,0.0,1434326400.0
+2015-07-15,Rice (local) - Retail,KG,cereals and tubers,250.0,XOF,Senegal,Kaolack,2639.0,Kaolack,418.0,71,15.0,5.0,1,418_71_15_5,,2015.0,Rice (local) - Retail (KG),Rice loc.,1.0,0.0,1436918400.0
+2015-08-15,Rice (local) - Retail,KG,cereals and tubers,250.0,XOF,Senegal,Kaolack,2639.0,Kaolack,418.0,71,15.0,5.0,1,418_71_15_5,,2015.0,Rice (local) - Retail (KG),Rice loc.,1.0,0.0,1439596800.0
+2015-09-15,Rice (local) - Retail,KG,cereals and tubers,250.0,XOF,Senegal,Matam,47588.0,Orkodiere,433.0,71,15.0,5.0,1,433_71_15_5,,2015.0,Rice (local) - Retail (KG),Rice loc.,1.0,0.0,1442275200.0
+2015-10-15,Rice (local) - Retail,KG,cereals and tubers,250.0,XOF,Senegal,Thies,2644.0,Mbafaye,427.0,71,15.0,5.0,1,427_71_15_5,,2015.0,Rice (local) - Retail (KG),Rice loc.,1.0,0.0,1444867200.0
+2015-11-15,Rice (local) - Retail,KG,cereals and tubers,250.0,,,,,,,71,,,1,,,,Rice (local) - Retail (KG),Rice loc.,1.0,1.0,
+2015-12-15,Rice (local) - Retail,KG,cereals and tubers,250.0,XOF,Senegal,Kaolack,2639.0,N'Doffane,697.0,71,15.0,5.0,1,697_71_15_5,,2015.0,Rice (local) - Retail (KG),Rice loc.,1.0,0.0,1450137600.0
+2016-01-15,Rice (local) - Retail,KG,cereals and tubers,250.0,XOF,Senegal,Thies,2644.0,Mbafaye,427.0,71,15.0,5.0,1,427_71_15_5,,2016.0,Rice (local) - Retail (KG),Rice loc.,1.0,0.0,1452816000.0
+2016-02-15,Rice (local) - Retail,KG,cereals and tubers,270.0,XOF,Senegal,Fatick,47586.0,Missirah,1544.0,71,15.0,5.0,1,1544_71_15_5,,2016.0,Rice (local) - Retail (KG),Rice loc.,1.0,0.0,1455494400.0
+2016-03-15,Rice (local) - Retail,KG,cereals and tubers,250.0,XOF,Senegal,Thies,2644.0,Touba Toul,449.0,71,15.0,5.0,1,449_71_15_5,,2016.0,Rice (local) - Retail (KG),Rice loc.,1.0,0.0,1458000000.0
+2016-04-15,Rice (local) - Retail,KG,cereals and tubers,260.0,XOF,Senegal,Diourbel,47585.0,Ndindy,432.0,71,15.0,5.0,1,432_71_15_5,,2016.0,Rice (local) - Retail (KG),Rice loc.,1.0,0.0,1460678400.0
+2016-05-15,Rice (local) - Retail,KG,cereals and tubers,260.0,XOF,Senegal,Thies,2644.0,Mbafaye,427.0,71,15.0,5.0,1,427_71_15_5,,2016.0,Rice (local) - Retail (KG),Rice loc.,1.0,0.0,1463270400.0
+2016-06-15,Rice (local) - Retail,KG,cereals and tubers,260.0,XOF,Senegal,Thies,2644.0,Mbafaye,427.0,71,15.0,5.0,1,427_71_15_5,,2016.0,Rice (local) - Retail (KG),Rice loc.,1.0,0.0,1465948800.0
+2016-07-15,Rice (local) - Retail,KG,cereals and tubers,270.0,XOF,Senegal,Thies,2644.0,Thies,443.0,71,15.0,5.0,1,443_71_15_5,,2016.0,Rice (local) - Retail (KG),Rice loc.,1.0,0.0,1468540800.0
+2016-08-15,Rice (local) - Retail,KG,cereals and tubers,260.0,XOF,Senegal,Thies,2644.0,Mbafaye,427.0,71,15.0,5.0,1,427_71_15_5,,2016.0,Rice (local) - Retail (KG),Rice loc.,1.0,0.0,1471219200.0
+2016-09-15,Rice (local) - Retail,KG,cereals and tubers,260.0,XOF,Senegal,Thies,2644.0,Mbafaye,427.0,71,15.0,5.0,1,427_71_15_5,,2016.0,Rice (local) - Retail (KG),Rice loc.,1.0,0.0,1473897600.0
+2016-10-15,Rice (local) - Retail,KG,cereals and tubers,260.0,XOF,Senegal,Kaolack,2639.0,Kaolack,418.0,71,15.0,5.0,1,418_71_15_5,,2016.0,Rice (local) - Retail (KG),Rice loc.,1.0,0.0,1476489600.0
+2016-11-15,Rice (local) - Retail,KG,cereals and tubers,260.0,XOF,Senegal,Kaolack,2639.0,Kaolack,418.0,71,15.0,5.0,1,418_71_15_5,,2016.0,Rice (local) - Retail (KG),Rice loc.,1.0,0.0,1479168000.0
+2016-12-15,Rice (local) - Retail,KG,cereals and tubers,250.0,XOF,Senegal,Thies,2644.0,Mbafaye,427.0,71,15.0,5.0,1,427_71_15_5,,2016.0,Rice (local) - Retail (KG),Rice loc.,1.0,0.0,1481760000.0
+2017-01-15,Rice (local) - Retail,KG,cereals and tubers,260.0,XOF,Senegal,Thies,2644.0,Touba Toul,449.0,71,15.0,5.0,1,449_71_15_5,,2017.0,Rice (local) - Retail (KG),Rice loc.,1.0,0.0,1484438400.0
+2017-02-15,Rice (local) - Retail,KG,cereals and tubers,260.0,XOF,Senegal,Thies,2644.0,Touba Toul,449.0,71,15.0,5.0,1,449_71_15_5,,2017.0,Rice (local) - Retail (KG),Rice loc.,1.0,0.0,1487116800.0
+2017-03-15,Rice (local) - Retail,KG,cereals and tubers,260.0,XOF,Senegal,Thies,2644.0,Thies,443.0,71,15.0,5.0,1,443_71_15_5,,2017.0,Rice (local) - Retail (KG),Rice loc.,1.0,0.0,1489536000.0
+2017-04-15,Rice (local) - Retail,KG,cereals and tubers,260.0,XOF,Senegal,Thies,2644.0,Thies,443.0,71,15.0,5.0,1,443_71_15_5,,2017.0,Rice (local) - Retail (KG),Rice loc.,1.0,0.0,1492214400.0
+2017-05-15,Rice (local) - Retail,KG,cereals and tubers,260.0,XOF,Senegal,Kaolack,2639.0,Kaolack,418.0,71,15.0,5.0,1,418_71_15_5,,2017.0,Rice (local) - Retail (KG),Rice loc.,1.0,0.0,1494806400.0
+2017-06-15,Rice (local) - Retail,KG,cereals and tubers,260.0,XOF,Senegal,Thies,2644.0,Thies,443.0,71,15.0,5.0,1,443_71_15_5,,2017.0,Rice (local) - Retail (KG),Rice loc.,1.0,0.0,1497484800.0
+2017-07-15,Rice (local) - Retail,KG,cereals and tubers,268.0,XOF,Senegal,Kaolack,2639.0,Kaolack,418.0,71,15.0,5.0,1,418_71_15_5,,2017.0,Rice (local) - Retail (KG),Rice loc.,1.0,0.0,1500076800.0
+2017-08-15,Rice (local) - Retail,KG,cereals and tubers,270.0,XOF,Senegal,Matam,47588.0,Orkodiere,433.0,71,15.0,5.0,1,433_71_15_5,,2017.0,Rice (local) - Retail (KG),Rice loc.,1.0,0.0,1502755200.0
+2017-09-15,Rice (local) - Retail,KG,cereals and tubers,260.0,XOF,Senegal,Thies,2644.0,Mbafaye,427.0,71,15.0,5.0,1,427_71_15_5,,2017.0,Rice (local) - Retail (KG),Rice loc.,1.0,0.0,1505433600.0
+2017-10-15,Rice (local) - Retail,KG,cereals and tubers,260.0,XOF,Senegal,Thies,2644.0,Mbafaye,427.0,71,15.0,5.0,1,427_71_15_5,,2017.0,Rice (local) - Retail (KG),Rice loc.,1.0,0.0,1508025600.0
+2017-11-15,Rice (local) - Retail,KG,cereals and tubers,270.0,XOF,Senegal,Thies,2644.0,Thies,443.0,71,15.0,5.0,1,443_71_15_5,,2017.0,Rice (local) - Retail (KG),Rice loc.,1.0,0.0,1510704000.0
+2017-12-15,Rice (local) - Retail,KG,cereals and tubers,260.0,XOF,Senegal,Thies,2644.0,Mbafaye,427.0,71,15.0,5.0,1,427_71_15_5,,2017.0,Rice (local) - Retail (KG),Rice loc.,1.0,0.0,1513296000.0
+2018-01-15,Rice (local) - Retail,KG,cereals and tubers,275.0,XOF,Senegal,Kolda,2640.0,Kolda,421.0,71,15.0,5.0,1,421_71_15_5,,2018.0,Rice (local) - Retail (KG),Rice loc.,1.0,0.0,1515974400.0
+2018-02-15,Rice (local) - Retail,KG,cereals and tubers,268.0,XOF,Senegal,Matam,47588.0,Ourossogui,434.0,71,15.0,5.0,1,434_71_15_5,,2018.0,Rice (local) - Retail (KG),Rice loc.,1.0,0.0,1518652800.0
+2018-03-15,Rice (local) - Retail,KG,cereals and tubers,270.0,XOF,Senegal,Thies,2644.0,Thies,443.0,71,15.0,5.0,1,443_71_15_5,,2018.0,Rice (local) - Retail (KG),Rice loc.,1.0,0.0,1521072000.0
+2018-04-15,Rice (local) - Retail,KG,cereals and tubers,275.0,XOF,Senegal,Kolda,2640.0,Kolda,421.0,71,15.0,5.0,1,421_71_15_5,,2018.0,Rice (local) - Retail (KG),Rice loc.,1.0,0.0,1523750400.0
+2018-05-15,Rice (local) - Retail,KG,cereals and tubers,270.0,XOF,Senegal,Thies,2644.0,Thies,443.0,71,15.0,5.0,1,443_71_15_5,,2018.0,Rice (local) - Retail (KG),Rice loc.,1.0,0.0,1526342400.0
+2018-06-15,Rice (local) - Retail,KG,cereals and tubers,275.0,XOF,Senegal,Kolda,2640.0,Kolda,421.0,71,15.0,5.0,1,421_71_15_5,,2018.0,Rice (local) - Retail (KG),Rice loc.,1.0,0.0,1529020800.0
+2018-07-15,Rice (local) - Retail,KG,cereals and tubers,275.0,XOF,Senegal,Thies,2644.0,Thilmakha,445.0,71,15.0,5.0,1,445_71_15_5,,2018.0,Rice (local) - Retail (KG),Rice loc.,1.0,0.0,1531612800.0
+2018-08-15,Rice (local) - Retail,KG,cereals and tubers,275.0,XOF,Senegal,Fatick,47586.0,Keur I. Yacine,420.0,71,15.0,5.0,1,420_71_15_5,,2018.0,Rice (local) - Retail (KG),Rice loc.,1.0,0.0,1534291200.0
+2018-09-15,Rice (local) - Retail,KG,cereals and tubers,275.0,XOF,Senegal,Kolda,2640.0,Diaobe,412.0,71,15.0,5.0,1,412_71_15_5,,2018.0,Rice (local) - Retail (KG),Rice loc.,1.0,0.0,1536969600.0
+2018-10-15,Rice (local) - Retail,KG,cereals and tubers,300.0,XOF,Senegal,Kolda,2640.0,Kolda,421.0,71,15.0,5.0,1,421_71_15_5,,2018.0,Rice (local) - Retail (KG),Rice loc.,1.0,0.0,1539561600.0
+2018-11-15,Rice (local) - Retail,KG,cereals and tubers,275.0,XOF,Senegal,Thies,2644.0,Thilmakha,445.0,71,15.0,5.0,1,445_71_15_5,,2018.0,Rice (local) - Retail (KG),Rice loc.,1.0,0.0,1542240000.0
+2018-12-15,Rice (local) - Retail,KG,cereals and tubers,275.0,XOF,Senegal,Thies,2644.0,Thilmakha,445.0,71,15.0,5.0,1,445_71_15_5,,2018.0,Rice (local) - Retail (KG),Rice loc.,1.0,0.0,1544832000.0
+2019-01-15,Rice (local) - Retail,KG,cereals and tubers,300.0,XOF,Senegal,Kaolack,2639.0,Kaolack,418.0,71,15.0,5.0,1,418_71_15_5,,2019.0,Rice (local) - Retail (KG),Rice loc.,1.0,0.0,1547510400.0
+2019-02-15,Rice (local) - Retail,KG,cereals and tubers,275.0,XOF,Senegal,Thies,2644.0,Thilmakha,445.0,71,15.0,5.0,1,445_71_15_5,,2019.0,Rice (local) - Retail (KG),Rice loc.,1.0,0.0,1550188800.0
+2019-03-15,Rice (local) - Retail,KG,cereals and tubers,288.0,XOF,Senegal,Saint louis,47589.0,Saint-Louis,440.0,71,15.0,5.0,1,440_71_15_5,,2019.0,Rice (local) - Retail (KG),Rice loc.,1.0,0.0,1552608000.0
+2019-04-15,Rice (local) - Retail,KG,cereals and tubers,280.0,XOF,Senegal,Matam,47588.0,Thiodaye,446.0,71,15.0,5.0,1,446_71_15_5,,2019.0,Rice (local) - Retail (KG),Rice loc.,1.0,0.0,1555286400.0
+2019-05-15,Rice (local) - Retail,KG,cereals and tubers,290.0,XOF,Senegal,Diourbel,47585.0,Bambey,406.0,71,15.0,5.0,1,406_71_15_5,,2019.0,Rice (local) - Retail (KG),Rice loc.,1.0,0.0,1557878400.0
+2019-06-15,Rice (local) - Retail,KG,cereals and tubers,300.0,XOF,Senegal,Kolda,2640.0,Kolda,421.0,71,15.0,5.0,1,421_71_15_5,,2019.0,Rice (local) - Retail (KG),Rice loc.,1.0,0.0,1560556800.0
+2019-07-15,Rice (local) - Retail,KG,cereals and tubers,300.0,XOF,Senegal,Kolda,2640.0,Diaobe,412.0,71,15.0,5.0,1,412_71_15_5,,2019.0,Rice (local) - Retail (KG),Rice loc.,1.0,0.0,1563148800.0
+2019-08-15,Rice (local) - Retail,KG,cereals and tubers,300.0,XOF,Senegal,Kolda,2640.0,Diaobe,412.0,71,15.0,5.0,1,412_71_15_5,,2019.0,Rice (local) - Retail (KG),Rice loc.,1.0,0.0,1565827200.0
+2019-09-15,Rice (local) - Retail,KG,cereals and tubers,300.0,XOF,Senegal,Kolda,2640.0,Diaobe,412.0,71,15.0,5.0,1,412_71_15_5,,2019.0,Rice (local) - Retail (KG),Rice loc.,1.0,0.0,1568505600.0
+2019-10-15,Rice (local) - Retail,KG,cereals and tubers,300.0,XOF,Senegal,Kolda,2640.0,Diaobe,412.0,71,15.0,5.0,1,412_71_15_5,,2019.0,Rice (local) - Retail (KG),Rice loc.,1.0,0.0,1571097600.0
+2019-11-15,Rice (local) - Retail,KG,cereals and tubers,300.0,XOF,Senegal,Louga,47587.0,Louga,424.0,71,15.0,5.0,1,424_71_15_5,,2019.0,Rice (local) - Retail (KG),Rice loc.,1.0,0.0,1573776000.0
+2019-12-15,Rice (local) - Retail,KG,cereals and tubers,275.0,XOF,Senegal,Thies,2644.0,Thilmakha,445.0,71,15.0,5.0,1,445_71_15_5,,2019.0,Rice (local) - Retail (KG),Rice loc.,1.0,0.0,1576368000.0
+2020-01-15,Rice (local) - Retail,KG,cereals and tubers,275.0,XOF,Senegal,Thies,2644.0,Touba Toul,449.0,71,15.0,5.0,1,449_71_15_5,,2020.0,Rice (local) - Retail (KG),Rice loc.,1.0,0.0,1579046400.0
+2020-02-15,Rice (local) - Retail,KG,cereals and tubers,275.0,XOF,Senegal,Diourbel,47585.0,Bambey,406.0,71,15.0,5.0,1,406_71_15_5,,2020.0,Rice (local) - Retail (KG),Rice loc.,1.0,0.0,1581724800.0
+2020-03-15,Rice (local) - Retail,KG,cereals and tubers,300.0,XOF,Senegal,Matam,47588.0,Orkodiere,433.0,71,15.0,5.0,1,433_71_15_5,,2020.0,Rice (local) - Retail (KG),Rice loc.,1.0,0.0,1584230400.0
+2020-04-15,Rice (local) - Retail,KG,cereals and tubers,296.0,XOF,Senegal,Matam,47588.0,Matam,426.0,71,15.0,5.0,1,426_71_15_5,,2020.0,Rice (local) - Retail (KG),Rice loc.,1.0,0.0,1586908800.0
+2020-05-15,Rice (local) - Retail,KG,cereals and tubers,337.5,XOF,Senegal,Saint louis,47589.0,Saint-Louis,440.0,71,15.0,5.0,1,440_71_15_5,,2020.0,Rice (local) - Retail (KG),Rice loc.,1.0,0.0,1589500800.0
+2020-06-15,Rice (local) - Retail,KG,cereals and tubers,323.3333,XOF,Senegal,Kolda,2640.0,Kolda,421.0,71,15.0,5.0,1,421_71_15_5,,2020.0,Rice (local) - Retail (KG),Rice loc.,1.0,0.0,1592179200.0
+2020-07-15,Rice (local) - Retail,KG,cereals and tubers,300.0,XOF,Senegal,Matam,47588.0,Ourossogui,434.0,71,15.0,5.0,1,434_71_15_5,,2020.0,Rice (local) - Retail (KG),Rice loc.,1.0,0.0,1594771200.0
+2020-08-15,Rice (local) - Retail,KG,cereals and tubers,300.0,XOF,Senegal,Louga,47587.0,Gouille Mbeuth,416.0,71,15.0,5.0,1,416_71_15_5,,2020.0,Rice (local) - Retail (KG),Rice loc.,1.0,0.0,1597449600.0
+2020-09-15,Rice (local) - Retail,KG,cereals and tubers,300.0,XOF,Senegal,Diourbel,47585.0,Ndindy,432.0,71,15.0,5.0,1,432_71_15_5,,2020.0,Rice (local) - Retail (KG),Rice loc.,1.0,0.0,1600128000.0
+2020-10-15,Rice (local) - Retail,KG,cereals and tubers,300.0,XOF,Senegal,Thies,2644.0,Mbafaye,427.0,71,15.0,5.0,1,427_71_15_5,,2020.0,Rice (local) - Retail (KG),Rice loc.,1.0,0.0,1602720000.0
+2020-11-15,Rice (local) - Retail,KG,cereals and tubers,300.0,XOF,Senegal,Kaolack,2639.0,Kaolack,418.0,71,15.0,5.0,1,418_71_15_5,,2020.0,Rice (local) - Retail (KG),Rice loc.,1.0,0.0,1605398400.0
+2015-01-15,"Rice (ordinary, first quality) - Retail",KG,cereals and tubers,433.3333,,,,,,,197,,,1,,,,"Rice (ordinary, first quality) - Retail (KG)","Rice ordinary, 1st q.",1.0,1.0,
+2015-02-15,"Rice (ordinary, first quality) - Retail",KG,cereals and tubers,433.3333,,,,,,,197,,,1,,,,"Rice (ordinary, first quality) - Retail (KG)","Rice ordinary, 1st q.",1.0,1.0,
+2015-03-15,"Rice (ordinary, first quality) - Retail",KG,cereals and tubers,433.3333,,,,,,,197,,,1,,,,"Rice (ordinary, first quality) - Retail (KG)","Rice ordinary, 1st q.",1.0,1.0,
+2015-04-15,"Rice (ordinary, first quality) - Retail",KG,cereals and tubers,433.3333,,,,,,,197,,,1,,,,"Rice (ordinary, first quality) - Retail (KG)","Rice ordinary, 1st q.",1.0,1.0,
+2015-05-15,"Rice (ordinary, first quality) - Retail",KG,cereals and tubers,433.3333,,,,,,,197,,,1,,,,"Rice (ordinary, first quality) - Retail (KG)","Rice ordinary, 1st q.",1.0,1.0,
+2015-06-15,"Rice (ordinary, first quality) - Retail",KG,cereals and tubers,433.3333,,,,,,,197,,,1,,,,"Rice (ordinary, first quality) - Retail (KG)","Rice ordinary, 1st q.",1.0,1.0,
+2015-07-15,"Rice (ordinary, first quality) - Retail",KG,cereals and tubers,433.3333,,,,,,,197,,,1,,,,"Rice (ordinary, first quality) - Retail (KG)","Rice ordinary, 1st q.",1.0,1.0,
+2015-08-15,"Rice (ordinary, first quality) - Retail",KG,cereals and tubers,433.3333,,,,,,,197,,,1,,,,"Rice (ordinary, first quality) - Retail (KG)","Rice ordinary, 1st q.",1.0,1.0,
+2015-09-15,"Rice (ordinary, first quality) - Retail",KG,cereals and tubers,433.3333,,,,,,,197,,,1,,,,"Rice (ordinary, first quality) - Retail (KG)","Rice ordinary, 1st q.",1.0,1.0,
+2015-10-15,"Rice (ordinary, first quality) - Retail",KG,cereals and tubers,433.3333,,,,,,,197,,,1,,,,"Rice (ordinary, first quality) - Retail (KG)","Rice ordinary, 1st q.",1.0,1.0,
+2015-11-15,"Rice (ordinary, first quality) - Retail",KG,cereals and tubers,433.3333,,,,,,,197,,,1,,,,"Rice (ordinary, first quality) - Retail (KG)","Rice ordinary, 1st q.",1.0,1.0,
+2015-12-15,"Rice (ordinary, first quality) - Retail",KG,cereals and tubers,433.3333,,,,,,,197,,,1,,,,"Rice (ordinary, first quality) - Retail (KG)","Rice ordinary, 1st q.",1.0,1.0,
+2016-01-15,"Rice (ordinary, first quality) - Retail",KG,cereals and tubers,433.3333,,,,,,,197,,,1,,,,"Rice (ordinary, first quality) - Retail (KG)","Rice ordinary, 1st q.",1.0,1.0,
+2016-02-15,"Rice (ordinary, first quality) - Retail",KG,cereals and tubers,433.3333,,,,,,,197,,,1,,,,"Rice (ordinary, first quality) - Retail (KG)","Rice ordinary, 1st q.",1.0,1.0,
+2016-03-15,"Rice (ordinary, first quality) - Retail",KG,cereals and tubers,433.3333,,,,,,,197,,,1,,,,"Rice (ordinary, first quality) - Retail (KG)","Rice ordinary, 1st q.",1.0,1.0,
+2016-04-15,"Rice (ordinary, first quality) - Retail",KG,cereals and tubers,433.3333,,,,,,,197,,,1,,,,"Rice (ordinary, first quality) - Retail (KG)","Rice ordinary, 1st q.",1.0,1.0,
+2016-05-15,"Rice (ordinary, first quality) - Retail",KG,cereals and tubers,433.3333,,,,,,,197,,,1,,,,"Rice (ordinary, first quality) - Retail (KG)","Rice ordinary, 1st q.",1.0,1.0,
+2016-06-15,"Rice (ordinary, first quality) - Retail",KG,cereals and tubers,433.3333,,,,,,,197,,,1,,,,"Rice (ordinary, first quality) - Retail (KG)","Rice ordinary, 1st q.",1.0,1.0,
+2016-07-15,"Rice (ordinary, first quality) - Retail",KG,cereals and tubers,433.3333,,,,,,,197,,,1,,,,"Rice (ordinary, first quality) - Retail (KG)","Rice ordinary, 1st q.",1.0,1.0,
+2016-08-15,"Rice (ordinary, first quality) - Retail",KG,cereals and tubers,433.3333,,,,,,,197,,,1,,,,"Rice (ordinary, first quality) - Retail (KG)","Rice ordinary, 1st q.",1.0,1.0,
+2016-09-15,"Rice (ordinary, first quality) - Retail",KG,cereals and tubers,433.3333,,,,,,,197,,,1,,,,"Rice (ordinary, first quality) - Retail (KG)","Rice ordinary, 1st q.",1.0,1.0,
+2016-10-15,"Rice (ordinary, first quality) - Retail",KG,cereals and tubers,433.3333,,,,,,,197,,,1,,,,"Rice (ordinary, first quality) - Retail (KG)","Rice ordinary, 1st q.",1.0,1.0,
+2016-11-15,"Rice (ordinary, first quality) - Retail",KG,cereals and tubers,433.3333,,,,,,,197,,,1,,,,"Rice (ordinary, first quality) - Retail (KG)","Rice ordinary, 1st q.",1.0,1.0,
+2016-12-15,"Rice (ordinary, first quality) - Retail",KG,cereals and tubers,433.3333,,,,,,,197,,,1,,,,"Rice (ordinary, first quality) - Retail (KG)","Rice ordinary, 1st q.",1.0,1.0,
+2017-01-15,"Rice (ordinary, first quality) - Retail",KG,cereals and tubers,433.3333,,,,,,,197,,,1,,,,"Rice (ordinary, first quality) - Retail (KG)","Rice ordinary, 1st q.",1.0,1.0,
+2017-02-15,"Rice (ordinary, first quality) - Retail",KG,cereals and tubers,433.3333,,,,,,,197,,,1,,,,"Rice (ordinary, first quality) - Retail (KG)","Rice ordinary, 1st q.",1.0,1.0,
+2017-03-15,"Rice (ordinary, first quality) - Retail",KG,cereals and tubers,433.3333,,,,,,,197,,,1,,,,"Rice (ordinary, first quality) - Retail (KG)","Rice ordinary, 1st q.",1.0,1.0,
+2017-04-15,"Rice (ordinary, first quality) - Retail",KG,cereals and tubers,433.3333,,,,,,,197,,,1,,,,"Rice (ordinary, first quality) - Retail (KG)","Rice ordinary, 1st q.",1.0,1.0,
+2017-05-15,"Rice (ordinary, first quality) - Retail",KG,cereals and tubers,433.3333,,,,,,,197,,,1,,,,"Rice (ordinary, first quality) - Retail (KG)","Rice ordinary, 1st q.",1.0,1.0,
+2017-06-15,"Rice (ordinary, first quality) - Retail",KG,cereals and tubers,433.3333,,,,,,,197,,,1,,,,"Rice (ordinary, first quality) - Retail (KG)","Rice ordinary, 1st q.",1.0,1.0,
+2017-07-15,"Rice (ordinary, first quality) - Retail",KG,cereals and tubers,433.3333,,,,,,,197,,,1,,,,"Rice (ordinary, first quality) - Retail (KG)","Rice ordinary, 1st q.",1.0,1.0,
+2017-08-15,"Rice (ordinary, first quality) - Retail",KG,cereals and tubers,433.3333,,,,,,,197,,,1,,,,"Rice (ordinary, first quality) - Retail (KG)","Rice ordinary, 1st q.",1.0,1.0,
+2017-09-15,"Rice (ordinary, first quality) - Retail",KG,cereals and tubers,433.3333,,,,,,,197,,,1,,,,"Rice (ordinary, first quality) - Retail (KG)","Rice ordinary, 1st q.",1.0,1.0,
+2017-10-15,"Rice (ordinary, first quality) - Retail",KG,cereals and tubers,433.3333,,,,,,,197,,,1,,,,"Rice (ordinary, first quality) - Retail (KG)","Rice ordinary, 1st q.",1.0,1.0,
+2017-11-15,"Rice (ordinary, first quality) - Retail",KG,cereals and tubers,433.3333,,,,,,,197,,,1,,,,"Rice (ordinary, first quality) - Retail (KG)","Rice ordinary, 1st q.",1.0,1.0,
+2017-12-15,"Rice (ordinary, first quality) - Retail",KG,cereals and tubers,433.3333,,,,,,,197,,,1,,,,"Rice (ordinary, first quality) - Retail (KG)","Rice ordinary, 1st q.",1.0,1.0,
+2018-01-15,"Rice (ordinary, first quality) - Retail",KG,cereals and tubers,433.3333,,,,,,,197,,,1,,,,"Rice (ordinary, first quality) - Retail (KG)","Rice ordinary, 1st q.",1.0,1.0,
+2018-02-15,"Rice (ordinary, first quality) - Retail",KG,cereals and tubers,433.3333,,,,,,,197,,,1,,,,"Rice (ordinary, first quality) - Retail (KG)","Rice ordinary, 1st q.",1.0,1.0,
+2018-03-15,"Rice (ordinary, first quality) - Retail",KG,cereals and tubers,433.3333,,,,,,,197,,,1,,,,"Rice (ordinary, first quality) - Retail (KG)","Rice ordinary, 1st q.",1.0,1.0,
+2018-04-15,"Rice (ordinary, first quality) - Retail",KG,cereals and tubers,433.3333,,,,,,,197,,,1,,,,"Rice (ordinary, first quality) - Retail (KG)","Rice ordinary, 1st q.",1.0,1.0,
+2018-05-15,"Rice (ordinary, first quality) - Retail",KG,cereals and tubers,433.3333,,,,,,,197,,,1,,,,"Rice (ordinary, first quality) - Retail (KG)","Rice ordinary, 1st q.",1.0,1.0,
+2018-06-15,"Rice (ordinary, first quality) - Retail",KG,cereals and tubers,433.3333,,,,,,,197,,,1,,,,"Rice (ordinary, first quality) - Retail (KG)","Rice ordinary, 1st q.",1.0,1.0,
+2018-07-15,"Rice (ordinary, first quality) - Retail",KG,cereals and tubers,433.3333,,,,,,,197,,,1,,,,"Rice (ordinary, first quality) - Retail (KG)","Rice ordinary, 1st q.",1.0,1.0,
+2018-08-15,"Rice (ordinary, first quality) - Retail",KG,cereals and tubers,433.3333,,,,,,,197,,,1,,,,"Rice (ordinary, first quality) - Retail (KG)","Rice ordinary, 1st q.",1.0,1.0,
+2018-09-15,"Rice (ordinary, first quality) - Retail",KG,cereals and tubers,433.3333,,,,,,,197,,,1,,,,"Rice (ordinary, first quality) - Retail (KG)","Rice ordinary, 1st q.",1.0,1.0,
+2018-10-15,"Rice (ordinary, first quality) - Retail",KG,cereals and tubers,433.3333,,,,,,,197,,,1,,,,"Rice (ordinary, first quality) - Retail (KG)","Rice ordinary, 1st q.",1.0,1.0,
+2018-11-15,"Rice (ordinary, first quality) - Retail",KG,cereals and tubers,433.3333,,,,,,,197,,,1,,,,"Rice (ordinary, first quality) - Retail (KG)","Rice ordinary, 1st q.",1.0,1.0,
+2018-12-15,"Rice (ordinary, first quality) - Retail",KG,cereals and tubers,433.3333,,,,,,,197,,,1,,,,"Rice (ordinary, first quality) - Retail (KG)","Rice ordinary, 1st q.",1.0,1.0,
+2019-01-15,"Rice (ordinary, first quality) - Retail",KG,cereals and tubers,433.3333,,,,,,,197,,,1,,,,"Rice (ordinary, first quality) - Retail (KG)","Rice ordinary, 1st q.",1.0,1.0,
+2019-02-15,"Rice (ordinary, first quality) - Retail",KG,cereals and tubers,433.3333,,,,,,,197,,,1,,,,"Rice (ordinary, first quality) - Retail (KG)","Rice ordinary, 1st q.",1.0,1.0,
+2019-03-15,"Rice (ordinary, first quality) - Retail",KG,cereals and tubers,433.3333,,,,,,,197,,,1,,,,"Rice (ordinary, first quality) - Retail (KG)","Rice ordinary, 1st q.",1.0,1.0,
+2019-04-15,"Rice (ordinary, first quality) - Retail",KG,cereals and tubers,433.3333,,,,,,,197,,,1,,,,"Rice (ordinary, first quality) - Retail (KG)","Rice ordinary, 1st q.",1.0,1.0,
+2019-05-15,"Rice (ordinary, first quality) - Retail",KG,cereals and tubers,433.3333,,,,,,,197,,,1,,,,"Rice (ordinary, first quality) - Retail (KG)","Rice ordinary, 1st q.",1.0,1.0,
+2019-06-15,"Rice (ordinary, first quality) - Retail",KG,cereals and tubers,433.3333,,,,,,,197,,,1,,,,"Rice (ordinary, first quality) - Retail (KG)","Rice ordinary, 1st q.",1.0,1.0,
+2019-07-15,"Rice (ordinary, first quality) - Retail",KG,cereals and tubers,433.3333,,,,,,,197,,,1,,,,"Rice (ordinary, first quality) - Retail (KG)","Rice ordinary, 1st q.",1.0,1.0,
+2019-08-15,"Rice (ordinary, first quality) - Retail",KG,cereals and tubers,433.3333,,,,,,,197,,,1,,,,"Rice (ordinary, first quality) - Retail (KG)","Rice ordinary, 1st q.",1.0,1.0,
+2019-09-15,"Rice (ordinary, first quality) - Retail",KG,cereals and tubers,433.3333,,,,,,,197,,,1,,,,"Rice (ordinary, first quality) - Retail (KG)","Rice ordinary, 1st q.",1.0,1.0,
+2019-10-15,"Rice (ordinary, first quality) - Retail",KG,cereals and tubers,433.3333,,,,,,,197,,,1,,,,"Rice (ordinary, first quality) - Retail (KG)","Rice ordinary, 1st q.",1.0,1.0,
+2019-11-15,"Rice (ordinary, first quality) - Retail",KG,cereals and tubers,433.3333,,,,,,,197,,,1,,,,"Rice (ordinary, first quality) - Retail (KG)","Rice ordinary, 1st q.",1.0,1.0,
+2019-12-15,"Rice (ordinary, first quality) - Retail",KG,cereals and tubers,433.3333,,,,,,,197,,,1,,,,"Rice (ordinary, first quality) - Retail (KG)","Rice ordinary, 1st q.",1.0,1.0,
+2020-01-15,"Rice (ordinary, first quality) - Retail",KG,cereals and tubers,433.3333,,,,,,,197,,,1,,,,"Rice (ordinary, first quality) - Retail (KG)","Rice ordinary, 1st q.",1.0,1.0,
+2020-02-15,"Rice (ordinary, first quality) - Retail",KG,cereals and tubers,433.3333,,,,,,,197,,,1,,,,"Rice (ordinary, first quality) - Retail (KG)","Rice ordinary, 1st q.",1.0,1.0,
+2020-03-15,"Rice (ordinary, first quality) - Retail",KG,cereals and tubers,433.3333,,,,,,,197,,,1,,,,"Rice (ordinary, first quality) - Retail (KG)","Rice ordinary, 1st q.",1.0,1.0,
+2020-04-15,"Rice (ordinary, first quality) - Retail",KG,cereals and tubers,433.3333,XOF,Senegal,Kaffrine,1378.0,Koungueul,422.0,197,15.0,5.0,1,422_197_15_5,,2020.0,"Rice (ordinary, first quality) - Retail (KG)","Rice ordinary, 1st q.",1.0,0.0,1586908800.0
+2020-05-15,"Rice (ordinary, first quality) - Retail",KG,cereals and tubers,500.0,XOF,Senegal,Kaffrine,1378.0,Kaffrine,417.0,197,15.0,5.0,1,417_197_15_5,,2020.0,"Rice (ordinary, first quality) - Retail (KG)","Rice ordinary, 1st q.",1.0,0.0,1589500800.0
+2020-06-15,"Rice (ordinary, first quality) - Retail",KG,cereals and tubers,500.0,XOF,Senegal,Kedougou,1374.0,Kedougou,419.0,197,15.0,5.0,1,419_197_15_5,,2020.0,"Rice (ordinary, first quality) - Retail (KG)","Rice ordinary, 1st q.",1.0,0.0,1592179200.0
+2020-07-15,"Rice (ordinary, first quality) - Retail",KG,cereals and tubers,487.5,XOF,Senegal,Kolda,2640.0,Kolda,421.0,197,15.0,5.0,1,421_197_15_5,,2020.0,"Rice (ordinary, first quality) - Retail (KG)","Rice ordinary, 1st q.",1.0,0.0,1594771200.0
+2020-08-15,"Rice (ordinary, first quality) - Retail",KG,cereals and tubers,475.0,XOF,Senegal,Kaolack,2639.0,Kaolack,418.0,197,15.0,5.0,1,418_197_15_5,,2020.0,"Rice (ordinary, first quality) - Retail (KG)","Rice ordinary, 1st q.",1.0,0.0,1597449600.0
+2020-09-15,"Rice (ordinary, first quality) - Retail",KG,cereals and tubers,500.0,XOF,Senegal,Kaffrine,1378.0,Kaffrine,417.0,197,15.0,5.0,1,417_197_15_5,,2020.0,"Rice (ordinary, first quality) - Retail (KG)","Rice ordinary, 1st q.",1.0,0.0,1600128000.0
+2020-10-15,"Rice (ordinary, first quality) - Retail",KG,cereals and tubers,475.0,XOF,Senegal,Kaolack,2639.0,Kaolack,418.0,197,15.0,5.0,1,418_197_15_5,,2020.0,"Rice (ordinary, first quality) - Retail (KG)","Rice ordinary, 1st q.",1.0,0.0,1602720000.0
+2020-11-15,"Rice (ordinary, first quality) - Retail",KG,cereals and tubers,475.0,XOF,Senegal,Kedougou,1374.0,Salémata,1542.0,197,15.0,5.0,1,1542_197_15_5,,2020.0,"Rice (ordinary, first quality) - Retail (KG)","Rice ordinary, 1st q.",1.0,0.0,1605398400.0
+2015-01-15,Sorghum - Retail,KG,cereals and tubers,223.3333,XOF,Senegal,Louga,47587.0,Louga,424.0,65,15.0,5.0,1,424_65_15_5,,2015.0,Sorghum - Retail (KG),Sorghum,1.0,0.0,1421280000.0
+2015-02-15,Sorghum - Retail,KG,cereals and tubers,220.0,XOF,Senegal,Sedhiou,1376.0,Sedhiou,452.0,65,15.0,5.0,1,452_65_15_5,,2015.0,Sorghum - Retail (KG),Sorghum,1.0,0.0,1423958400.0
+2015-03-15,Sorghum - Retail,KG,cereals and tubers,225.0,XOF,Senegal,Kaolack,2639.0,Porokhane,437.0,65,15.0,5.0,1,437_65_15_5,,2015.0,Sorghum - Retail (KG),Sorghum,1.0,0.0,1426377600.0
+2015-04-15,Sorghum - Retail,KG,cereals and tubers,243.75,XOF,Senegal,Dakar,2636.0,Gueule Tapee,457.0,65,15.0,5.0,1,457_65_15_5,,2015.0,Sorghum - Retail (KG),Sorghum,1.0,0.0,1429056000.0
+2015-05-15,Sorghum - Retail,KG,cereals and tubers,225.0,XOF,Senegal,Kaolack,2639.0,Kaolack,418.0,65,15.0,5.0,1,418_65_15_5,,2015.0,Sorghum - Retail (KG),Sorghum,1.0,0.0,1431648000.0
+2015-06-15,Sorghum - Retail,KG,cereals and tubers,247.0,XOF,Senegal,Matam,47588.0,Matam,426.0,65,15.0,5.0,1,426_65_15_5,,2015.0,Sorghum - Retail (KG),Sorghum,1.0,0.0,1434326400.0
+2015-07-15,Sorghum - Retail,KG,cereals and tubers,227.0,XOF,Senegal,Kaolack,2639.0,Kaolack,418.0,65,15.0,5.0,1,418_65_15_5,,2015.0,Sorghum - Retail (KG),Sorghum,1.0,0.0,1436918400.0
+2015-08-15,Sorghum - Retail,KG,cereals and tubers,250.0,XOF,Senegal,Kolda,2640.0,Diaobe,412.0,65,15.0,5.0,1,412_65_15_5,,2015.0,Sorghum - Retail (KG),Sorghum,1.0,0.0,1439596800.0
+2015-09-15,Sorghum - Retail,KG,cereals and tubers,245.0,XOF,Senegal,Matam,47588.0,Matam,426.0,65,15.0,5.0,1,426_65_15_5,,2015.0,Sorghum - Retail (KG),Sorghum,1.0,0.0,1442275200.0
+2015-10-15,Sorghum - Retail,KG,cereals and tubers,230.0,XOF,Senegal,Diourbel,47585.0,Diourbel,413.0,65,15.0,5.0,1,413_65_15_5,,2015.0,Sorghum - Retail (KG),Sorghum,1.0,0.0,1444867200.0
+2015-11-15,Sorghum - Retail,KG,cereals and tubers,242.0,XOF,Senegal,Matam,47588.0,Matam,426.0,65,15.0,5.0,1,426_65_15_5,,2015.0,Sorghum - Retail (KG),Sorghum,1.0,0.0,1447545600.0
+2015-12-15,Sorghum - Retail,KG,cereals and tubers,218.0,XOF,Senegal,Kaolack,2639.0,N'Doffane,697.0,65,15.0,5.0,1,697_65_15_5,,2015.0,Sorghum - Retail (KG),Sorghum,1.0,0.0,1450137600.0
+2016-01-15,Sorghum - Retail,KG,cereals and tubers,200.0,XOF,Senegal,Sedhiou,1376.0,Sedhiou,452.0,65,15.0,5.0,1,452_65_15_5,,2016.0,Sorghum - Retail (KG),Sorghum,1.0,0.0,1452816000.0
+2016-02-15,Sorghum - Retail,KG,cereals and tubers,210.0,XOF,Senegal,Thies,2644.0,Thies,443.0,65,15.0,5.0,1,443_65_15_5,,2016.0,Sorghum - Retail (KG),Sorghum,1.0,0.0,1455494400.0
+2016-03-15,Sorghum - Retail,KG,cereals and tubers,225.0,XOF,Senegal,Dakar,2636.0,Castors,408.0,65,15.0,5.0,1,408_65_15_5,,2016.0,Sorghum - Retail (KG),Sorghum,1.0,0.0,1458000000.0
+2016-04-15,Sorghum - Retail,KG,cereals and tubers,225.0,XOF,Senegal,Dakar,2636.0,Castors,408.0,65,15.0,5.0,1,408_65_15_5,,2016.0,Sorghum - Retail (KG),Sorghum,1.0,0.0,1460678400.0
+2016-05-15,Sorghum - Retail,KG,cereals and tubers,225.0,XOF,Senegal,Dakar,2636.0,Castors,408.0,65,15.0,5.0,1,408_65_15_5,,2016.0,Sorghum - Retail (KG),Sorghum,1.0,0.0,1463270400.0
+2016-06-15,Sorghum - Retail,KG,cereals and tubers,225.0,XOF,Senegal,Dakar,2636.0,Castors,408.0,65,15.0,5.0,1,408_65_15_5,,2016.0,Sorghum - Retail (KG),Sorghum,1.0,0.0,1465948800.0
+2016-07-15,Sorghum - Retail,KG,cereals and tubers,225.0,XOF,Senegal,Dakar,2636.0,Thiaroye,442.0,65,15.0,5.0,1,442_65_15_5,,2016.0,Sorghum - Retail (KG),Sorghum,1.0,0.0,1468540800.0
+2016-08-15,Sorghum - Retail,KG,cereals and tubers,225.0,XOF,Senegal,Dakar,2636.0,Thiaroye,442.0,65,15.0,5.0,1,442_65_15_5,,2016.0,Sorghum - Retail (KG),Sorghum,1.0,0.0,1471219200.0
+2016-09-15,Sorghum - Retail,KG,cereals and tubers,225.0,XOF,Senegal,Kolda,2640.0,Kolda,421.0,65,15.0,5.0,1,421_65_15_5,,2016.0,Sorghum - Retail (KG),Sorghum,1.0,0.0,1473897600.0
+2016-10-15,Sorghum - Retail,KG,cereals and tubers,225.0,XOF,Senegal,Kaolack,2639.0,Kaolack,418.0,65,15.0,5.0,1,418_65_15_5,,2016.0,Sorghum - Retail (KG),Sorghum,1.0,0.0,1476489600.0
+2016-11-15,Sorghum - Retail,KG,cereals and tubers,225.0,XOF,Senegal,Kaolack,2639.0,Kaolack,418.0,65,15.0,5.0,1,418_65_15_5,,2016.0,Sorghum - Retail (KG),Sorghum,1.0,0.0,1479168000.0
+2016-12-15,Sorghum - Retail,KG,cereals and tubers,224.0,XOF,Senegal,Kaolack,2639.0,Kaolack,418.0,65,15.0,5.0,1,418_65_15_5,,2016.0,Sorghum - Retail (KG),Sorghum,1.0,0.0,1481760000.0
+2017-01-15,Sorghum - Retail,KG,cereals and tubers,218.0,XOF,Senegal,Kaffrine,1378.0,Kaffrine,417.0,65,15.0,5.0,1,417_65_15_5,,2017.0,Sorghum - Retail (KG),Sorghum,1.0,0.0,1484438400.0
+2017-02-15,Sorghum - Retail,KG,cereals and tubers,223.0,XOF,Senegal,Dakar,2636.0,Dakar,410.0,65,15.0,5.0,1,410_65_15_5,,2017.0,Sorghum - Retail (KG),Sorghum,1.0,0.0,1487116800.0
+2017-03-15,Sorghum - Retail,KG,cereals and tubers,225.0,XOF,Senegal,Kolda,2640.0,Sare Yoba,439.0,65,15.0,5.0,1,439_65_15_5,,2017.0,Sorghum - Retail (KG),Sorghum,1.0,0.0,1489536000.0
+2017-04-15,Sorghum - Retail,KG,cereals and tubers,225.0,XOF,Senegal,Kolda,2640.0,Sare Yoba,439.0,65,15.0,5.0,1,439_65_15_5,,2017.0,Sorghum - Retail (KG),Sorghum,1.0,0.0,1492214400.0
+2017-05-15,Sorghum - Retail,KG,cereals and tubers,250.0,XOF,Senegal,Dakar,2636.0,Castors,408.0,65,15.0,5.0,1,408_65_15_5,,2017.0,Sorghum - Retail (KG),Sorghum,1.0,0.0,1494806400.0
+2017-06-15,Sorghum - Retail,KG,cereals and tubers,250.0,XOF,Senegal,Dakar,2636.0,Castors,408.0,65,15.0,5.0,1,408_65_15_5,,2017.0,Sorghum - Retail (KG),Sorghum,1.0,0.0,1497484800.0
+2017-07-15,Sorghum - Retail,KG,cereals and tubers,250.0,XOF,Senegal,Dakar,2636.0,Castors,408.0,65,15.0,5.0,1,408_65_15_5,,2017.0,Sorghum - Retail (KG),Sorghum,1.0,0.0,1500076800.0
+2017-08-15,Sorghum - Retail,KG,cereals and tubers,250.0,XOF,Senegal,Dakar,2636.0,Castors,408.0,65,15.0,5.0,1,408_65_15_5,,2017.0,Sorghum - Retail (KG),Sorghum,1.0,0.0,1502755200.0
+2017-09-15,Sorghum - Retail,KG,cereals and tubers,283.0,XOF,Senegal,Tambacounda,2643.0,Tambacounda,441.0,65,15.0,5.0,1,441_65_15_5,,2017.0,Sorghum - Retail (KG),Sorghum,1.0,0.0,1505433600.0
+2017-10-15,Sorghum - Retail,KG,cereals and tubers,285.0,XOF,Senegal,Thies,2644.0,Mbafaye,427.0,65,15.0,5.0,1,427_65_15_5,,2017.0,Sorghum - Retail (KG),Sorghum,1.0,0.0,1508025600.0
+2017-11-15,Sorghum - Retail,KG,cereals and tubers,265.0,XOF,Senegal,Matam,47588.0,Matam,426.0,65,15.0,5.0,1,426_65_15_5,,2017.0,Sorghum - Retail (KG),Sorghum,1.0,0.0,1510704000.0
+2017-12-15,Sorghum - Retail,KG,cereals and tubers,250.0,XOF,Senegal,Fatick,47586.0,Passy,436.0,65,15.0,5.0,1,436_65_15_5,,2017.0,Sorghum - Retail (KG),Sorghum,1.0,0.0,1513296000.0
+2018-01-15,Sorghum - Retail,KG,cereals and tubers,250.0,XOF,Senegal,Dakar,2636.0,Thiaroye,442.0,65,15.0,5.0,1,442_65_15_5,,2018.0,Sorghum - Retail (KG),Sorghum,1.0,0.0,1515974400.0
+2018-02-15,Sorghum - Retail,KG,cereals and tubers,225.0,XOF,Senegal,Kaolack,2639.0,Porokhane,437.0,65,15.0,5.0,1,437_65_15_5,,2018.0,Sorghum - Retail (KG),Sorghum,1.0,0.0,1518652800.0
+2018-03-15,Sorghum - Retail,KG,cereals and tubers,225.0,XOF,Senegal,Tambacounda,2643.0,Tambacounda,441.0,65,15.0,5.0,1,441_65_15_5,,2018.0,Sorghum - Retail (KG),Sorghum,1.0,0.0,1521072000.0
+2018-04-15,Sorghum - Retail,KG,cereals and tubers,250.0,XOF,Senegal,Dakar,2636.0,Thiaroye,442.0,65,15.0,5.0,1,442_65_15_5,,2018.0,Sorghum - Retail (KG),Sorghum,1.0,0.0,1523750400.0
+2018-05-15,Sorghum - Retail,KG,cereals and tubers,250.0,XOF,Senegal,Kolda,2640.0,Kolda,421.0,65,15.0,5.0,1,421_65_15_5,,2018.0,Sorghum - Retail (KG),Sorghum,1.0,0.0,1526342400.0
+2018-06-15,Sorghum - Retail,KG,cereals and tubers,250.0,XOF,Senegal,Kaffrine,1378.0,Kaffrine,417.0,65,15.0,5.0,1,417_65_15_5,,2018.0,Sorghum - Retail (KG),Sorghum,1.0,0.0,1529020800.0
+2018-07-15,Sorghum - Retail,KG,cereals and tubers,294.0,XOF,Senegal,Kaolack,2639.0,Kaolack,418.0,65,15.0,5.0,1,418_65_15_5,,2018.0,Sorghum - Retail (KG),Sorghum,1.0,0.0,1531612800.0
+2018-08-15,Sorghum - Retail,KG,cereals and tubers,300.0,XOF,Senegal,Kaffrine,1378.0,Kaffrine,417.0,65,15.0,5.0,1,417_65_15_5,,2018.0,Sorghum - Retail (KG),Sorghum,1.0,0.0,1534291200.0
+2018-09-15,Sorghum - Retail,KG,cereals and tubers,300.0,XOF,Senegal,Kolda,2640.0,Diaobe,412.0,65,15.0,5.0,1,412_65_15_5,,2018.0,Sorghum - Retail (KG),Sorghum,1.0,0.0,1536969600.0
+2018-10-15,Sorghum - Retail,KG,cereals and tubers,300.0,XOF,Senegal,Kedougou,1374.0,Kedougou,419.0,65,15.0,5.0,1,419_65_15_5,,2018.0,Sorghum - Retail (KG),Sorghum,1.0,0.0,1539561600.0
+2018-11-15,Sorghum - Retail,KG,cereals and tubers,225.0,XOF,Senegal,Tambacounda,2643.0,Tambacounda,441.0,65,15.0,5.0,1,441_65_15_5,,2018.0,Sorghum - Retail (KG),Sorghum,1.0,0.0,1542240000.0
+2018-12-15,Sorghum - Retail,KG,cereals and tubers,225.0,XOF,Senegal,Kolda,2640.0,Kolda,421.0,65,15.0,5.0,1,421_65_15_5,,2018.0,Sorghum - Retail (KG),Sorghum,1.0,0.0,1544832000.0
+2019-01-15,Sorghum - Retail,KG,cereals and tubers,225.0,XOF,Senegal,Tambacounda,2643.0,Tambacounda,441.0,65,15.0,5.0,1,441_65_15_5,,2019.0,Sorghum - Retail (KG),Sorghum,1.0,0.0,1547510400.0
+2019-02-15,Sorghum - Retail,KG,cereals and tubers,225.0,XOF,Senegal,Tambacounda,2643.0,Mereto,429.0,65,15.0,5.0,1,429_65_15_5,,2019.0,Sorghum - Retail (KG),Sorghum,1.0,0.0,1550188800.0
+2019-03-15,Sorghum - Retail,KG,cereals and tubers,225.0,XOF,Senegal,Kaffrine,1378.0,Kaffrine,417.0,65,15.0,5.0,1,417_65_15_5,,2019.0,Sorghum - Retail (KG),Sorghum,1.0,0.0,1552608000.0
+2019-04-15,Sorghum - Retail,KG,cereals and tubers,250.0,XOF,Senegal,Kolda,2640.0,Kolda,421.0,65,15.0,5.0,1,421_65_15_5,,2019.0,Sorghum - Retail (KG),Sorghum,1.0,0.0,1555286400.0
+2019-05-15,Sorghum - Retail,KG,cereals and tubers,250.0,XOF,Senegal,Kolda,2640.0,Diaobe,412.0,65,15.0,5.0,1,412_65_15_5,,2019.0,Sorghum - Retail (KG),Sorghum,1.0,0.0,1557878400.0
+2019-06-15,Sorghum - Retail,KG,cereals and tubers,300.0,XOF,Senegal,Kaolack,2639.0,Kaolack,418.0,65,15.0,5.0,1,418_65_15_5,,2019.0,Sorghum - Retail (KG),Sorghum,1.0,0.0,1560556800.0
+2019-07-15,Sorghum - Retail,KG,cereals and tubers,250.0,XOF,Senegal,Kaolack,2639.0,N'Doffane,697.0,65,15.0,5.0,1,697_65_15_5,,2019.0,Sorghum - Retail (KG),Sorghum,1.0,0.0,1563148800.0
+2019-08-15,Sorghum - Retail,KG,cereals and tubers,250.0,XOF,Senegal,Dakar,2636.0,Tilene,447.0,65,15.0,5.0,1,447_65_15_5,,2019.0,Sorghum - Retail (KG),Sorghum,1.0,0.0,1565827200.0
+2019-09-15,Sorghum - Retail,KG,cereals and tubers,250.0,XOF,Senegal,Kolda,2640.0,Kolda,421.0,65,15.0,5.0,1,421_65_15_5,,2019.0,Sorghum - Retail (KG),Sorghum,1.0,0.0,1568505600.0
+2019-10-15,Sorghum - Retail,KG,cereals and tubers,250.0,XOF,Senegal,Kolda,2640.0,Kolda,421.0,65,15.0,5.0,1,421_65_15_5,,2019.0,Sorghum - Retail (KG),Sorghum,1.0,0.0,1571097600.0
+2019-11-15,Sorghum - Retail,KG,cereals and tubers,225.0,XOF,Senegal,Kaolack,2639.0,Kaolack,418.0,65,15.0,5.0,1,418_65_15_5,,2019.0,Sorghum - Retail (KG),Sorghum,1.0,0.0,1573776000.0
+2019-12-15,Sorghum - Retail,KG,cereals and tubers,225.0,XOF,Senegal,Kaolack,2639.0,Kaolack,418.0,65,15.0,5.0,1,418_65_15_5,,2019.0,Sorghum - Retail (KG),Sorghum,1.0,0.0,1576368000.0
+2020-01-15,Sorghum - Retail,KG,cereals and tubers,225.0,XOF,Senegal,Tambacounda,2643.0,Bakel,405.0,65,15.0,5.0,1,405_65_15_5,,2020.0,Sorghum - Retail (KG),Sorghum,1.0,0.0,1579046400.0
+2020-02-15,Sorghum - Retail,KG,cereals and tubers,250.0,XOF,Senegal,Thies,2644.0,Thies,443.0,65,15.0,5.0,1,443_65_15_5,,2020.0,Sorghum - Retail (KG),Sorghum,1.0,0.0,1581724800.0
+2020-03-15,Sorghum - Retail,KG,cereals and tubers,246.6667,XOF,Senegal,Kolda,2640.0,Kolda,421.0,65,15.0,5.0,1,421_65_15_5,,2020.0,Sorghum - Retail (KG),Sorghum,1.0,0.0,1584230400.0
+2020-04-15,Sorghum - Retail,KG,cereals and tubers,250.0,XOF,Senegal,Kolda,2640.0,Kolda,421.0,65,15.0,5.0,1,421_65_15_5,,2020.0,Sorghum - Retail (KG),Sorghum,1.0,0.0,1586908800.0
+2020-05-15,Sorghum - Retail,KG,cereals and tubers,241.6666,XOF,Senegal,Dakar,2636.0,Tilene,447.0,65,15.0,5.0,1,447_65_15_5,,2020.0,Sorghum - Retail (KG),Sorghum,1.0,0.0,1589500800.0
+2020-06-15,Sorghum - Retail,KG,cereals and tubers,275.0,XOF,Senegal,Diourbel,47585.0,Touba,448.0,65,15.0,5.0,1,448_65_15_5,,2020.0,Sorghum - Retail (KG),Sorghum,1.0,0.0,1592179200.0
+2020-07-15,Sorghum - Retail,KG,cereals and tubers,275.0,XOF,Senegal,Kolda,2640.0,Kolda,421.0,65,15.0,5.0,1,421_65_15_5,,2020.0,Sorghum - Retail (KG),Sorghum,1.0,0.0,1594771200.0
+2020-08-15,Sorghum - Retail,KG,cereals and tubers,250.0,XOF,Senegal,Kolda,2640.0,Sare Yoba,439.0,65,15.0,5.0,1,439_65_15_5,,2020.0,Sorghum - Retail (KG),Sorghum,1.0,0.0,1597449600.0
+2020-09-15,Sorghum - Retail,KG,cereals and tubers,250.0,XOF,Senegal,Dakar,2636.0,Tilene,447.0,65,15.0,5.0,1,447_65_15_5,,2020.0,Sorghum - Retail (KG),Sorghum,1.0,0.0,1600128000.0
+2020-10-15,Sorghum - Retail,KG,cereals and tubers,300.0,XOF,Senegal,Kedougou,1374.0,Kedougou,419.0,65,15.0,5.0,1,419_65_15_5,,2020.0,Sorghum - Retail (KG),Sorghum,1.0,0.0,1602720000.0
+2020-11-15,Sorghum - Retail,KG,cereals and tubers,250.0,XOF,Senegal,Thies,2644.0,Mbafaye,427.0,65,15.0,5.0,1,427_65_15_5,,2020.0,Sorghum - Retail (KG),Sorghum,1.0,0.0,1605398400.0
