@@ -1,0 +1,33 @@
+﻿_id,Category of Forest,Year,Area ('000 HA)
+1,Indegenous Closed Canopy Forest,1990,1240
+2,Indigenous Mangroves,1990,80
+3,Open Woodlands,1990,2015
+4,Public Plantation Forest,1990,170
+5,Private Plantation Forest,1990,68
+6,Sub-total Forest Land,1990,3573
+7,Bushland,1990,24800
+8,Farms with trees,1990,9420
+9,Indegenous Closed Canopy Forest,2000,1190
+10,Indigenous Mangroves,2000,80
+11,Open Woodlands,2000,2100
+12,Public Plantation Forest,2000,134
+13,Private Plantation Forest,2000,78
+14,Sub-total Forest Land,2000,3582
+15,Bushland,2000,24635
+16,Farms with trees,2000,10020
+17,Indegenous Closed Canopy Forest,2005,1165
+18,Indigenous Mangroves,2005,80
+19,Open Woodlands,2005,2075
+20,Public Plantation Forest,2005,119
+21,Private Plantation Forest,2005,83
+22,Sub-total Forest Land,2005,3522
+23,Bushland,2005,24570
+24,Farms with trees,2005,10320
+25,Indegenous Closed Canopy Forest,2010,1140
+26,Indigenous Mangroves,2010,80
+27,Open Woodlands,2010,2050
+28,Public Plantation Forest,2010,107
+29,Private Plantation Forest,2010,90
+30,Sub-total Forest Land,2010,3467
+31,Bushland,2010,24510
+32,Farms with trees,2010,10385
