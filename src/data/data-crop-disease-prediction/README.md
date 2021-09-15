@@ -17,7 +17,7 @@
 |Crop Disease Prediction - Dataset(11) |[Details-11](#details---11)|[Kaggle Download Link-11](https://www.kaggle.com/daoliu/plant-622/download)|
 |Crop Disease Prediction - Dataset(12) |[Details-12](#details---12)|[Kaggle Download Link-12](https://www.kaggle.com/dhenyd/chili-plant-disease)|
 |Crop Disease Prediction - Dataset(13) |[Details-13](#details---13)|[Kaggle Download Link-12](https://www.kaggle.com/coffeedisease/coffee-plant-disease/download)|
-
+|Crop Disease Prediction - Dataset(14) |[Details-14](#details---14)|[Kaggle Download Link-14](https://www.kaggle.com/c/plant-pathology-2021-fgvc8/data)|
 
 ### Details - 1 ###
 Plant Disease: 38 Classes
@@ -68,3 +68,6 @@ Chilli Plant Disease: 5 classes
 
 ### Details - 13 ###
 Coffee Plant Disease: 3 Classes
+
+### Details - 14 ###
+Diseases on Apple leaves
