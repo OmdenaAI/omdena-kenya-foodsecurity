@@ -1,1 +1,2 @@
-Tiff file 
+Tiff file containing the Nakuru County Forest/Non-forest data from the Global PALSAR-2/PALSAR Forest/Non-Forest Map
+Link: https://code.earthengine.google.com/cdccc53c05b7080fe669c400c54586c0
